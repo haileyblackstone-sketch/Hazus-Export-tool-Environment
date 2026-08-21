@@ -1,0 +1,85 @@
+{
+  "name": "lz4-c",
+  "version": "1.9.3",
+  "build": "h8ffe710_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "lz4-c-1.9.3-h8ffe710_0.tar.bz2",
+  "md5": "5c9a617ed4fbd41f8c564fab236dda60",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/lz4-c-1.9.3-h8ffe710_0.tar.bz2",
+  "sha256": "1bcfe48f86e2f4e0793e83bb52f48ff0900fd9e3a8bbc647fc15e71d6a0e4943",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "timestamp": 1609195244569,
+  "size": 136808,
+  "requested_spec": "lz4-c==1.9.3=h8ffe710_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\lz4-c-1.9.3-h8ffe710_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\lz4-c-1.9.3-h8ffe710_0",
+  "files": [
+    "Library/bin/liblz4.dll",
+    "Library/bin/lz4.exe",
+    "Library/include/lz4.h",
+    "Library/include/lz4frame.h",
+    "Library/include/lz4hc.h",
+    "Library/lib/liblz4.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/liblz4.dll",
+        "path_type": "hardlink",
+        "sha256": "21dbeaacb25639a8f75121b9e09437b7b0aa6b8edadbb66cf160854cc980db24",
+        "size_in_bytes": 113152,
+        "sha256_in_prefix": "21dbeaacb25639a8f75121b9e09437b7b0aa6b8edadbb66cf160854cc980db24"
+      },
+      {
+        "_path": "Library/bin/lz4.exe",
+        "path_type": "hardlink",
+        "sha256": "44653e4818dbf44b600bad79393a17ca8aeb6595f27c7e628c600fa7344d11f9",
+        "size_in_bytes": 154624,
+        "sha256_in_prefix": "44653e4818dbf44b600bad79393a17ca8aeb6595f27c7e628c600fa7344d11f9"
+      },
+      {
+        "_path": "Library/include/lz4.h",
+        "path_type": "hardlink",
+        "sha256": "c9b52a14c2c93fe5c435a09054cc8f1bf5d94a3ce1a38dc51296a92ce409f8e4",
+        "size_in_bytes": 40861,
+        "sha256_in_prefix": "c9b52a14c2c93fe5c435a09054cc8f1bf5d94a3ce1a38dc51296a92ce409f8e4"
+      },
+      {
+        "_path": "Library/include/lz4frame.h",
+        "path_type": "hardlink",
+        "sha256": "69edc35d9a4e62cfc5639150cfebff4e4749c4923bf7d89e77a8d5eda8daf661",
+        "size_in_bytes": 28899,
+        "sha256_in_prefix": "69edc35d9a4e62cfc5639150cfebff4e4749c4923bf7d89e77a8d5eda8daf661"
+      },
+      {
+        "_path": "Library/include/lz4hc.h",
+        "path_type": "hardlink",
+        "sha256": "295d766cd0769ffc74c63e83ca5b1dfc0da16916be79286f5eb5de5abd1611da",
+        "size_in_bytes": 20165,
+        "sha256_in_prefix": "295d766cd0769ffc74c63e83ca5b1dfc0da16916be79286f5eb5de5abd1611da"
+      },
+      {
+        "_path": "Library/lib/liblz4.lib",
+        "path_type": "hardlink",
+        "sha256": "6d31e0260e4dc35d638eb43f508477c61f0fe0e9fc1607ae42c8b499bdd7662c",
+        "size_in_bytes": 22478,
+        "sha256_in_prefix": "6d31e0260e4dc35d638eb43f508477c61f0fe0e9fc1607ae42c8b499bdd7662c"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\lz4-c-1.9.3-h8ffe710_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "lz4-c==1.9.3=h8ffe710_0"
+  ]
+}

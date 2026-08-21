@@ -1,0 +1,37 @@
+{
+  "name": "matplotlib",
+  "version": "3.3.2",
+  "build": "py39hcbf5309_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "matplotlib-3.3.2-py39hcbf5309_1.tar.bz2",
+  "md5": "06ad185584d18c071ba1a0332dbda192",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/matplotlib-3.3.2-py39hcbf5309_1.tar.bz2",
+  "sha256": "12dacc22768d557991af1d91292b02263c9a563fb13cc65ab010e7e4f525054a",
+  "depends": [
+    "matplotlib-base >=3.3.2,<3.3.3.0a0",
+    "pyqt",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "constrains": [],
+  "license": "LicenseRef-PSF-based",
+  "timestamp": 1604871812755,
+  "size": 6831,
+  "requested_spec": "matplotlib==3.3.2=py39hcbf5309_1",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\matplotlib-3.3.2-py39hcbf5309_1.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\matplotlib-3.3.2-py39hcbf5309_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\matplotlib-3.3.2-py39hcbf5309_1",
+    "type": 1
+  },
+  "requested_specs": [
+    "matplotlib==3.3.2=py39hcbf5309_1"
+  ]
+}

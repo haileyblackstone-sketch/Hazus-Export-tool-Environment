@@ -1,0 +1,154 @@
+{
+  "name": "utm",
+  "version": "0.6.0",
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "utm-0.6.0-pyh9f0ad1d_0.tar.bz2",
+  "md5": "07e2fbf7cc1e368bc47ff1c28befa109",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/utm-0.6.0-pyh9f0ad1d_0.tar.bz2",
+  "sha256": "55dcf5849263c70f1c25de27e8176ddb5ac0a30815df4dc6294bb120f77d9417",
+  "depends": [
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1598099826878,
+  "size": 9460,
+  "requested_spec": "utm==0.6.0=pyh9f0ad1d_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\utm-0.6.0-pyh9f0ad1d_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\utm-0.6.0-pyh9f0ad1d_0",
+  "files": [
+    "Scripts/utm-converter",
+    "Lib/site-packages/utm-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/utm-0.6.0.dist-info/LICENSE",
+    "Lib/site-packages/utm-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/utm-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/utm-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/utm-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/utm-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/utm-0.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/utm/__init__.py",
+    "Lib/site-packages/utm/conversion.py",
+    "Lib/site-packages/utm/error.py",
+    "Lib/site-packages/utm/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/utm/__pycache__/conversion.cpython-39.pyc",
+    "Lib/site-packages/utm/__pycache__/error.cpython-39.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "python-scripts/utm-converter",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/utm_1598099727147/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "95dcca61a2bdc5dd1d3be5741e5216e0e5834b5ea2d31137d8fbfc6e3c28184c",
+        "size_in_bytes": 1725,
+        "sha256_in_prefix": "251dd93e82366d5b0a31d2c33026bb6c27428da8261c8bf122393b16cc8ab9f2"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e570c323cb3ee69d159102b71460ef56f4d7f5ec9aa994fed376911184c86dcc",
+        "size_in_bytes": 1100,
+        "sha256_in_prefix": "e570c323cb3ee69d159102b71460ef56f4d7f5ec9aa994fed376911184c86dcc"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c784d76198d7c6dd6fa9f15346fdbe012f5e86f6e54d8e6fef64a4c3e1d2089a",
+        "size_in_bytes": 663,
+        "sha256_in_prefix": "c784d76198d7c6dd6fa9f15346fdbe012f5e86f6e54d8e6fef64a4c3e1d2089a"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4384d8bdf5ce84afb831a7201076b8966ad08d3eeb15d040e84cbf57b2b3e2d9",
+        "size_in_bytes": 1055,
+        "sha256_in_prefix": "4384d8bdf5ce84afb831a7201076b8966ad08d3eeb15d040e84cbf57b2b3e2d9"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9704e64fc6b89c6284c2f5b97b8011f78115f2485732d19776f4b55800bca36b",
+        "size_in_bytes": 99,
+        "sha256_in_prefix": "9704e64fc6b89c6284c2f5b97b8011f78115f2485732d19776f4b55800bca36b"
+      },
+      {
+        "_path": "site-packages/utm-0.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "39b424d7d2dd4fdb6b15d0f4fa1830f2be12a4ac251ab492036de00367025e8d",
+        "size_in_bytes": 4,
+        "sha256_in_prefix": "39b424d7d2dd4fdb6b15d0f4fa1830f2be12a4ac251ab492036de00367025e8d"
+      },
+      {
+        "_path": "site-packages/utm/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e6eb992f93d24c3c8c40bde79a114fae4a779aaafd92704e042468b8305f91cb",
+        "size_in_bytes": 154,
+        "sha256_in_prefix": "e6eb992f93d24c3c8c40bde79a114fae4a779aaafd92704e042468b8305f91cb"
+      },
+      {
+        "_path": "site-packages/utm/conversion.py",
+        "path_type": "hardlink",
+        "sha256": "cc34a59f7285d171ec4076f0b39a6f7dd743daed387a6b3bd7486dc23263da86",
+        "size_in_bytes": 9901,
+        "sha256_in_prefix": "cc34a59f7285d171ec4076f0b39a6f7dd743daed387a6b3bd7486dc23263da86"
+      },
+      {
+        "_path": "site-packages/utm/error.py",
+        "path_type": "hardlink",
+        "sha256": "247da0b964868d809d967d8841742df4583fb564e6c369ffda14deb9411d7cfe",
+        "size_in_bytes": 44,
+        "sha256_in_prefix": "247da0b964868d809d967d8841742df4583fb564e6c369ffda14deb9411d7cfe"
+      },
+      {
+        "_path": "Lib/site-packages/utm/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 336
+      },
+      {
+        "_path": "Lib/site-packages/utm/__pycache__/conversion.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 8288
+      },
+      {
+        "_path": "Lib/site-packages/utm/__pycache__/error.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 292
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\utm-0.6.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "utm==0.6.0=pyh9f0ad1d_0"
+  ]
+}

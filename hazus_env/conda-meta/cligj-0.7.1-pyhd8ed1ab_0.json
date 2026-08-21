@@ -1,0 +1,131 @@
+{
+  "name": "cligj",
+  "version": "0.7.1",
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "cligj-0.7.1-pyhd8ed1ab_0.tar.bz2",
+  "md5": "3170b1d23788c6b161dbd14bfb5c752e",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cligj-0.7.1-pyhd8ed1ab_0.tar.bz2",
+  "sha256": "a22ffd5a38f09a276c07a0f0201c09d72db9ee8666c51854a121d747bb7f94ba",
+  "depends": [
+    "click >=4.0,<8",
+    "python <4.0"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_python",
+  "timestamp": 1605902203703,
+  "size": 10230,
+  "requested_spec": "cligj==0.7.1=pyhd8ed1ab_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\cligj-0.7.1-pyhd8ed1ab_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\cligj-0.7.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/cligj-0.7.1.dist-info/INSTALLER",
+    "Lib/site-packages/cligj-0.7.1.dist-info/LICENSE",
+    "Lib/site-packages/cligj-0.7.1.dist-info/METADATA",
+    "Lib/site-packages/cligj-0.7.1.dist-info/RECORD",
+    "Lib/site-packages/cligj-0.7.1.dist-info/REQUESTED",
+    "Lib/site-packages/cligj-0.7.1.dist-info/WHEEL",
+    "Lib/site-packages/cligj-0.7.1.dist-info/direct_url.json",
+    "Lib/site-packages/cligj-0.7.1.dist-info/top_level.txt",
+    "Lib/site-packages/cligj/__init__.py",
+    "Lib/site-packages/cligj/features.py",
+    "Lib/site-packages/cligj/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/cligj/__pycache__/features.cpython-39.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "5902d716544ddf9a34849b345c391abaf7c21ca16ed22706d6ac2f5503712594",
+        "size_in_bytes": 1469,
+        "sha256_in_prefix": "5902d716544ddf9a34849b345c391abaf7c21ca16ed22706d6ac2f5503712594"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1eaddcdff443f059c9c22e46a8761d7277c8638c4617ed46c00a85beda5754a9",
+        "size_in_bytes": 4983,
+        "sha256_in_prefix": "1eaddcdff443f059c9c22e46a8761d7277c8638c4617ed46c00a85beda5754a9"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a0116e641bcaa2a4ed3db88e171e924d9e4096ab351aba74745c1ce982568e5c",
+        "size_in_bytes": 886,
+        "sha256_in_prefix": "a0116e641bcaa2a4ed3db88e171e924d9e4096ab351aba74745c1ce982568e5c"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5f605925ddeca5c10f8d3ceb2776dcc9c9a036465447d9e64c2d794fde5d8af0",
+        "size_in_bytes": 101,
+        "sha256_in_prefix": "5f605925ddeca5c10f8d3ceb2776dcc9c9a036465447d9e64c2d794fde5d8af0"
+      },
+      {
+        "_path": "site-packages/cligj-0.7.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1efcb5b6f8a233329b0750f70185c955ea3310957a4a00acf841c59e11a5c0c0",
+        "size_in_bytes": 6,
+        "sha256_in_prefix": "1efcb5b6f8a233329b0750f70185c955ea3310957a4a00acf841c59e11a5c0c0"
+      },
+      {
+        "_path": "site-packages/cligj/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "26edb4b5a9d4f41298176ffa42cdd07f3b83a43b03dadf14fd4a441a0c7e5218",
+        "size_in_bytes": 3876,
+        "sha256_in_prefix": "26edb4b5a9d4f41298176ffa42cdd07f3b83a43b03dadf14fd4a441a0c7e5218"
+      },
+      {
+        "_path": "site-packages/cligj/features.py",
+        "path_type": "hardlink",
+        "sha256": "1705478f488076ab4e3b2d2e0859650ba1f411536ab1fdc38e3f7d544058a825",
+        "size_in_bytes": 6905,
+        "sha256_in_prefix": "1705478f488076ab4e3b2d2e0859650ba1f411536ab1fdc38e3f7d544058a825"
+      },
+      {
+        "_path": "Lib/site-packages/cligj/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 3283
+      },
+      {
+        "_path": "Lib/site-packages/cligj/__pycache__/features.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 5008
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\cligj-0.7.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "cligj==0.7.1=pyhd8ed1ab_0"
+  ]
+}

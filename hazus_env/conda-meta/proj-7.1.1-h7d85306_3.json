@@ -1,0 +1,514 @@
+{
+  "name": "proj",
+  "version": "7.1.1",
+  "build": "h7d85306_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "proj-7.1.1-h7d85306_3.tar.bz2",
+  "md5": "d1b3dd2769021a394e5aa5a691027c40",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/proj-7.1.1-h7d85306_3.tar.bz2",
+  "sha256": "7d04931b1acda237c040a0d161cffb4c583cb89e0af84ca3d7b4512f0e88f589",
+  "depends": [
+    "libcurl >=7.71.1,<9.0a0",
+    "libtiff >=4.1.0,<4.5.0a0",
+    "sqlite >=3.33.0,<4.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "constrains": [
+    "proj4 999999999999"
+  ],
+  "license": "MIT",
+  "timestamp": 1602439959781,
+  "size": 2549444,
+  "requested_spec": "proj==7.1.1=h7d85306_3",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\proj-7.1.1-h7d85306_3.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\proj-7.1.1-h7d85306_3",
+  "files": [
+    "Library/bin/cct.exe",
+    "Library/bin/cs2cs.exe",
+    "Library/bin/geod.exe",
+    "Library/bin/gie.exe",
+    "Library/bin/proj.exe",
+    "Library/bin/proj_7_1.dll",
+    "Library/bin/projinfo.exe",
+    "Library/bin/projsync.exe",
+    "Library/include/geodesic.h",
+    "Library/include/proj.h",
+    "Library/include/proj/common.hpp",
+    "Library/include/proj/coordinateoperation.hpp",
+    "Library/include/proj/coordinatesystem.hpp",
+    "Library/include/proj/crs.hpp",
+    "Library/include/proj/datum.hpp",
+    "Library/include/proj/io.hpp",
+    "Library/include/proj/metadata.hpp",
+    "Library/include/proj/nn.hpp",
+    "Library/include/proj/util.hpp",
+    "Library/include/proj_api.h",
+    "Library/include/proj_constants.h",
+    "Library/include/proj_experimental.h",
+    "Library/lib/cmake/proj/proj-config-version.cmake",
+    "Library/lib/cmake/proj/proj-config.cmake",
+    "Library/lib/cmake/proj/proj-targets-release.cmake",
+    "Library/lib/cmake/proj/proj-targets.cmake",
+    "Library/lib/cmake/proj/proj4-targets-release.cmake",
+    "Library/lib/cmake/proj/proj4-targets.cmake",
+    "Library/lib/cmake/proj4/proj-targets-release.cmake",
+    "Library/lib/cmake/proj4/proj-targets.cmake",
+    "Library/lib/cmake/proj4/proj4-config-version.cmake",
+    "Library/lib/cmake/proj4/proj4-config.cmake",
+    "Library/lib/cmake/proj4/proj4-targets-release.cmake",
+    "Library/lib/cmake/proj4/proj4-targets.cmake",
+    "Library/lib/proj.lib",
+    "Library/share/man/man1/cct.1",
+    "Library/share/man/man1/cs2cs.1",
+    "Library/share/man/man1/geod.1",
+    "Library/share/man/man1/gie.1",
+    "Library/share/man/man1/proj.1",
+    "Library/share/man/man1/projinfo.1",
+    "Library/share/man/man1/projsync.1",
+    "Library/share/proj/CH",
+    "Library/share/proj/GL27",
+    "Library/share/proj/ITRF2000",
+    "Library/share/proj/ITRF2008",
+    "Library/share/proj/ITRF2014",
+    "Library/share/proj/nad.lst",
+    "Library/share/proj/nad27",
+    "Library/share/proj/nad83",
+    "Library/share/proj/other.extra",
+    "Library/share/proj/proj.db",
+    "Library/share/proj/proj.ini",
+    "Library/share/proj/world",
+    "etc/conda/activate.d/proj4-activate.bat",
+    "etc/conda/activate.d/proj4-activate.sh",
+    "etc/conda/deactivate.d/proj4-deactivate.bat",
+    "etc/conda/deactivate.d/proj4-deactivate.sh"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/cct.exe",
+        "path_type": "hardlink",
+        "sha256": "eacc1bb401fb533ddee1b455566975971c6f6ee46594b9c8ab4ca27a6f091b68",
+        "size_in_bytes": 29696,
+        "sha256_in_prefix": "eacc1bb401fb533ddee1b455566975971c6f6ee46594b9c8ab4ca27a6f091b68"
+      },
+      {
+        "_path": "Library/bin/cs2cs.exe",
+        "path_type": "hardlink",
+        "sha256": "216c1743e134827c053d9ec9b997b4ff1484757c873661330d8beca5ddac05af",
+        "size_in_bytes": 25088,
+        "sha256_in_prefix": "216c1743e134827c053d9ec9b997b4ff1484757c873661330d8beca5ddac05af"
+      },
+      {
+        "_path": "Library/bin/geod.exe",
+        "path_type": "hardlink",
+        "sha256": "974bd1564f2a33d1ac0724b432abf6fb44a39f74b2a4028214950b17c1fed05c",
+        "size_in_bytes": 19456,
+        "sha256_in_prefix": "974bd1564f2a33d1ac0724b432abf6fb44a39f74b2a4028214950b17c1fed05c"
+      },
+      {
+        "_path": "Library/bin/gie.exe",
+        "path_type": "hardlink",
+        "sha256": "fcc21f5abab52126575cfc79385283ba3077cd8cee97c54316406ef6c948c8f6",
+        "size_in_bytes": 41472,
+        "sha256_in_prefix": "fcc21f5abab52126575cfc79385283ba3077cd8cee97c54316406ef6c948c8f6"
+      },
+      {
+        "_path": "Library/bin/proj.exe",
+        "path_type": "hardlink",
+        "sha256": "e9178fbb26f7d5a0e1588744c54f86fbfdad0d444643c3ced764de51c8b83d01",
+        "size_in_bytes": 21504,
+        "sha256_in_prefix": "e9178fbb26f7d5a0e1588744c54f86fbfdad0d444643c3ced764de51c8b83d01"
+      },
+      {
+        "_path": "Library/bin/proj_7_1.dll",
+        "path_type": "hardlink",
+        "sha256": "3aae8d03d2d761863e8b08b874e986cda9930d1fa6214209d7e1d934a780aa21",
+        "size_in_bytes": 2909184,
+        "sha256_in_prefix": "3aae8d03d2d761863e8b08b874e986cda9930d1fa6214209d7e1d934a780aa21"
+      },
+      {
+        "_path": "Library/bin/projinfo.exe",
+        "path_type": "hardlink",
+        "sha256": "f732b7c383cf8e6720d487c48ec44f9dfae0b1d69bc6cd8e3aca7a006bc73a08",
+        "size_in_bytes": 102400,
+        "sha256_in_prefix": "f732b7c383cf8e6720d487c48ec44f9dfae0b1d69bc6cd8e3aca7a006bc73a08"
+      },
+      {
+        "_path": "Library/bin/projsync.exe",
+        "path_type": "hardlink",
+        "sha256": "b57759e898a48cec613fa127322230004d6fa89341c1023a27b624ad362d6741",
+        "size_in_bytes": 122880,
+        "sha256_in_prefix": "b57759e898a48cec613fa127322230004d6fa89341c1023a27b624ad362d6741"
+      },
+      {
+        "_path": "Library/include/geodesic.h",
+        "path_type": "hardlink",
+        "sha256": "6e16a43e18b32d9243ecbd8c47486aa104fd2b42b51607163c005c0d6eeb648c",
+        "size_in_bytes": 45257,
+        "sha256_in_prefix": "6e16a43e18b32d9243ecbd8c47486aa104fd2b42b51607163c005c0d6eeb648c"
+      },
+      {
+        "_path": "Library/include/proj.h",
+        "path_type": "hardlink",
+        "sha256": "272e08fc4caf646a85964bebf2846617c8ad893d47d3eb6b80f8d53f276f7e0b",
+        "size_in_bytes": 55663,
+        "sha256_in_prefix": "272e08fc4caf646a85964bebf2846617c8ad893d47d3eb6b80f8d53f276f7e0b"
+      },
+      {
+        "_path": "Library/include/proj/common.hpp",
+        "path_type": "hardlink",
+        "sha256": "d6f7ea38e0944453bf6f62e28a2c3f200844f3e914dc9cc2573ed77be247e559",
+        "size_in_bytes": 16115,
+        "sha256_in_prefix": "d6f7ea38e0944453bf6f62e28a2c3f200844f3e914dc9cc2573ed77be247e559"
+      },
+      {
+        "_path": "Library/include/proj/coordinateoperation.hpp",
+        "path_type": "hardlink",
+        "sha256": "1d0549f0ee20b09d07cd1820c1b1f776c6880cb16954c6b8f961f0c78153e27f",
+        "size_in_bytes": 78166,
+        "sha256_in_prefix": "1d0549f0ee20b09d07cd1820c1b1f776c6880cb16954c6b8f961f0c78153e27f"
+      },
+      {
+        "_path": "Library/include/proj/coordinatesystem.hpp",
+        "path_type": "hardlink",
+        "sha256": "d9aafda473d96be4886b6173c9a96e42a09f05b20068b6cdf1a58fc5454069b1",
+        "size_in_bytes": 25743,
+        "sha256_in_prefix": "d9aafda473d96be4886b6173c9a96e42a09f05b20068b6cdf1a58fc5454069b1"
+      },
+      {
+        "_path": "Library/include/proj/crs.hpp",
+        "path_type": "hardlink",
+        "sha256": "7daddbce7a241dc93f8288b1bc1270ab074b14053bcde38438b3a745341f1575",
+        "size_in_bytes": 56628,
+        "sha256_in_prefix": "7daddbce7a241dc93f8288b1bc1270ab074b14053bcde38438b3a745341f1575"
+      },
+      {
+        "_path": "Library/include/proj/datum.hpp",
+        "path_type": "hardlink",
+        "sha256": "9a76fe46e045390b72e23a664995e3f4486d5b719e3b8b7fedb508820ea9e990",
+        "size_in_bytes": 30398,
+        "sha256_in_prefix": "9a76fe46e045390b72e23a664995e3f4486d5b719e3b8b7fedb508820ea9e990"
+      },
+      {
+        "_path": "Library/include/proj/io.hpp",
+        "path_type": "hardlink",
+        "sha256": "b282c7ee95da62eb3152b0d9ff0bd99d518a5ec7603acd6a3c7d91ed7f47debe",
+        "size_in_bytes": 44820,
+        "sha256_in_prefix": "b282c7ee95da62eb3152b0d9ff0bd99d518a5ec7603acd6a3c7d91ed7f47debe"
+      },
+      {
+        "_path": "Library/include/proj/metadata.hpp",
+        "path_type": "hardlink",
+        "sha256": "406105b3070fba3104f8167231525d5189dcb0eb0855e8a5b6974816dbf79b5b",
+        "size_in_bytes": 16442,
+        "sha256_in_prefix": "406105b3070fba3104f8167231525d5189dcb0eb0855e8a5b6974816dbf79b5b"
+      },
+      {
+        "_path": "Library/include/proj/nn.hpp",
+        "path_type": "hardlink",
+        "sha256": "0edaf11f4b9b266e82517067648c8bc6e723a7375741d11e3e3bad84ab967a10",
+        "size_in_bytes": 15185,
+        "sha256_in_prefix": "0edaf11f4b9b266e82517067648c8bc6e723a7375741d11e3e3bad84ab967a10"
+      },
+      {
+        "_path": "Library/include/proj/util.hpp",
+        "path_type": "hardlink",
+        "sha256": "104952c1842f07f146c39f5c1b3093e7162f33ee65aa8c760557eb4f71a2fe4f",
+        "size_in_bytes": 25253,
+        "sha256_in_prefix": "104952c1842f07f146c39f5c1b3093e7162f33ee65aa8c760557eb4f71a2fe4f"
+      },
+      {
+        "_path": "Library/include/proj_api.h",
+        "path_type": "hardlink",
+        "sha256": "e171ed99f28ee310d69d50efd632b82447bd1d41b69116f88a6f5dc8c42edbc8",
+        "size_in_bytes": 8346,
+        "sha256_in_prefix": "e171ed99f28ee310d69d50efd632b82447bd1d41b69116f88a6f5dc8c42edbc8"
+      },
+      {
+        "_path": "Library/include/proj_constants.h",
+        "path_type": "hardlink",
+        "sha256": "7adabe0c27d56b6376adf20cd5083785bdf3b8943e4e6701b544574942f68efb",
+        "size_in_bytes": 26013,
+        "sha256_in_prefix": "7adabe0c27d56b6376adf20cd5083785bdf3b8943e4e6701b544574942f68efb"
+      },
+      {
+        "_path": "Library/include/proj_experimental.h",
+        "path_type": "hardlink",
+        "sha256": "b9352e3c3dbc3fb51d5ca2d6701a5a9609f9115fd817f5e1ff1e50e41ea32e58",
+        "size_in_bytes": 37661,
+        "sha256_in_prefix": "b9352e3c3dbc3fb51d5ca2d6701a5a9609f9115fd817f5e1ff1e50e41ea32e58"
+      },
+      {
+        "_path": "Library/lib/cmake/proj/proj-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "a56de5e6764be5dbccf85223802154c23990259774c6e1f3a9e76373b702f387",
+        "size_in_bytes": 2891,
+        "sha256_in_prefix": "a56de5e6764be5dbccf85223802154c23990259774c6e1f3a9e76373b702f387"
+      },
+      {
+        "_path": "Library/lib/cmake/proj/proj-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "70a1bf57f5ac9fa7c7722bdb707da2dd3a3f911ff1e19c7b124fb447113044b5",
+        "size_in_bytes": 907,
+        "sha256_in_prefix": "70a1bf57f5ac9fa7c7722bdb707da2dd3a3f911ff1e19c7b124fb447113044b5"
+      },
+      {
+        "_path": "Library/lib/cmake/proj/proj-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "ff2ad40b388dc55992d23b25d3d161e002a77dbd052abf0287897dedaa58293b",
+        "size_in_bytes": 874,
+        "sha256_in_prefix": "ff2ad40b388dc55992d23b25d3d161e002a77dbd052abf0287897dedaa58293b"
+      },
+      {
+        "_path": "Library/lib/cmake/proj/proj-targets.cmake",
+        "prefix_placeholder": "D:/bld/proj_1602438993054/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "665c501c2413cb2d21b15aeb5bee265060c8a230425d696183db71c7783c200e",
+        "size_in_bytes": 3670,
+        "sha256_in_prefix": "1280ed7087c9470482640f942b32ab4064e0d2bcd43ce4ef65610a6c018e917f"
+      },
+      {
+        "_path": "Library/lib/cmake/proj/proj4-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "d4fc8c6d5bec4eef1cd5f35eeb493242c40614a3a86ac216fab2d0be94cb56a8",
+        "size_in_bytes": 879,
+        "sha256_in_prefix": "d4fc8c6d5bec4eef1cd5f35eeb493242c40614a3a86ac216fab2d0be94cb56a8"
+      },
+      {
+        "_path": "Library/lib/cmake/proj/proj4-targets.cmake",
+        "prefix_placeholder": "D:/bld/proj_1602438993054/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "0e5fdd96c3339353b1ea14e934bc7ea16134533805c2f0c54b2be81f4e4b6f22",
+        "size_in_bytes": 3675,
+        "sha256_in_prefix": "b9ea45e4570036adb1f24a0d9de5279013098fe8bc7856ac338fcae7d609008d"
+      },
+      {
+        "_path": "Library/lib/cmake/proj4/proj-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "ff2ad40b388dc55992d23b25d3d161e002a77dbd052abf0287897dedaa58293b",
+        "size_in_bytes": 874,
+        "sha256_in_prefix": "ff2ad40b388dc55992d23b25d3d161e002a77dbd052abf0287897dedaa58293b"
+      },
+      {
+        "_path": "Library/lib/cmake/proj4/proj-targets.cmake",
+        "prefix_placeholder": "D:/bld/proj_1602438993054/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "665c501c2413cb2d21b15aeb5bee265060c8a230425d696183db71c7783c200e",
+        "size_in_bytes": 3670,
+        "sha256_in_prefix": "1280ed7087c9470482640f942b32ab4064e0d2bcd43ce4ef65610a6c018e917f"
+      },
+      {
+        "_path": "Library/lib/cmake/proj4/proj4-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "814bb82ed9bd23f1c938a477359510a2cd42a5478b4d52e5b83e60dabaa3c879",
+        "size_in_bytes": 2894,
+        "sha256_in_prefix": "814bb82ed9bd23f1c938a477359510a2cd42a5478b4d52e5b83e60dabaa3c879"
+      },
+      {
+        "_path": "Library/lib/cmake/proj4/proj4-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "5dd2328fe3487a8f2ec989e8d3166ecc9ad28d4628b1556fb4b0820d61471446",
+        "size_in_bytes": 922,
+        "sha256_in_prefix": "5dd2328fe3487a8f2ec989e8d3166ecc9ad28d4628b1556fb4b0820d61471446"
+      },
+      {
+        "_path": "Library/lib/cmake/proj4/proj4-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "d4fc8c6d5bec4eef1cd5f35eeb493242c40614a3a86ac216fab2d0be94cb56a8",
+        "size_in_bytes": 879,
+        "sha256_in_prefix": "d4fc8c6d5bec4eef1cd5f35eeb493242c40614a3a86ac216fab2d0be94cb56a8"
+      },
+      {
+        "_path": "Library/lib/cmake/proj4/proj4-targets.cmake",
+        "prefix_placeholder": "D:/bld/proj_1602438993054/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "0e5fdd96c3339353b1ea14e934bc7ea16134533805c2f0c54b2be81f4e4b6f22",
+        "size_in_bytes": 3675,
+        "sha256_in_prefix": "b9ea45e4570036adb1f24a0d9de5279013098fe8bc7856ac338fcae7d609008d"
+      },
+      {
+        "_path": "Library/lib/proj.lib",
+        "path_type": "hardlink",
+        "sha256": "f2343d352eba20fb98410cdf8894862da4d34f195e6fb809a55ccfb2d213dfc7",
+        "size_in_bytes": 755912,
+        "sha256_in_prefix": "f2343d352eba20fb98410cdf8894862da4d34f195e6fb809a55ccfb2d213dfc7"
+      },
+      {
+        "_path": "Library/share/man/man1/cct.1",
+        "path_type": "hardlink",
+        "sha256": "d6616727ad6a3e9a2892b2b2ed6cc7c4b0f214eb55b8c9d49db5db2cb84c6c6d",
+        "size_in_bytes": 6989,
+        "sha256_in_prefix": "d6616727ad6a3e9a2892b2b2ed6cc7c4b0f214eb55b8c9d49db5db2cb84c6c6d"
+      },
+      {
+        "_path": "Library/share/man/man1/cs2cs.1",
+        "path_type": "hardlink",
+        "sha256": "8db69447d12b98792bc3389787dd3c5d3597d3fa681a837c9146da1147c46fc7",
+        "size_in_bytes": 10089,
+        "sha256_in_prefix": "8db69447d12b98792bc3389787dd3c5d3597d3fa681a837c9146da1147c46fc7"
+      },
+      {
+        "_path": "Library/share/man/man1/geod.1",
+        "path_type": "hardlink",
+        "sha256": "b06511b75e4727944b689c0bb719db353276a4d884ee4dc67fb453a49f92a4b0",
+        "size_in_bytes": 7773,
+        "sha256_in_prefix": "b06511b75e4727944b689c0bb719db353276a4d884ee4dc67fb453a49f92a4b0"
+      },
+      {
+        "_path": "Library/share/man/man1/gie.1",
+        "path_type": "hardlink",
+        "sha256": "01f0b18829e4fb7ef68fd72473d2073725f5edb8df83907f27006252c363d4c8",
+        "size_in_bytes": 15074,
+        "sha256_in_prefix": "01f0b18829e4fb7ef68fd72473d2073725f5edb8df83907f27006252c363d4c8"
+      },
+      {
+        "_path": "Library/share/man/man1/proj.1",
+        "path_type": "hardlink",
+        "sha256": "b5c29c317a2c17c74b99059236a75846806950fa494e6000bb1417dd8c920bf8",
+        "size_in_bytes": 8241,
+        "sha256_in_prefix": "b5c29c317a2c17c74b99059236a75846806950fa494e6000bb1417dd8c920bf8"
+      },
+      {
+        "_path": "Library/share/man/man1/projinfo.1",
+        "path_type": "hardlink",
+        "sha256": "bdee67a02f0099745d0e86434add1edaebb6be6b07a1b3830d99a3a4483bd056",
+        "size_in_bytes": 18164,
+        "sha256_in_prefix": "bdee67a02f0099745d0e86434add1edaebb6be6b07a1b3830d99a3a4483bd056"
+      },
+      {
+        "_path": "Library/share/man/man1/projsync.1",
+        "path_type": "hardlink",
+        "sha256": "03298d7eb216d9d06649ce845d22b5874099c56287c413fc8a5541b109ea764a",
+        "size_in_bytes": 5649,
+        "sha256_in_prefix": "03298d7eb216d9d06649ce845d22b5874099c56287c413fc8a5541b109ea764a"
+      },
+      {
+        "_path": "Library/share/proj/CH",
+        "path_type": "hardlink",
+        "sha256": "11b0feacea88bc8fc99cac1423eced6fa7de479c0484fe39468e3cba330a0ce7",
+        "size_in_bytes": 1183,
+        "sha256_in_prefix": "11b0feacea88bc8fc99cac1423eced6fa7de479c0484fe39468e3cba330a0ce7"
+      },
+      {
+        "_path": "Library/share/proj/GL27",
+        "path_type": "hardlink",
+        "sha256": "85375e6315d6f644e4577dadf3c5f157528ad15b715c99b287bddab23d44193d",
+        "size_in_bytes": 728,
+        "sha256_in_prefix": "85375e6315d6f644e4577dadf3c5f157528ad15b715c99b287bddab23d44193d"
+      },
+      {
+        "_path": "Library/share/proj/ITRF2000",
+        "path_type": "hardlink",
+        "sha256": "5225c3b3367a37021e639cfd5bd1521d2bd5d00cbc474cd6b3b3827615a4fe72",
+        "size_in_bytes": 2099,
+        "sha256_in_prefix": "5225c3b3367a37021e639cfd5bd1521d2bd5d00cbc474cd6b3b3827615a4fe72"
+      },
+      {
+        "_path": "Library/share/proj/ITRF2008",
+        "path_type": "hardlink",
+        "sha256": "c4dad7ef98f31e16fba3d72701c6d3a55fc9975a6ae6b5fd830b8e61ba68bf1e",
+        "size_in_bytes": 3660,
+        "sha256_in_prefix": "c4dad7ef98f31e16fba3d72701c6d3a55fc9975a6ae6b5fd830b8e61ba68bf1e"
+      },
+      {
+        "_path": "Library/share/proj/ITRF2014",
+        "path_type": "hardlink",
+        "sha256": "e6b225d14232caff90067c8cecc52147a8fae771e181fa41f04f1e55049cde4e",
+        "size_in_bytes": 3468,
+        "sha256_in_prefix": "e6b225d14232caff90067c8cecc52147a8fae771e181fa41f04f1e55049cde4e"
+      },
+      {
+        "_path": "Library/share/proj/nad.lst",
+        "path_type": "hardlink",
+        "sha256": "1a28ed872fd1550f5bf7b5a5e5bfc5e7500b5f94c9745b84a1d156b32039928c",
+        "size_in_bytes": 6385,
+        "sha256_in_prefix": "1a28ed872fd1550f5bf7b5a5e5bfc5e7500b5f94c9745b84a1d156b32039928c"
+      },
+      {
+        "_path": "Library/share/proj/nad27",
+        "path_type": "hardlink",
+        "sha256": "0bc231922461ac758922c6a7251e96d7e53e656608b1b4f06b7848fa8fc25520",
+        "size_in_bytes": 19535,
+        "sha256_in_prefix": "0bc231922461ac758922c6a7251e96d7e53e656608b1b4f06b7848fa8fc25520"
+      },
+      {
+        "_path": "Library/share/proj/nad83",
+        "path_type": "hardlink",
+        "sha256": "9a6260c8680abe5216ca8fe985998fababc121b0032879a821d75cae3411dc96",
+        "size_in_bytes": 16593,
+        "sha256_in_prefix": "9a6260c8680abe5216ca8fe985998fababc121b0032879a821d75cae3411dc96"
+      },
+      {
+        "_path": "Library/share/proj/other.extra",
+        "path_type": "hardlink",
+        "sha256": "c1ef74c0a9b3e1f42a576c15bc43666c135b7e9361db5727a353204da279ccbb",
+        "size_in_bytes": 3915,
+        "sha256_in_prefix": "c1ef74c0a9b3e1f42a576c15bc43666c135b7e9361db5727a353204da279ccbb"
+      },
+      {
+        "_path": "Library/share/proj/proj.db",
+        "path_type": "hardlink",
+        "sha256": "14ea7286918658f8677438597aec6f5d4fc2fb58059ddb53704d13d5b2463a00",
+        "size_in_bytes": 6782976,
+        "sha256_in_prefix": "14ea7286918658f8677438597aec6f5d4fc2fb58059ddb53704d13d5b2463a00"
+      },
+      {
+        "_path": "Library/share/proj/proj.ini",
+        "path_type": "hardlink",
+        "sha256": "1a827e8a275c584de08f4105ca6d96691dab8dcf18aa807e0f924c87609306b0",
+        "size_in_bytes": 846,
+        "sha256_in_prefix": "1a827e8a275c584de08f4105ca6d96691dab8dcf18aa807e0f924c87609306b0"
+      },
+      {
+        "_path": "Library/share/proj/world",
+        "path_type": "hardlink",
+        "sha256": "f271cd3e56c7759d2fcfbbbd39870264eb81064155713c04fc92eadd30adeb48",
+        "size_in_bytes": 7079,
+        "sha256_in_prefix": "f271cd3e56c7759d2fcfbbbd39870264eb81064155713c04fc92eadd30adeb48"
+      },
+      {
+        "_path": "etc/conda/activate.d/proj4-activate.bat",
+        "path_type": "hardlink",
+        "sha256": "a633e4df8559b1a36a88e4d8b79908f57627e2811d45668c37f2b1274fa99896",
+        "size_in_bytes": 443,
+        "sha256_in_prefix": "a633e4df8559b1a36a88e4d8b79908f57627e2811d45668c37f2b1274fa99896"
+      },
+      {
+        "_path": "etc/conda/activate.d/proj4-activate.sh",
+        "path_type": "hardlink",
+        "sha256": "890c11577562a519980ff3bd876939a3d1fcbfa5345e8d78eaa5214bda9856c4",
+        "size_in_bytes": 615,
+        "sha256_in_prefix": "890c11577562a519980ff3bd876939a3d1fcbfa5345e8d78eaa5214bda9856c4"
+      },
+      {
+        "_path": "etc/conda/deactivate.d/proj4-deactivate.bat",
+        "path_type": "hardlink",
+        "sha256": "0ab7df4848d9b0070fc4339fffdfe8d14fb6c39fcc843b2b3790e37c178c7647",
+        "size_in_bytes": 203,
+        "sha256_in_prefix": "0ab7df4848d9b0070fc4339fffdfe8d14fb6c39fcc843b2b3790e37c178c7647"
+      },
+      {
+        "_path": "etc/conda/deactivate.d/proj4-deactivate.sh",
+        "path_type": "hardlink",
+        "sha256": "6ff9e27996b92f6b8d7775cf2a9fd10604e6bb7a47b2fd3bd4e7e0e891efb19b",
+        "size_in_bytes": 215,
+        "sha256_in_prefix": "6ff9e27996b92f6b8d7775cf2a9fd10604e6bb7a47b2fd3bd4e7e0e891efb19b"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\proj-7.1.1-h7d85306_3",
+    "type": 1
+  },
+  "requested_specs": [
+    "proj==7.1.1=h7d85306_3"
+  ]
+}

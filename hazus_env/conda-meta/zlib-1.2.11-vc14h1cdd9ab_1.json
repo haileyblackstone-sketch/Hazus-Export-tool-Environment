@@ -1,0 +1,110 @@
+{
+  "name": "zlib",
+  "version": "1.2.11",
+  "build": "vc14h1cdd9ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "subdir": "win-64",
+  "fn": "zlib-1.2.11-vc14h1cdd9ab_1.tar.bz2",
+  "md5": "4e2394286375c49f880e159a7efae05f",
+  "url": "https://conda.anaconda.org/anaconda/win-64/zlib-1.2.11-vc14h1cdd9ab_1.tar.bz2",
+  "sha256": "cf7f895c0ff7f238ed02182a89864386bfc198674dc280002ff4a47ae0993b0e",
+  "depends": [
+    "vc 14.*"
+  ],
+  "constrains": [],
+  "license": "zlib",
+  "timestamp": 1505893885745,
+  "size": 119752,
+  "requested_spec": "zlib==1.2.11=vc14h1cdd9ab_1",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\zlib-1.2.11-vc14h1cdd9ab_1.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\zlib-1.2.11-vc14h1cdd9ab_1",
+  "files": [
+    "Library/bin/zlib.dll",
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    "Library/share/pkgconfig/zlib.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/zlib.dll",
+        "path_type": "hardlink",
+        "sha256": "9e31f112ab330062e0b72f6d4e44f245f21844b973a092f92bbf3de774b8068f",
+        "size_in_bytes": 83968,
+        "sha256_in_prefix": "9e31f112ab330062e0b72f6d4e44f245f21844b973a092f92bbf3de774b8068f"
+      },
+      {
+        "_path": "Library/include/zconf.h",
+        "path_type": "hardlink",
+        "sha256": "7f4e7f02c4c1b7ef830a8b4331e1ba04f34e97f2c0dcdd81f967ff16fd5ee6d0",
+        "size_in_bytes": 16885,
+        "sha256_in_prefix": "7f4e7f02c4c1b7ef830a8b4331e1ba04f34e97f2c0dcdd81f967ff16fd5ee6d0"
+      },
+      {
+        "_path": "Library/include/zlib.h",
+        "path_type": "hardlink",
+        "sha256": "4ddc82b4af931ab55f44d977bde81bfbc4151b5dcdccc03142831a301b5ec3c8",
+        "size_in_bytes": 96239,
+        "sha256_in_prefix": "4ddc82b4af931ab55f44d977bde81bfbc4151b5dcdccc03142831a301b5ec3c8"
+      },
+      {
+        "_path": "Library/lib/z.lib",
+        "path_type": "hardlink",
+        "sha256": "49b512611c58a8e07ec09fba51d5ddcaa188a6d8717e41b9fb681566e5b10473",
+        "size_in_bytes": 16228,
+        "sha256_in_prefix": "49b512611c58a8e07ec09fba51d5ddcaa188a6d8717e41b9fb681566e5b10473"
+      },
+      {
+        "_path": "Library/lib/zdll.lib",
+        "path_type": "hardlink",
+        "sha256": "49b512611c58a8e07ec09fba51d5ddcaa188a6d8717e41b9fb681566e5b10473",
+        "size_in_bytes": 16228,
+        "sha256_in_prefix": "49b512611c58a8e07ec09fba51d5ddcaa188a6d8717e41b9fb681566e5b10473"
+      },
+      {
+        "_path": "Library/lib/zlib.lib",
+        "path_type": "hardlink",
+        "sha256": "49b512611c58a8e07ec09fba51d5ddcaa188a6d8717e41b9fb681566e5b10473",
+        "size_in_bytes": 16228,
+        "sha256_in_prefix": "49b512611c58a8e07ec09fba51d5ddcaa188a6d8717e41b9fb681566e5b10473"
+      },
+      {
+        "_path": "Library/lib/zlibstatic.lib",
+        "path_type": "hardlink",
+        "sha256": "d132952581f5b7de5530f80f3c52b25ae56085869e9fd5440b0014a5baf75501",
+        "size_in_bytes": 181342,
+        "sha256_in_prefix": "d132952581f5b7de5530f80f3c52b25ae56085869e9fd5440b0014a5baf75501"
+      },
+      {
+        "_path": "Library/share/man/man3/zlib.3",
+        "path_type": "hardlink",
+        "sha256": "5abef003e545566e5599e5ab2e7528e978be59d54546b19d763d062f7a69bac7",
+        "size_in_bytes": 4477,
+        "sha256_in_prefix": "5abef003e545566e5599e5ab2e7528e978be59d54546b19d763d062f7a69bac7"
+      },
+      {
+        "_path": "Library/share/pkgconfig/zlib.pc",
+        "prefix_placeholder": "C:/Users/builder/mc3/conda-bld/zlib_1505893854057/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "617fc7d202b5f19f0199618334a3acde895c41ff14306ce31616526704e6ef7f",
+        "size_in_bytes": 545,
+        "sha256_in_prefix": "b9d09234995ad9b0643b3e46b1f66d0fe9589c1f4eb4f7145ef0c554b923bb01"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\zlib-1.2.11-vc14h1cdd9ab_1",
+    "type": 1
+  },
+  "requested_specs": [
+    "zlib==1.2.11=vc14h1cdd9ab_1"
+  ]
+}

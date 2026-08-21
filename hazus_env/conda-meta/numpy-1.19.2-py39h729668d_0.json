@@ -1,0 +1,42 @@
+{
+  "name": "numpy",
+  "version": "1.19.2",
+  "build": "py39h729668d_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "numpy-1.19.2-py39h729668d_0.conda",
+  "md5": "62943c1895049986777d4ad97e8014a6",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-1.19.2-py39h729668d_0.conda",
+  "sha256": "0e0de26c98db268cd272c744898026d00615efc851cee15d4cecd402a6241de4",
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2019.4,<2021.0a0",
+    "mkl-service >=2,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.19.2 py39hbd0edd7_0",
+    "python >=3.9,<3.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD 3-Clause",
+  "timestamp": 1607448380667,
+  "size": 22790,
+  "requested_spec": "numpy==1.19.2=py39h729668d_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\numpy-1.19.2-py39h729668d_0.conda",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\numpy-1.19.2-py39h729668d_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\numpy-1.19.2-py39h729668d_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "numpy==1.19.2=py39h729668d_0"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "vc",
+  "version": "14.2",
+  "build": "hb210afc_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "vc-14.2-hb210afc_2.tar.bz2",
+  "md5": "6852e7ea3601522ab1d4fa60fec8c4fe",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.2-hb210afc_2.tar.bz2",
+  "sha256": "69993f10d3cab02713c652fca4dfe4e983a010ed3d9a7b9090276a7c0006dd46",
+  "depends": [
+    "vs2015_runtime >=14.28.29325"
+  ],
+  "constrains": [],
+  "track_features": "vc14",
+  "license": "BSD-3-Clause",
+  "timestamp": 1608609146555,
+  "size": 12420,
+  "requested_spec": "vc==14.2=hb210afc_2",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\vc-14.2-hb210afc_2.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\vc-14.2-hb210afc_2",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\vc-14.2-hb210afc_2",
+    "type": 1
+  },
+  "requested_specs": [
+    "vc==14.2=hb210afc_2"
+  ]
+}

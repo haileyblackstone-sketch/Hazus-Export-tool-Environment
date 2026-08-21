@@ -1,0 +1,111 @@
+{
+  "name": "pyodbc",
+  "version": "4.0.30",
+  "build": "py39h415ef7b_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "pyodbc-4.0.30-py39h415ef7b_1.tar.bz2",
+  "md5": "e50a2848dce26c1e2d218b5023730e3b",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pyodbc-4.0.30-py39h415ef7b_1.tar.bz2",
+  "sha256": "02bf5eb5051ab9b812361c52004ab4bdc7ce0e50b3dd07496cbb6311e2a4a4c0",
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1610634075456,
+  "size": 72137,
+  "requested_spec": "pyodbc==4.0.30=py39h415ef7b_1",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\pyodbc-4.0.30-py39h415ef7b_1.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\pyodbc-4.0.30-py39h415ef7b_1",
+  "files": [
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/INSTALLER",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/LICENSE.txt",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/METADATA",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/RECORD",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/REQUESTED",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/WHEEL",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/direct_url.json",
+    "Lib/site-packages/pyodbc-4.0.30.dist-info/top_level.txt",
+    "Lib/site-packages/pyodbc.cp39-win_amd64.pyd"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "size_in_bytes": 868,
+        "sha256_in_prefix": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2ea2f7e2645f6f0e24355c2f9e44d01bf9ba6fd8fdf323125deb54061dde1db6",
+        "size_in_bytes": 2123,
+        "sha256_in_prefix": "2ea2f7e2645f6f0e24355c2f9e44d01bf9ba6fd8fdf323125deb54061dde1db6"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3354e8266e7f4b068339a02ded6360c1fb4d1d44338d9c100338a4ec992fc591",
+        "size_in_bytes": 750,
+        "sha256_in_prefix": "3354e8266e7f4b068339a02ded6360c1fb4d1d44338d9c100338a4ec992fc591"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1",
+        "size_in_bytes": 100,
+        "sha256_in_prefix": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "66ae295cdb6716e3471e5836589b0c381a1ea23580205c385b3858e6a9c54fd6",
+        "size_in_bytes": 67,
+        "sha256_in_prefix": "66ae295cdb6716e3471e5836589b0c381a1ea23580205c385b3858e6a9c54fd6"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc-4.0.30.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "df48ef61c0ae97aff0036e8e4f9734ebc1801f3a902e977d59f4349924ac0d35",
+        "size_in_bytes": 7,
+        "sha256_in_prefix": "df48ef61c0ae97aff0036e8e4f9734ebc1801f3a902e977d59f4349924ac0d35"
+      },
+      {
+        "_path": "Lib/site-packages/pyodbc.cp39-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "71790a796993d8c8c279887ab596d7ea2e3bd629ff8571b86b1c41e46f28e449",
+        "size_in_bytes": 151040,
+        "sha256_in_prefix": "71790a796993d8c8c279887ab596d7ea2e3bd629ff8571b86b1c41e46f28e449"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\pyodbc-4.0.30-py39h415ef7b_1",
+    "type": 1
+  },
+  "requested_specs": [
+    "pyodbc==4.0.30=py39h415ef7b_1"
+  ]
+}

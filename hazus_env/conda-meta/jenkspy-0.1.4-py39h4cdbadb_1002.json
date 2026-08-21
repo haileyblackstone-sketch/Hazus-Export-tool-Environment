@@ -1,0 +1,135 @@
+{
+  "name": "jenkspy",
+  "version": "0.1.4",
+  "build": "py39h4cdbadb_1002",
+  "build_number": 1002,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "jenkspy-0.1.4-py39h4cdbadb_1002.tar.bz2",
+  "md5": "c67e3a5875c1b8a79b956d91e39e9158",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/jenkspy-0.1.4-py39h4cdbadb_1002.tar.bz2",
+  "sha256": "939598ba94dc7e205ec5b60d100ae9e943c8a36a20d976c386f0ef53e7137cb3",
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1602415593708,
+  "size": 37660,
+  "requested_spec": "jenkspy==0.1.4=py39h4cdbadb_1002",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\jenkspy-0.1.4-py39h4cdbadb_1002.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\jenkspy-0.1.4-py39h4cdbadb_1002",
+  "files": [
+    "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/PKG-INFO",
+    "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/SOURCES.txt",
+    "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/dependency_links.txt",
+    "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/top_level.txt",
+    "Lib/site-packages/jenkspy/__init__.py",
+    "Lib/site-packages/jenkspy/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/jenkspy/__pycache__/core.cpython-39.pyc",
+    "Lib/site-packages/jenkspy/core.py",
+    "Lib/site-packages/jenkspy/jenks.cp39-win_amd64.pyd",
+    "Lib/site-packages/jenkspy/src/_jenks.c",
+    "Lib/site-packages/jenkspy/src/jenks.c",
+    "Lib/site-packages/jenkspy/src/jenks.pyx"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "cf11e152649202b0434e66fef4a55b283382b1f2c483e07a42314277086e5af6",
+        "size_in_bytes": 648,
+        "sha256_in_prefix": "cf11e152649202b0434e66fef4a55b283382b1f2c483e07a42314277086e5af6"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "b54ef6dcb9020667f4fd6699fc1f74e20d1a0f37e27724042afda4d31ea18af2",
+        "size_in_bytes": 386,
+        "sha256_in_prefix": "b54ef6dcb9020667f4fd6699fc1f74e20d1a0f37e27724042afda4d31ea18af2"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1,
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy-0.1.4-py3.9.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "136fa50b2c244f80a809567323d0724e56a0d75047c88c5b2d43463c9348be10",
+        "size_in_bytes": 8,
+        "sha256_in_prefix": "136fa50b2c244f80a809567323d0724e56a0d75047c88c5b2d43463c9348be10"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "82208698a05818191043abc9c7ccb8e987c023f52455daa370ae6e55971eafdc",
+        "size_in_bytes": 129,
+        "sha256_in_prefix": "82208698a05818191043abc9c7ccb8e987c023f52455daa370ae6e55971eafdc"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9032fba84f9c1c8d11a9941a776ee44be0c5fcef2db883afb5a19bbad7160fd2",
+        "size_in_bytes": 217,
+        "sha256_in_prefix": "9032fba84f9c1c8d11a9941a776ee44be0c5fcef2db883afb5a19bbad7160fd2"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/__pycache__/core.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "04cd727cdf0bcdce2a95b15b477c2d9ff2ffc76b3e274e2d85d1086f9e64c11e",
+        "size_in_bytes": 1569,
+        "sha256_in_prefix": "04cd727cdf0bcdce2a95b15b477c2d9ff2ffc76b3e274e2d85d1086f9e64c11e"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/core.py",
+        "path_type": "hardlink",
+        "sha256": "f2b488d5c9a0fc6ab483782c99497d455af6e4f2a01ba0a1a5fab72deda17837",
+        "size_in_bytes": 1479,
+        "sha256_in_prefix": "f2b488d5c9a0fc6ab483782c99497d455af6e4f2a01ba0a1a5fab72deda17837"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/jenks.cp39-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "61041015e8179de492ef63a28a8b98bff714fbee84c1bfc06f461aa103567715",
+        "size_in_bytes": 25600,
+        "sha256_in_prefix": "61041015e8179de492ef63a28a8b98bff714fbee84c1bfc06f461aa103567715"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/src/_jenks.c",
+        "path_type": "hardlink",
+        "sha256": "42ecb3888f6e886e3f2d7dc61ed91d2040eb3a5f802539be64653bed9cc8c8d1",
+        "size_in_bytes": 2182,
+        "sha256_in_prefix": "42ecb3888f6e886e3f2d7dc61ed91d2040eb3a5f802539be64653bed9cc8c8d1"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/src/jenks.c",
+        "path_type": "hardlink",
+        "sha256": "5eed6cd771035b432bef17a992b112bd51534b67fbe5e9911fc64b66de7d2c91",
+        "size_in_bytes": 115223,
+        "sha256_in_prefix": "5eed6cd771035b432bef17a992b112bd51534b67fbe5e9911fc64b66de7d2c91"
+      },
+      {
+        "_path": "Lib/site-packages/jenkspy/src/jenks.pyx",
+        "path_type": "hardlink",
+        "sha256": "94c4cb2e9c19c6e7daa3810a035ce34946b86e56937501fb00e9411198e644d1",
+        "size_in_bytes": 899,
+        "sha256_in_prefix": "94c4cb2e9c19c6e7daa3810a035ce34946b86e56937501fb00e9411198e644d1"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\jenkspy-0.1.4-py39h4cdbadb_1002",
+    "type": 1
+  },
+  "requested_specs": [
+    "jenkspy==0.1.4=py39h4cdbadb_1002"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "certifi",
+  "version": "2025.10.5",
+  "build": "py39haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "certifi-2025.10.5-py39haa95532_0.conda",
+  "md5": "51d9fdd840bdfacbcc717499c31c0bd7",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2025.10.5-py39haa95532_0.conda",
+  "sha256": "1c7f11a199cbf9d06dd796cef183bd3048f1a32898e91bd96ad1adfa7f4f4181",
+  "depends": [
+    "python >=3.9,<3.10.0a0"
+  ],
+  "constrains": [],
+  "license": "MPL-2.0",
+  "timestamp": 1759786115000,
+  "size": 160893,
+  "_requested_specs": [],
+  "package_tarball_full_path": "C:\\anaconda\\pkgs\\certifi-2025.10.5-py39haa95532_0.conda",
+  "extracted_package_dir": "C:\\anaconda\\pkgs\\certifi-2025.10.5-py39haa95532_0",
+  "files": [
+    "Lib/site-packages/certifi-2025.10.5.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/METADATA",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/RECORD",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-39.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-39.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\anaconda\\pkgs\\certifi-2025.10.5-py39haa95532_0",
+    "type": 1
+  }
+}

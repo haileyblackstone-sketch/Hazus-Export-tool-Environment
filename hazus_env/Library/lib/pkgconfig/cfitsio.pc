@@ -1,0 +1,12 @@
+prefix=C:/condaenvs/hazus_env/Library
+exec_prefix=C:/condaenvs/hazus_env/Library
+libdir=
+includedir=C:/condaenvs/hazus_env/Library/include/
+
+Name: cfitsio
+Description: FITS File Subroutine Library
+URL: https://heasarc.gsfc.nasa.gov/fitsio/
+Version: .
+Libs: -L${libdir} 
+Libs.private: -lm
+Cflags: -I${includedir}

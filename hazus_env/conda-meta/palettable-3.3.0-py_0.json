@@ -1,0 +1,691 @@
+{
+  "name": "palettable",
+  "version": "3.3.0",
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "palettable-3.3.0-py_0.tar.bz2",
+  "md5": "a6c85d491cb6a9fbf429d3ffc9bebb39",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/palettable-3.3.0-py_0.tar.bz2",
+  "sha256": "6676eda520ceffaa2dc9da2ace9039c7d02775ba85104c35e30b93753da785aa",
+  "depends": [
+    "python",
+    "setuptools"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT",
+  "package_type": "noarch_python",
+  "timestamp": 1567941336665,
+  "size": 88334,
+  "requested_spec": "palettable==3.3.0=py_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\palettable-3.3.0-py_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\palettable-3.3.0-py_0",
+  "files": [
+    "Lib/site-packages/palettable-3.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/palettable-3.3.0.dist-info/METADATA",
+    "Lib/site-packages/palettable-3.3.0.dist-info/RECORD",
+    "Lib/site-packages/palettable-3.3.0.dist-info/WHEEL",
+    "Lib/site-packages/palettable-3.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/palettable/__init__.py",
+    "Lib/site-packages/palettable/cartocolors/__init__.py",
+    "Lib/site-packages/palettable/cartocolors/cartocolorspalette.py",
+    "Lib/site-packages/palettable/cartocolors/colormaps.py",
+    "Lib/site-packages/palettable/cartocolors/diverging.py",
+    "Lib/site-packages/palettable/cartocolors/qualitative.py",
+    "Lib/site-packages/palettable/cartocolors/sequential.py",
+    "Lib/site-packages/palettable/cmocean/__init__.py",
+    "Lib/site-packages/palettable/cmocean/cmoceanpalette.py",
+    "Lib/site-packages/palettable/cmocean/colormaps.py",
+    "Lib/site-packages/palettable/cmocean/diverging.py",
+    "Lib/site-packages/palettable/cmocean/sequential.py",
+    "Lib/site-packages/palettable/colorbrewer/__init__.py",
+    "Lib/site-packages/palettable/colorbrewer/colorbrewer.py",
+    "Lib/site-packages/palettable/colorbrewer/data/colorbrewer_all_schemes.csv",
+    "Lib/site-packages/palettable/colorbrewer/data/colorbrewer_all_schemes.json",
+    "Lib/site-packages/palettable/colorbrewer/data/colorbrewer_licence.txt",
+    "Lib/site-packages/palettable/colorbrewer/data/colorbrewer_schemes_csv_to_json.py",
+    "Lib/site-packages/palettable/colorbrewer/diverging.py",
+    "Lib/site-packages/palettable/colorbrewer/qualitative.py",
+    "Lib/site-packages/palettable/colorbrewer/sequential.py",
+    "Lib/site-packages/palettable/cubehelix/__init__.py",
+    "Lib/site-packages/palettable/cubehelix/cubehelix.py",
+    "Lib/site-packages/palettable/lightbartlein/__init__.py",
+    "Lib/site-packages/palettable/lightbartlein/colordata.py",
+    "Lib/site-packages/palettable/lightbartlein/diverging.py",
+    "Lib/site-packages/palettable/lightbartlein/lightbartlein.py",
+    "Lib/site-packages/palettable/lightbartlein/sequential.py",
+    "Lib/site-packages/palettable/matplotlib/__init__.py",
+    "Lib/site-packages/palettable/matplotlib/colormaps.py",
+    "Lib/site-packages/palettable/matplotlib/matplotlib.py",
+    "Lib/site-packages/palettable/mycarta/__init__.py",
+    "Lib/site-packages/palettable/mycarta/colordata.py",
+    "Lib/site-packages/palettable/mycarta/mycarta.py",
+    "Lib/site-packages/palettable/palette.py",
+    "Lib/site-packages/palettable/scientific/__init__.py",
+    "Lib/site-packages/palettable/scientific/colordata.py",
+    "Lib/site-packages/palettable/scientific/diverging.py",
+    "Lib/site-packages/palettable/scientific/scientific.py",
+    "Lib/site-packages/palettable/scientific/sequential.py",
+    "Lib/site-packages/palettable/tableau/__init__.py",
+    "Lib/site-packages/palettable/tableau/tableau.py",
+    "Lib/site-packages/palettable/utils.py",
+    "Lib/site-packages/palettable/wesanderson/__init__.py",
+    "Lib/site-packages/palettable/wesanderson/wesanderson.py",
+    "Lib/site-packages/palettable/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/cartocolors/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/cartocolors/__pycache__/cartocolorspalette.cpython-39.pyc",
+    "Lib/site-packages/palettable/cartocolors/__pycache__/colormaps.cpython-39.pyc",
+    "Lib/site-packages/palettable/cartocolors/__pycache__/diverging.cpython-39.pyc",
+    "Lib/site-packages/palettable/cartocolors/__pycache__/qualitative.cpython-39.pyc",
+    "Lib/site-packages/palettable/cartocolors/__pycache__/sequential.cpython-39.pyc",
+    "Lib/site-packages/palettable/cmocean/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/cmocean/__pycache__/cmoceanpalette.cpython-39.pyc",
+    "Lib/site-packages/palettable/cmocean/__pycache__/colormaps.cpython-39.pyc",
+    "Lib/site-packages/palettable/cmocean/__pycache__/diverging.cpython-39.pyc",
+    "Lib/site-packages/palettable/cmocean/__pycache__/sequential.cpython-39.pyc",
+    "Lib/site-packages/palettable/colorbrewer/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/colorbrewer/__pycache__/colorbrewer.cpython-39.pyc",
+    "Lib/site-packages/palettable/colorbrewer/data/__pycache__/colorbrewer_schemes_csv_to_json.cpython-39.pyc",
+    "Lib/site-packages/palettable/colorbrewer/__pycache__/diverging.cpython-39.pyc",
+    "Lib/site-packages/palettable/colorbrewer/__pycache__/qualitative.cpython-39.pyc",
+    "Lib/site-packages/palettable/colorbrewer/__pycache__/sequential.cpython-39.pyc",
+    "Lib/site-packages/palettable/cubehelix/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/cubehelix/__pycache__/cubehelix.cpython-39.pyc",
+    "Lib/site-packages/palettable/lightbartlein/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/lightbartlein/__pycache__/colordata.cpython-39.pyc",
+    "Lib/site-packages/palettable/lightbartlein/__pycache__/diverging.cpython-39.pyc",
+    "Lib/site-packages/palettable/lightbartlein/__pycache__/lightbartlein.cpython-39.pyc",
+    "Lib/site-packages/palettable/lightbartlein/__pycache__/sequential.cpython-39.pyc",
+    "Lib/site-packages/palettable/matplotlib/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/matplotlib/__pycache__/colormaps.cpython-39.pyc",
+    "Lib/site-packages/palettable/matplotlib/__pycache__/matplotlib.cpython-39.pyc",
+    "Lib/site-packages/palettable/mycarta/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/mycarta/__pycache__/colordata.cpython-39.pyc",
+    "Lib/site-packages/palettable/mycarta/__pycache__/mycarta.cpython-39.pyc",
+    "Lib/site-packages/palettable/__pycache__/palette.cpython-39.pyc",
+    "Lib/site-packages/palettable/scientific/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/scientific/__pycache__/colordata.cpython-39.pyc",
+    "Lib/site-packages/palettable/scientific/__pycache__/diverging.cpython-39.pyc",
+    "Lib/site-packages/palettable/scientific/__pycache__/scientific.cpython-39.pyc",
+    "Lib/site-packages/palettable/scientific/__pycache__/sequential.cpython-39.pyc",
+    "Lib/site-packages/palettable/tableau/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/tableau/__pycache__/tableau.cpython-39.pyc",
+    "Lib/site-packages/palettable/__pycache__/utils.cpython-39.pyc",
+    "Lib/site-packages/palettable/wesanderson/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/palettable/wesanderson/__pycache__/wesanderson.cpython-39.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/palettable-3.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/palettable-3.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "be4d899907f64eb204fc9364fe31f57fb2a56b50646fc7eb5774e3bd7c9eb091",
+        "size_in_bytes": 1717,
+        "sha256_in_prefix": "be4d899907f64eb204fc9364fe31f57fb2a56b50646fc7eb5774e3bd7c9eb091"
+      },
+      {
+        "_path": "site-packages/palettable-3.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "b85cbb0c2868c931c2a42a933b59b69ce34ba2d6716e23677511d6f80dcefb7c",
+        "size_in_bytes": 6236,
+        "sha256_in_prefix": "b85cbb0c2868c931c2a42a933b59b69ce34ba2d6716e23677511d6f80dcefb7c"
+      },
+      {
+        "_path": "site-packages/palettable-3.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110,
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba"
+      },
+      {
+        "_path": "site-packages/palettable-3.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "15f5f56d33965e9c0c8456302929a73a1a4c5cc47352938dfcbb6c46cfb1f8e2",
+        "size_in_bytes": 11,
+        "sha256_in_prefix": "15f5f56d33965e9c0c8456302929a73a1a4c5cc47352938dfcbb6c46cfb1f8e2"
+      },
+      {
+        "_path": "site-packages/palettable/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a9e5e40f6edf4df94beb9aef6d3d8350ca08ad252a6a32c908886eff251977fc",
+        "size_in_bytes": 481,
+        "sha256_in_prefix": "a9e5e40f6edf4df94beb9aef6d3d8350ca08ad252a6a32c908886eff251977fc"
+      },
+      {
+        "_path": "site-packages/palettable/cartocolors/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "39828ad371f07ee764296b7501e694e9d2c605561bb44f269da7bbab516c89f5",
+        "size_in_bytes": 89,
+        "sha256_in_prefix": "39828ad371f07ee764296b7501e694e9d2c605561bb44f269da7bbab516c89f5"
+      },
+      {
+        "_path": "site-packages/palettable/cartocolors/cartocolorspalette.py",
+        "path_type": "hardlink",
+        "sha256": "64c0f7121409db1cd595f4794239259c0dc1fcbdbd56194d59a1b3cf3c3b9091",
+        "size_in_bytes": 932,
+        "sha256_in_prefix": "64c0f7121409db1cd595f4794239259c0dc1fcbdbd56194d59a1b3cf3c3b9091"
+      },
+      {
+        "_path": "site-packages/palettable/cartocolors/colormaps.py",
+        "path_type": "hardlink",
+        "sha256": "175cd0b09285010675a883196cc22ae32adc75408e80dd40c0f215750c07f635",
+        "size_in_bytes": 6104,
+        "sha256_in_prefix": "175cd0b09285010675a883196cc22ae32adc75408e80dd40c0f215750c07f635"
+      },
+      {
+        "_path": "site-packages/palettable/cartocolors/diverging.py",
+        "path_type": "hardlink",
+        "sha256": "c11bbf75079b15cd689047b44b8ce8f8f4761c4f6fc71ce137b725595112b7a7",
+        "size_in_bytes": 1049,
+        "sha256_in_prefix": "c11bbf75079b15cd689047b44b8ce8f8f4761c4f6fc71ce137b725595112b7a7"
+      },
+      {
+        "_path": "site-packages/palettable/cartocolors/qualitative.py",
+        "path_type": "hardlink",
+        "sha256": "c6f779cf327c304d7731179246dc7775891d91f13afc96906dcff61fc8326461",
+        "size_in_bytes": 1276,
+        "sha256_in_prefix": "c6f779cf327c304d7731179246dc7775891d91f13afc96906dcff61fc8326461"
+      },
+      {
+        "_path": "site-packages/palettable/cartocolors/sequential.py",
+        "path_type": "hardlink",
+        "sha256": "9266989090c89c064ab1929bcb6ee711f8a45910f6261309367ccb586cedda9b",
+        "size_in_bytes": 1410,
+        "sha256_in_prefix": "9266989090c89c064ab1929bcb6ee711f8a45910f6261309367ccb586cedda9b"
+      },
+      {
+        "_path": "site-packages/palettable/cmocean/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e514eed550758cc9e0458166f835b659711efb785c2eca4e2d4b48e2059d76cc",
+        "size_in_bytes": 76,
+        "sha256_in_prefix": "e514eed550758cc9e0458166f835b659711efb785c2eca4e2d4b48e2059d76cc"
+      },
+      {
+        "_path": "site-packages/palettable/cmocean/cmoceanpalette.py",
+        "path_type": "hardlink",
+        "sha256": "c7662526a0f1d27697ec0e50f69702512bdff8c7f97a556c3f095b5b98aeb55f",
+        "size_in_bytes": 884,
+        "sha256_in_prefix": "c7662526a0f1d27697ec0e50f69702512bdff8c7f97a556c3f095b5b98aeb55f"
+      },
+      {
+        "_path": "site-packages/palettable/cmocean/colormaps.py",
+        "path_type": "hardlink",
+        "sha256": "1ed58a22dae52e41d91b1d78557c2bf5c41afcaf2ca5d7a0c99e0f2d39449eb4",
+        "size_in_bytes": 101253,
+        "sha256_in_prefix": "1ed58a22dae52e41d91b1d78557c2bf5c41afcaf2ca5d7a0c99e0f2d39449eb4"
+      },
+      {
+        "_path": "site-packages/palettable/cmocean/diverging.py",
+        "path_type": "hardlink",
+        "sha256": "8f94038e3148036ef38c594a3d2acab3422155bc5ab17b3e9e9caf63cfe4478f",
+        "size_in_bytes": 817,
+        "sha256_in_prefix": "8f94038e3148036ef38c594a3d2acab3422155bc5ab17b3e9e9caf63cfe4478f"
+      },
+      {
+        "_path": "site-packages/palettable/cmocean/sequential.py",
+        "path_type": "hardlink",
+        "sha256": "f3e5849fea67efc428cee9a3144ae9bec691cd288e85e6a817eea01fb571b7e9",
+        "size_in_bytes": 1130,
+        "sha256_in_prefix": "f3e5849fea67efc428cee9a3144ae9bec691cd288e85e6a817eea01fb571b7e9"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a18ad07db038d7b7d578de60d074ba6943226dd818b3e27ee380b5c1996328cd",
+        "size_in_bytes": 116,
+        "sha256_in_prefix": "a18ad07db038d7b7d578de60d074ba6943226dd818b3e27ee380b5c1996328cd"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/colorbrewer.py",
+        "path_type": "hardlink",
+        "sha256": "6ac8ddc9db507c14f017456b1d126daab5eab7dbaa5697f98f469919436e717b",
+        "size_in_bytes": 6426,
+        "sha256_in_prefix": "6ac8ddc9db507c14f017456b1d126daab5eab7dbaa5697f98f469919436e717b"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/data/colorbrewer_all_schemes.csv",
+        "path_type": "hardlink",
+        "sha256": "3350e8470923704d5f1ce81f0e95fe7fa6722247a49394a5e95016fc9ce9e202",
+        "size_in_bytes": 37224,
+        "sha256_in_prefix": "3350e8470923704d5f1ce81f0e95fe7fa6722247a49394a5e95016fc9ce9e202"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/data/colorbrewer_all_schemes.json",
+        "path_type": "hardlink",
+        "sha256": "029bf7b7b8798ef7a5ffdd7fbbb6c3efc76fc8c4c9245c9cb7481fe4289b7e97",
+        "size_in_bytes": 105078,
+        "sha256_in_prefix": "029bf7b7b8798ef7a5ffdd7fbbb6c3efc76fc8c4c9245c9cb7481fe4289b7e97"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/data/colorbrewer_licence.txt",
+        "path_type": "hardlink",
+        "sha256": "5234708d1b321285ceb71a1fa2475a8ea515226fa626cd3cd71cbee48e0db8d6",
+        "size_in_bytes": 1712,
+        "sha256_in_prefix": "5234708d1b321285ceb71a1fa2475a8ea515226fa626cd3cd71cbee48e0db8d6"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/data/colorbrewer_schemes_csv_to_json.py",
+        "path_type": "hardlink",
+        "sha256": "71955fe572e278ec63337db8a3f7d100a18426f9c7a72314bda6bd9eda171321",
+        "size_in_bytes": 1879,
+        "sha256_in_prefix": "71955fe572e278ec63337db8a3f7d100a18426f9c7a72314bda6bd9eda171321"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/diverging.py",
+        "path_type": "hardlink",
+        "sha256": "34331cc2ee2b6f82fc30e2ddf708975aa19e3c8e9f4d5548b28abd30c3d3b5da",
+        "size_in_bytes": 135,
+        "sha256_in_prefix": "34331cc2ee2b6f82fc30e2ddf708975aa19e3c8e9f4d5548b28abd30c3d3b5da"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/qualitative.py",
+        "path_type": "hardlink",
+        "sha256": "78ad4bedf6e437e067a47647a3af2682eea144eafc6e6434c618c9a814f6875b",
+        "size_in_bytes": 137,
+        "sha256_in_prefix": "78ad4bedf6e437e067a47647a3af2682eea144eafc6e6434c618c9a814f6875b"
+      },
+      {
+        "_path": "site-packages/palettable/colorbrewer/sequential.py",
+        "path_type": "hardlink",
+        "sha256": "57418f747fcdd669053bea03ed0b89239e3a1fa5c30036756fa697031834c36f",
+        "size_in_bytes": 136,
+        "sha256_in_prefix": "57418f747fcdd669053bea03ed0b89239e3a1fa5c30036756fa697031834c36f"
+      },
+      {
+        "_path": "site-packages/palettable/cubehelix/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "73cc387de1d630d1b7f8ce49f2ae2765eba7d1fff19c06a9d8337342f7369a23",
+        "size_in_bytes": 153,
+        "sha256_in_prefix": "73cc387de1d630d1b7f8ce49f2ae2765eba7d1fff19c06a9d8337342f7369a23"
+      },
+      {
+        "_path": "site-packages/palettable/cubehelix/cubehelix.py",
+        "path_type": "hardlink",
+        "sha256": "da1640eabe9f584fc1bcba51b728d6d81a1c8b45be2849b592c4a193636511e1",
+        "size_in_bytes": 13383,
+        "sha256_in_prefix": "da1640eabe9f584fc1bcba51b728d6d81a1c8b45be2849b592c4a193636511e1"
+      },
+      {
+        "_path": "site-packages/palettable/lightbartlein/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e514eed550758cc9e0458166f835b659711efb785c2eca4e2d4b48e2059d76cc",
+        "size_in_bytes": 76,
+        "sha256_in_prefix": "e514eed550758cc9e0458166f835b659711efb785c2eca4e2d4b48e2059d76cc"
+      },
+      {
+        "_path": "site-packages/palettable/lightbartlein/colordata.py",
+        "path_type": "hardlink",
+        "sha256": "53659481f9657842a0adc855fe4588ab2bb01f1e08a1066de67eeae7ca944a3c",
+        "size_in_bytes": 4398,
+        "sha256_in_prefix": "53659481f9657842a0adc855fe4588ab2bb01f1e08a1066de67eeae7ca944a3c"
+      },
+      {
+        "_path": "site-packages/palettable/lightbartlein/diverging.py",
+        "path_type": "hardlink",
+        "sha256": "abd0296e81b4e7e68dfa5852f61576ada1ec743a095cf8a26126b95bead3deb4",
+        "size_in_bytes": 2181,
+        "sha256_in_prefix": "abd0296e81b4e7e68dfa5852f61576ada1ec743a095cf8a26126b95bead3deb4"
+      },
+      {
+        "_path": "site-packages/palettable/lightbartlein/lightbartlein.py",
+        "path_type": "hardlink",
+        "sha256": "00d37c0c802783a7486009f3da672e5bb2a20e27afca3e841da41a8abd4cca9e",
+        "size_in_bytes": 998,
+        "sha256_in_prefix": "00d37c0c802783a7486009f3da672e5bb2a20e27afca3e841da41a8abd4cca9e"
+      },
+      {
+        "_path": "site-packages/palettable/lightbartlein/sequential.py",
+        "path_type": "hardlink",
+        "sha256": "3a695e1d849347ba038bd20b983a37eb3f9078b6e657d7e18769401fca923957",
+        "size_in_bytes": 1194,
+        "sha256_in_prefix": "3a695e1d849347ba038bd20b983a37eb3f9078b6e657d7e18769401fca923957"
+      },
+      {
+        "_path": "site-packages/palettable/matplotlib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "484ce12750ff15c7563252090775047f2f8a6b46d8e31527c7f58665e914dd0e",
+        "size_in_bytes": 207,
+        "sha256_in_prefix": "484ce12750ff15c7563252090775047f2f8a6b46d8e31527c7f58665e914dd0e"
+      },
+      {
+        "_path": "site-packages/palettable/matplotlib/colormaps.py",
+        "path_type": "hardlink",
+        "sha256": "f8c30817458ab44c17ee277078ee04d52b2be886ebd1ad941bfdeccb11a804f2",
+        "size_in_bytes": 33280,
+        "sha256_in_prefix": "f8c30817458ab44c17ee277078ee04d52b2be886ebd1ad941bfdeccb11a804f2"
+      },
+      {
+        "_path": "site-packages/palettable/matplotlib/matplotlib.py",
+        "path_type": "hardlink",
+        "sha256": "91f17de227b5b21dbffd1ecedf425fa4eef5417ac9507052ec0eea5f83a13c7a",
+        "size_in_bytes": 1548,
+        "sha256_in_prefix": "91f17de227b5b21dbffd1ecedf425fa4eef5417ac9507052ec0eea5f83a13c7a"
+      },
+      {
+        "_path": "site-packages/palettable/mycarta/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "66cadfdac2fe1520d270af5a44a00f9651d22dc9e80bf1722d0c1c062585d21d",
+        "size_in_bytes": 204,
+        "sha256_in_prefix": "66cadfdac2fe1520d270af5a44a00f9651d22dc9e80bf1722d0c1c062585d21d"
+      },
+      {
+        "_path": "site-packages/palettable/mycarta/colordata.py",
+        "path_type": "hardlink",
+        "sha256": "e2744c2fc2d84b5b91190b67da6f34b0ac3d78cd8da4aff710ee9e8dafdf5de4",
+        "size_in_bytes": 15123,
+        "sha256_in_prefix": "e2744c2fc2d84b5b91190b67da6f34b0ac3d78cd8da4aff710ee9e8dafdf5de4"
+      },
+      {
+        "_path": "site-packages/palettable/mycarta/mycarta.py",
+        "path_type": "hardlink",
+        "sha256": "cc32d16de9132f37bdb9fcd96de9ed07e797053278209d646f7bb71efc88d9a4",
+        "size_in_bytes": 1491,
+        "sha256_in_prefix": "cc32d16de9132f37bdb9fcd96de9ed07e797053278209d646f7bb71efc88d9a4"
+      },
+      {
+        "_path": "site-packages/palettable/palette.py",
+        "path_type": "hardlink",
+        "sha256": "660c1844b72b36ffafe3140e625a1db7eac4fb259980b0af55fccc43905208e8",
+        "size_in_bytes": 7200,
+        "sha256_in_prefix": "660c1844b72b36ffafe3140e625a1db7eac4fb259980b0af55fccc43905208e8"
+      },
+      {
+        "_path": "site-packages/palettable/scientific/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e514eed550758cc9e0458166f835b659711efb785c2eca4e2d4b48e2059d76cc",
+        "size_in_bytes": 76,
+        "sha256_in_prefix": "e514eed550758cc9e0458166f835b659711efb785c2eca4e2d4b48e2059d76cc"
+      },
+      {
+        "_path": "site-packages/palettable/scientific/colordata.py",
+        "path_type": "hardlink",
+        "sha256": "bc0870bebf5916468102d3f7012bc5f694a82be64f6d64b89af3128614b5398e",
+        "size_in_bytes": 122443,
+        "sha256_in_prefix": "bc0870bebf5916468102d3f7012bc5f694a82be64f6d64b89af3128614b5398e"
+      },
+      {
+        "_path": "site-packages/palettable/scientific/diverging.py",
+        "path_type": "hardlink",
+        "sha256": "922c82acfdf1d51250384a489cad86e588b9af3d2b45882fe731015be1cce1d6",
+        "size_in_bytes": 799,
+        "sha256_in_prefix": "922c82acfdf1d51250384a489cad86e588b9af3d2b45882fe731015be1cce1d6"
+      },
+      {
+        "_path": "site-packages/palettable/scientific/scientific.py",
+        "path_type": "hardlink",
+        "sha256": "527615b8f9d2d69b13f9187e729ae75c127866896ed1b797d888e766b9e6bcac",
+        "size_in_bytes": 888,
+        "sha256_in_prefix": "527615b8f9d2d69b13f9187e729ae75c127866896ed1b797d888e766b9e6bcac"
+      },
+      {
+        "_path": "site-packages/palettable/scientific/sequential.py",
+        "path_type": "hardlink",
+        "sha256": "f2dbf48e124d344bfb10437e9d4ce658eabce9f9de6dd66c4069185a0c9c9ae5",
+        "size_in_bytes": 907,
+        "sha256_in_prefix": "f2dbf48e124d344bfb10437e9d4ce658eabce9f9de6dd66c4069185a0c9c9ae5"
+      },
+      {
+        "_path": "site-packages/palettable/tableau/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "01d13ce5fa0a5d7675531a66dff70ebac667ab7c2b78de16cc8c3225f3ec5904",
+        "size_in_bytes": 140,
+        "sha256_in_prefix": "01d13ce5fa0a5d7675531a66dff70ebac667ab7c2b78de16cc8c3225f3ec5904"
+      },
+      {
+        "_path": "site-packages/palettable/tableau/tableau.py",
+        "path_type": "hardlink",
+        "sha256": "20bc135ac1bfa77a36f46a56b3429fdbe36068e9a817a21e49ef7dbcb327ee65",
+        "size_in_bytes": 5921,
+        "sha256_in_prefix": "20bc135ac1bfa77a36f46a56b3429fdbe36068e9a817a21e49ef7dbcb327ee65"
+      },
+      {
+        "_path": "site-packages/palettable/utils.py",
+        "path_type": "hardlink",
+        "sha256": "0e2ce2df0461b03ef4d6b2bf2f8b9dbe60b2b3d26c1d32ebfdeb1ad5c894309c",
+        "size_in_bytes": 7124,
+        "sha256_in_prefix": "0e2ce2df0461b03ef4d6b2bf2f8b9dbe60b2b3d26c1d32ebfdeb1ad5c894309c"
+      },
+      {
+        "_path": "site-packages/palettable/wesanderson/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f6361c2b060fac12f097b215ec47775c3b21996e6c55df23017936a636d29bae",
+        "size_in_bytes": 156,
+        "sha256_in_prefix": "f6361c2b060fac12f097b215ec47775c3b21996e6c55df23017936a636d29bae"
+      },
+      {
+        "_path": "site-packages/palettable/wesanderson/wesanderson.py",
+        "path_type": "hardlink",
+        "sha256": "7e0337561fb884fa391a98e4f5656d145bc3caf6f2dad8194eb10726879ec071",
+        "size_in_bytes": 12587,
+        "sha256_in_prefix": "7e0337561fb884fa391a98e4f5656d145bc3caf6f2dad8194eb10726879ec071"
+      },
+      {
+        "_path": "Lib/site-packages/palettable/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 725
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cartocolors/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 275
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cartocolors/__pycache__/cartocolorspalette.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1344
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cartocolors/__pycache__/colormaps.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 7328
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cartocolors/__pycache__/diverging.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1042
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cartocolors/__pycache__/qualitative.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1048
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cartocolors/__pycache__/sequential.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1301
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cmocean/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 249
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cmocean/__pycache__/cmoceanpalette.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1288
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cmocean/__pycache__/colormaps.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 127428
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cmocean/__pycache__/diverging.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 896
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cmocean/__pycache__/sequential.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "Lib/site-packages/palettable/colorbrewer/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 303
+      },
+      {
+        "_path": "Lib/site-packages/palettable/colorbrewer/__pycache__/colorbrewer.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 6052
+      },
+      {
+        "_path": "Lib/site-packages/palettable/colorbrewer/data/__pycache__/colorbrewer_schemes_csv_to_json.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1725
+      },
+      {
+        "_path": "Lib/site-packages/palettable/colorbrewer/__pycache__/diverging.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 299
+      },
+      {
+        "_path": "Lib/site-packages/palettable/colorbrewer/__pycache__/qualitative.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 303
+      },
+      {
+        "_path": "Lib/site-packages/palettable/colorbrewer/__pycache__/sequential.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 301
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cubehelix/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 353
+      },
+      {
+        "_path": "Lib/site-packages/palettable/cubehelix/__pycache__/cubehelix.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 12000
+      },
+      {
+        "_path": "Lib/site-packages/palettable/lightbartlein/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "Lib/site-packages/palettable/lightbartlein/__pycache__/colordata.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 4853
+      },
+      {
+        "_path": "Lib/site-packages/palettable/lightbartlein/__pycache__/diverging.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1634
+      },
+      {
+        "_path": "Lib/site-packages/palettable/lightbartlein/__pycache__/lightbartlein.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1305
+      },
+      {
+        "_path": "Lib/site-packages/palettable/lightbartlein/__pycache__/sequential.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1033
+      },
+      {
+        "_path": "Lib/site-packages/palettable/matplotlib/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 400
+      },
+      {
+        "_path": "Lib/site-packages/palettable/matplotlib/__pycache__/colormaps.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 27278
+      },
+      {
+        "_path": "Lib/site-packages/palettable/matplotlib/__pycache__/matplotlib.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1760
+      },
+      {
+        "_path": "Lib/site-packages/palettable/mycarta/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 394
+      },
+      {
+        "_path": "Lib/site-packages/palettable/mycarta/__pycache__/colordata.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 19598
+      },
+      {
+        "_path": "Lib/site-packages/palettable/mycarta/__pycache__/mycarta.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1711
+      },
+      {
+        "_path": "Lib/site-packages/palettable/__pycache__/palette.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 7542
+      },
+      {
+        "_path": "Lib/site-packages/palettable/scientific/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 252
+      },
+      {
+        "_path": "Lib/site-packages/palettable/scientific/__pycache__/colordata.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 103588
+      },
+      {
+        "_path": "Lib/site-packages/palettable/scientific/__pycache__/diverging.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 976
+      },
+      {
+        "_path": "Lib/site-packages/palettable/scientific/__pycache__/scientific.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "Lib/site-packages/palettable/scientific/__pycache__/sequential.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1056
+      },
+      {
+        "_path": "Lib/site-packages/palettable/tableau/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 329
+      },
+      {
+        "_path": "Lib/site-packages/palettable/tableau/__pycache__/tableau.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 6178
+      },
+      {
+        "_path": "Lib/site-packages/palettable/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 7632
+      },
+      {
+        "_path": "Lib/site-packages/palettable/wesanderson/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 357
+      },
+      {
+        "_path": "Lib/site-packages/palettable/wesanderson/__pycache__/wesanderson.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 9778
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\palettable-3.3.0-py_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "palettable==3.3.0=py_0"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "name": "mapclassify",
+  "version": "2.4.2",
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "mapclassify-2.4.2-pyhd8ed1ab_0.tar.bz2",
+  "md5": "fd737bd0d7c8b31daa057000d2289bc7",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/mapclassify-2.4.2-pyhd8ed1ab_0.tar.bz2",
+  "sha256": "925918a86c25a3c1379ba9a02be838b3e9d689d29c51aa5e814df256449189d9",
+  "depends": [
+    "networkx",
+    "numpy >=1.3",
+    "pandas >=1.0",
+    "python >=3.5",
+    "scikit-learn",
+    "scipy >=1.0"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_python",
+  "timestamp": 1608686162554,
+  "size": 36641,
+  "requested_spec": "mapclassify==2.4.2=pyhd8ed1ab_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\mapclassify-2.4.2-pyhd8ed1ab_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\mapclassify-2.4.2-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/METADATA",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/RECORD",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/WHEEL",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/mapclassify-2.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/mapclassify/__init__.py",
+    "Lib/site-packages/mapclassify/_classify_API.py",
+    "Lib/site-packages/mapclassify/classifiers.py",
+    "Lib/site-packages/mapclassify/datasets/__init__.py",
+    "Lib/site-packages/mapclassify/datasets/calemp/__init__.py",
+    "Lib/site-packages/mapclassify/datasets/calemp/calempdensity.csv",
+    "Lib/site-packages/mapclassify/datasets/calemp/data.py",
+    "Lib/site-packages/mapclassify/greedy.py",
+    "Lib/site-packages/mapclassify/pooling.py",
+    "Lib/site-packages/mapclassify/tests/__init__.py",
+    "Lib/site-packages/mapclassify/tests/test_classify.py",
+    "Lib/site-packages/mapclassify/tests/test_greedy.py",
+    "Lib/site-packages/mapclassify/tests/test_mapclassify.py",
+    "Lib/site-packages/mapclassify/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/__pycache__/_classify_API.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/__pycache__/classifiers.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/datasets/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/datasets/calemp/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/datasets/calemp/__pycache__/data.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/__pycache__/greedy.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/__pycache__/pooling.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/tests/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/tests/__pycache__/test_classify.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/tests/__pycache__/test_greedy.cpython-39.pyc",
+    "Lib/site-packages/mapclassify/tests/__pycache__/test_mapclassify.cpython-39.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "5c8ea2baa2c9542916502816af63275c60ff8ef19ded72bcbff669298dd47f2c",
+        "size_in_bytes": 1474,
+        "sha256_in_prefix": "5c8ea2baa2c9542916502816af63275c60ff8ef19ded72bcbff669298dd47f2c"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fa325c7fad9687f62e7085dd42cb21d88f1692a13df1f3803dbb98c0535e4859",
+        "size_in_bytes": 10298,
+        "sha256_in_prefix": "fa325c7fad9687f62e7085dd42cb21d88f1692a13df1f3803dbb98c0535e4859"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "023cf00af3c87b6ab0b08967e83c0d4569fbc8085c48665aed27fa75cd2cf00a",
+        "size_in_bytes": 2545,
+        "sha256_in_prefix": "023cf00af3c87b6ab0b08967e83c0d4569fbc8085c48665aed27fa75cd2cf00a"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "3f05e3c0004a85e1aee29d6dcbb146cfd4150485c41fda95bdf11c346c27239f",
+        "size_in_bytes": 107,
+        "sha256_in_prefix": "3f05e3c0004a85e1aee29d6dcbb146cfd4150485c41fda95bdf11c346c27239f"
+      },
+      {
+        "_path": "site-packages/mapclassify-2.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "09731ae5e32215f8d4fb7d1f13afc5e178820fed8be89fe2ffe593d0e130c17a",
+        "size_in_bytes": 12,
+        "sha256_in_prefix": "09731ae5e32215f8d4fb7d1f13afc5e178820fed8be89fe2ffe593d0e130c17a"
+      },
+      {
+        "_path": "site-packages/mapclassify/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "08a3bd42132c8c976d7eba830b9c26150e551663a208bbbeeccd25e06c12389f",
+        "size_in_bytes": 528,
+        "sha256_in_prefix": "08a3bd42132c8c976d7eba830b9c26150e551663a208bbbeeccd25e06c12389f"
+      },
+      {
+        "_path": "site-packages/mapclassify/_classify_API.py",
+        "path_type": "hardlink",
+        "sha256": "2bf68db2ec97fdfa9a10401882258c945c22ee5e7ba1df335d493999a79be13c",
+        "size_in_bytes": 5315,
+        "sha256_in_prefix": "2bf68db2ec97fdfa9a10401882258c945c22ee5e7ba1df335d493999a79be13c"
+      },
+      {
+        "_path": "site-packages/mapclassify/classifiers.py",
+        "path_type": "hardlink",
+        "sha256": "276fa9f3a2fe8ea4701672c657aac5aac996b9b7238333ef6cdc70a9e5024e58",
+        "size_in_bytes": 78488,
+        "sha256_in_prefix": "276fa9f3a2fe8ea4701672c657aac5aac996b9b7238333ef6cdc70a9e5024e58"
+      },
+      {
+        "_path": "site-packages/mapclassify/datasets/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "11de123f42a5cf012aaf7ee8da3acf0dbbc244f6f819e0a421354b72cbab53e7",
+        "size_in_bytes": 46,
+        "sha256_in_prefix": "11de123f42a5cf012aaf7ee8da3acf0dbbc244f6f819e0a421354b72cbab53e7"
+      },
+      {
+        "_path": "site-packages/mapclassify/datasets/calemp/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cc2c9a894fd1e9607553c456bbbe220194c6d82eaf75f30d1ef449b5466eb4f8",
+        "size_in_bytes": 20,
+        "sha256_in_prefix": "cc2c9a894fd1e9607553c456bbbe220194c6d82eaf75f30d1ef449b5466eb4f8"
+      },
+      {
+        "_path": "site-packages/mapclassify/datasets/calemp/calempdensity.csv",
+        "path_type": "hardlink",
+        "sha256": "cf55ff42bf8d509432fbd709b131f522ee94100d3b1734df8e8b7bb99855a10c",
+        "size_in_bytes": 7063,
+        "sha256_in_prefix": "cf55ff42bf8d509432fbd709b131f522ee94100d3b1734df8e8b7bb99855a10c"
+      },
+      {
+        "_path": "site-packages/mapclassify/datasets/calemp/data.py",
+        "path_type": "hardlink",
+        "sha256": "ac5cc2b043e091dbd22af6acf3ce887422ca7ca813433ef5aaecc23c895cc40f",
+        "size_in_bytes": 333,
+        "sha256_in_prefix": "ac5cc2b043e091dbd22af6acf3ce887422ca7ca813433ef5aaecc23c895cc40f"
+      },
+      {
+        "_path": "site-packages/mapclassify/greedy.py",
+        "path_type": "hardlink",
+        "sha256": "488d5a5e3da5c449af9e181885852eff647e5f9eda693c6b16dae815ea5296eb",
+        "size_in_bytes": 11358,
+        "sha256_in_prefix": "488d5a5e3da5c449af9e181885852eff647e5f9eda693c6b16dae815ea5296eb"
+      },
+      {
+        "_path": "site-packages/mapclassify/pooling.py",
+        "path_type": "hardlink",
+        "sha256": "153fb391d96d3ffc95e013d75c3846acea7bff7c86de11b8deb5f1b5511f4e85",
+        "size_in_bytes": 3165,
+        "sha256_in_prefix": "153fb391d96d3ffc95e013d75c3846acea7bff7c86de11b8deb5f1b5511f4e85"
+      },
+      {
+        "_path": "site-packages/mapclassify/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/mapclassify/tests/test_classify.py",
+        "path_type": "hardlink",
+        "sha256": "2ac69aa4c83f6a94bf2428978c3aada1a7bcc57a9dffb2d7e72f62c7df4b6975",
+        "size_in_bytes": 2308,
+        "sha256_in_prefix": "2ac69aa4c83f6a94bf2428978c3aada1a7bcc57a9dffb2d7e72f62c7df4b6975"
+      },
+      {
+        "_path": "site-packages/mapclassify/tests/test_greedy.py",
+        "path_type": "hardlink",
+        "sha256": "089600d90ee135b6e01b90fbae2030cfeaa5005816454b9a253d4d73f72534d0",
+        "size_in_bytes": 5978,
+        "sha256_in_prefix": "089600d90ee135b6e01b90fbae2030cfeaa5005816454b9a253d4d73f72534d0"
+      },
+      {
+        "_path": "site-packages/mapclassify/tests/test_mapclassify.py",
+        "path_type": "hardlink",
+        "sha256": "4f919931d0c0d9500e9af44cba763de1eb5ef79b833fea629f18a1e40d037774",
+        "size_in_bytes": 19820,
+        "sha256_in_prefix": "4f919931d0c0d9500e9af44cba763de1eb5ef79b833fea629f18a1e40d037774"
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 724
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/__pycache__/_classify_API.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 4496
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/__pycache__/classifiers.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 72729
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/datasets/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/datasets/calemp/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/datasets/calemp/__pycache__/data.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 611
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/__pycache__/greedy.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 9153
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/__pycache__/pooling.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 3257
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 138
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/tests/__pycache__/test_classify.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1885
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/tests/__pycache__/test_greedy.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 5791
+      },
+      {
+        "_path": "Lib/site-packages/mapclassify/tests/__pycache__/test_mapclassify.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 22400
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\mapclassify-2.4.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "mapclassify==2.4.2=pyhd8ed1ab_0"
+  ]
+}

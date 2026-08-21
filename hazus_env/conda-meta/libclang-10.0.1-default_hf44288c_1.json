@@ -1,0 +1,45 @@
+{
+  "name": "libclang",
+  "version": "10.0.1",
+  "build": "default_hf44288c_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "libclang-10.0.1-default_hf44288c_1.tar.bz2",
+  "md5": "31398d417816eb1867f312458623ec14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libclang-10.0.1-default_hf44288c_1.tar.bz2",
+  "sha256": "eeb7e6042e76c251ffc312123d07f385f6256b0d863262097ab0f14c948994f2",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "timestamp": 1596862582530,
+  "size": 23093971,
+  "requested_spec": "libclang==10.0.1=default_hf44288c_1",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\libclang-10.0.1-default_hf44288c_1.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\libclang-10.0.1-default_hf44288c_1",
+  "files": [
+    "Library/bin/libclang.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/libclang.dll",
+        "path_type": "hardlink",
+        "sha256": "8921f21db5033fc5db305ef4a61d8b753def6bedc850df484cde26fec757f3c2",
+        "size_in_bytes": 70697984,
+        "sha256_in_prefix": "8921f21db5033fc5db305ef4a61d8b753def6bedc850df484cde26fec757f3c2"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\libclang-10.0.1-default_hf44288c_1",
+    "type": 1
+  },
+  "requested_specs": [
+    "libclang==10.0.1=default_hf44288c_1"
+  ]
+}

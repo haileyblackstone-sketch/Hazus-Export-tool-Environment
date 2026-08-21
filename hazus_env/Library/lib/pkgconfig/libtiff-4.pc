@@ -1,0 +1,11 @@
+prefix=C:/condaenvs/hazus_env/Library
+exec_prefix=C:/condaenvs/hazus_env/Library
+libdir=C:/condaenvs/hazus_env/Library/lib
+includedir=C:/condaenvs/hazus_env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LC:/condaenvs/hazus_env/Library/lib -ltiff
+Libs.private: 
+Cflags: -IC:/condaenvs/hazus_env/Library/include

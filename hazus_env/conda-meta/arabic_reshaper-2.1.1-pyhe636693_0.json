@@ -1,0 +1,197 @@
+{
+  "name": "arabic_reshaper",
+  "version": "2.1.1",
+  "build": "pyhe636693_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/nsls2forge/noarch",
+  "subdir": "noarch",
+  "fn": "arabic_reshaper-2.1.1-pyhe636693_0.tar.bz2",
+  "md5": "b9a96e5c935bb6a136790d50efe786b8",
+  "url": "https://conda.anaconda.org/nsls2forge/noarch/arabic_reshaper-2.1.1-pyhe636693_0.tar.bz2",
+  "sha256": "",
+  "depends": [
+    "configparser",
+    "future",
+    "python",
+    "setuptools"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "GPL-3.0",
+  "package_type": "noarch_python",
+  "timestamp": 1605179972541,
+  "size": 16890,
+  "requested_spec": "arabic_reshaper==2.1.1=pyhe636693_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\arabic_reshaper-2.1.1-pyhe636693_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\arabic_reshaper-2.1.1-pyhe636693_0",
+  "files": [
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/LICENSE",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/METADATA",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/RECORD",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/WHEEL",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/arabic_reshaper-2.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/arabic_reshaper/__init__.py",
+    "Lib/site-packages/arabic_reshaper/__version__.py",
+    "Lib/site-packages/arabic_reshaper/arabic_reshaper.py",
+    "Lib/site-packages/arabic_reshaper/default-config.ini",
+    "Lib/site-packages/arabic_reshaper/letters.py",
+    "Lib/site-packages/arabic_reshaper/ligatures.py",
+    "Lib/site-packages/arabic_reshaper/reshaper_config.py",
+    "Lib/site-packages/arabic_reshaper/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/arabic_reshaper/__pycache__/__version__.cpython-39.pyc",
+    "Lib/site-packages/arabic_reshaper/__pycache__/arabic_reshaper.cpython-39.pyc",
+    "Lib/site-packages/arabic_reshaper/__pycache__/letters.cpython-39.pyc",
+    "Lib/site-packages/arabic_reshaper/__pycache__/ligatures.cpython-39.pyc",
+    "Lib/site-packages/arabic_reshaper/__pycache__/reshaper_config.cpython-39.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cfc4b57d2d57747943c952a212b5885ffc6f23dfa048433288a545330b25b174",
+        "size_in_bytes": 1070,
+        "sha256_in_prefix": "cfc4b57d2d57747943c952a212b5885ffc6f23dfa048433288a545330b25b174"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b67d22ee44ad5b10e3f7c96b9354d893b19cedc2b9a7100291553e28d1309510",
+        "size_in_bytes": 1205,
+        "sha256_in_prefix": "b67d22ee44ad5b10e3f7c96b9354d893b19cedc2b9a7100291553e28d1309510"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8f9c0a3b87ffac03957a64ed1280c7e228601157ace0eb5dd6f5ad84d5097cd2",
+        "size_in_bytes": 1693,
+        "sha256_in_prefix": "8f9c0a3b87ffac03957a64ed1280c7e228601157ace0eb5dd6f5ad84d5097cd2"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6ed7952501d68aa15b374ca0fc45348612c67c0e6a30eaad6884b6a258ebe221",
+        "size_in_bytes": 111,
+        "sha256_in_prefix": "6ed7952501d68aa15b374ca0fc45348612c67c0e6a30eaad6884b6a258ebe221"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper-2.1.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e04a717f0e07c5a8e380d9b92f382654a709677bc473957110589d94ab3d15ea",
+        "size_in_bytes": 16,
+        "sha256_in_prefix": "e04a717f0e07c5a8e380d9b92f382654a709677bc473957110589d94ab3d15ea"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2226662a239fbabe983bbd3f5dcc38bfa0dd4dd04ce531090dbe17c9bda0c9e7",
+        "size_in_bytes": 508,
+        "sha256_in_prefix": "2226662a239fbabe983bbd3f5dcc38bfa0dd4dd04ce531090dbe17c9bda0c9e7"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/__version__.py",
+        "path_type": "hardlink",
+        "sha256": "021b76dbde63f05b3067e9cf6287c262bddf059e94c9fd2d8537e5e4e7369960",
+        "size_in_bytes": 22,
+        "sha256_in_prefix": "021b76dbde63f05b3067e9cf6287c262bddf059e94c9fd2d8537e5e4e7369960"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/arabic_reshaper.py",
+        "path_type": "hardlink",
+        "sha256": "d6714df0b21b0cf6a4954b2e4871f28f7934562621b8e11c9f341140d30a7c5f",
+        "size_in_bytes": 9341,
+        "sha256_in_prefix": "d6714df0b21b0cf6a4954b2e4871f28f7934562621b8e11c9f341140d30a7c5f"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/default-config.ini",
+        "path_type": "hardlink",
+        "sha256": "e3cdcdb7b345b4a8e982b95207fb2f89234a36f2fe78ead8d9bbdfc13d6f9831",
+        "size_in_bytes": 13342,
+        "sha256_in_prefix": "e3cdcdb7b345b4a8e982b95207fb2f89234a36f2fe78ead8d9bbdfc13d6f9831"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/letters.py",
+        "path_type": "hardlink",
+        "sha256": "2c810f249fe407cb33f5e40edced1465fe22c23ee1726e62557175af30eb59ea",
+        "size_in_bytes": 20034,
+        "sha256_in_prefix": "2c810f249fe407cb33f5e40edced1465fe22c23ee1726e62557175af30eb59ea"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/ligatures.py",
+        "path_type": "hardlink",
+        "sha256": "505294867d856de78acb5c35ba5134a8f020a5ab4c9affe022b6faf1ad602ea2",
+        "size_in_bytes": 33196,
+        "sha256_in_prefix": "505294867d856de78acb5c35ba5134a8f020a5ab4c9affe022b6faf1ad602ea2"
+      },
+      {
+        "_path": "site-packages/arabic_reshaper/reshaper_config.py",
+        "path_type": "hardlink",
+        "sha256": "5288e38ea32aa5601e466f0086e46561dece177cc898e63299492f48ceb8ef17",
+        "size_in_bytes": 4028,
+        "sha256_in_prefix": "5288e38ea32aa5601e466f0086e46561dece177cc898e63299492f48ceb8ef17"
+      },
+      {
+        "_path": "Lib/site-packages/arabic_reshaper/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 628
+      },
+      {
+        "_path": "Lib/site-packages/arabic_reshaper/__pycache__/__version__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 160
+      },
+      {
+        "_path": "Lib/site-packages/arabic_reshaper/__pycache__/arabic_reshaper.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 5165
+      },
+      {
+        "_path": "Lib/site-packages/arabic_reshaper/__pycache__/letters.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 7050
+      },
+      {
+        "_path": "Lib/site-packages/arabic_reshaper/__pycache__/ligatures.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 22785
+      },
+      {
+        "_path": "Lib/site-packages/arabic_reshaper/__pycache__/reshaper_config.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 2914
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\arabic_reshaper-2.1.1-pyhe636693_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "arabic_reshaper==2.1.1=pyhe636693_0"
+  ]
+}

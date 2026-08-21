@@ -1,0 +1,10 @@
+prefix=C:/condaenvs/hazus_env/Library
+libdir=C:/condaenvs/hazus_env/Library/lib
+includedir=C:/condaenvs/hazus_env/Library/include
+
+Name: poppler
+Description: PDF rendering library
+Version: 0.89.0
+
+Libs: -L${libdir} -lpoppler
+Cflags: -I${includedir}/poppler

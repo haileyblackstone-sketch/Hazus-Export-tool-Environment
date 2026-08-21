@@ -1,0 +1,593 @@
+{
+  "name": "pynacl",
+  "version": "1.4.0",
+  "build": "py39hb3671d1_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "pynacl-1.4.0-py39hb3671d1_2.tar.bz2",
+  "md5": "ae8d1ba6540737c2719f5811b24d87ba",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pynacl-1.4.0-py39hb3671d1_2.tar.bz2",
+  "sha256": "9aa06d43c4d398cc75763ecb88a54fb7527dfff14f3c335892a8320be5c079f4",
+  "depends": [
+    "cffi >=1.4.1",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "six",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1610673700163,
+  "size": 1511906,
+  "requested_spec": "pynacl==1.4.0=py39hb3671d1_2",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\pynacl-1.4.0-py39hb3671d1_2.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\pynacl-1.4.0-py39hb3671d1_2",
+  "files": [
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/LICENSE",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/METADATA",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/RECORD",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/WHEEL",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/PyNaCl-1.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/nacl/__init__.py",
+    "Lib/site-packages/nacl/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/encoding.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/exceptions.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/hash.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/hashlib.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/public.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/secret.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/signing.cpython-39.pyc",
+    "Lib/site-packages/nacl/__pycache__/utils.cpython-39.pyc",
+    "Lib/site-packages/nacl/_sodium.pyd",
+    "Lib/site-packages/nacl/bindings/__init__.py",
+    "Lib/site-packages/nacl/bindings/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_aead.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_box.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_core.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_generichash.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_hash.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_kx.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_pwhash.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_scalarmult.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_secretbox.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_secretstream.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_shorthash.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/crypto_sign.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/randombytes.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/sodium_core.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/__pycache__/utils.cpython-39.pyc",
+    "Lib/site-packages/nacl/bindings/crypto_aead.py",
+    "Lib/site-packages/nacl/bindings/crypto_box.py",
+    "Lib/site-packages/nacl/bindings/crypto_core.py",
+    "Lib/site-packages/nacl/bindings/crypto_generichash.py",
+    "Lib/site-packages/nacl/bindings/crypto_hash.py",
+    "Lib/site-packages/nacl/bindings/crypto_kx.py",
+    "Lib/site-packages/nacl/bindings/crypto_pwhash.py",
+    "Lib/site-packages/nacl/bindings/crypto_scalarmult.py",
+    "Lib/site-packages/nacl/bindings/crypto_secretbox.py",
+    "Lib/site-packages/nacl/bindings/crypto_secretstream.py",
+    "Lib/site-packages/nacl/bindings/crypto_shorthash.py",
+    "Lib/site-packages/nacl/bindings/crypto_sign.py",
+    "Lib/site-packages/nacl/bindings/randombytes.py",
+    "Lib/site-packages/nacl/bindings/sodium_core.py",
+    "Lib/site-packages/nacl/bindings/utils.py",
+    "Lib/site-packages/nacl/encoding.py",
+    "Lib/site-packages/nacl/exceptions.py",
+    "Lib/site-packages/nacl/hash.py",
+    "Lib/site-packages/nacl/hashlib.py",
+    "Lib/site-packages/nacl/public.py",
+    "Lib/site-packages/nacl/pwhash/__init__.py",
+    "Lib/site-packages/nacl/pwhash/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/nacl/pwhash/__pycache__/_argon2.cpython-39.pyc",
+    "Lib/site-packages/nacl/pwhash/__pycache__/argon2i.cpython-39.pyc",
+    "Lib/site-packages/nacl/pwhash/__pycache__/argon2id.cpython-39.pyc",
+    "Lib/site-packages/nacl/pwhash/__pycache__/scrypt.cpython-39.pyc",
+    "Lib/site-packages/nacl/pwhash/_argon2.py",
+    "Lib/site-packages/nacl/pwhash/argon2i.py",
+    "Lib/site-packages/nacl/pwhash/argon2id.py",
+    "Lib/site-packages/nacl/pwhash/scrypt.py",
+    "Lib/site-packages/nacl/secret.py",
+    "Lib/site-packages/nacl/signing.py",
+    "Lib/site-packages/nacl/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d3174ad63e721d4c9dccb8ad4320848992d314369bc46319720b5802c9153fe9",
+        "size_in_bytes": 9694,
+        "sha256_in_prefix": "d3174ad63e721d4c9dccb8ad4320848992d314369bc46319720b5802c9153fe9"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "55760a7e18fc1938ff11f1fb3d3fe818783108017b6289d0b6f9f402958b6e66",
+        "size_in_bytes": 8114,
+        "sha256_in_prefix": "55760a7e18fc1938ff11f1fb3d3fe818783108017b6289d0b6f9f402958b6e66"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "aa440aa36d91d6cddf13ef031af2a7f9b417ff302401eab5110bcba8ac74dd31",
+        "size_in_bytes": 4744,
+        "sha256_in_prefix": "aa440aa36d91d6cddf13ef031af2a7f9b417ff302401eab5110bcba8ac74dd31"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1",
+        "size_in_bytes": 100,
+        "sha256_in_prefix": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "69a54ecb8404e394ea12f256b7e66dce09f80690c33b13a880167c39bf51254d",
+        "size_in_bytes": 67,
+        "sha256_in_prefix": "69a54ecb8404e394ea12f256b7e66dce09f80690c33b13a880167c39bf51254d"
+      },
+      {
+        "_path": "Lib/site-packages/PyNaCl-1.4.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c1f744388fc6d912339b3b0cca1a6a3f5ec7521e8972a8bdf6da3d6872c4b25a",
+        "size_in_bytes": 13,
+        "sha256_in_prefix": "c1f744388fc6d912339b3b0cca1a6a3f5ec7521e8972a8bdf6da3d6872c4b25a"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1787d916466ae7fade0830e541bdcd547fcb735f8adc99ac01068e9c964fcd77",
+        "size_in_bytes": 1170,
+        "sha256_in_prefix": "1787d916466ae7fade0830e541bdcd547fcb735f8adc99ac01068e9c964fcd77"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6c71bbd33ac37554304bbde780bfa58d950a67d3e25b41530a919b27a50305c",
+        "size_in_bytes": 650,
+        "sha256_in_prefix": "c6c71bbd33ac37554304bbde780bfa58d950a67d3e25b41530a919b27a50305c"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/encoding.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "eff2d5b9a3f69b48ec137b6d298f96d1f7ab55bcfec3b3bba4f7ae8116f2442c",
+        "size_in_bytes": 3002,
+        "sha256_in_prefix": "eff2d5b9a3f69b48ec137b6d298f96d1f7ab55bcfec3b3bba4f7ae8116f2442c"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4585f3cc5c0ab32ac1f80bac80e1d86c8c8a321d41cbbfb2ec5ac1cbf3b8f895",
+        "size_in_bytes": 2468,
+        "sha256_in_prefix": "4585f3cc5c0ab32ac1f80bac80e1d86c8c8a321d41cbbfb2ec5ac1cbf3b8f895"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/hash.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b33b82a6db021140eee6626bc746d632a546f6ed0e32c5497aae3b550b3c8002",
+        "size_in_bytes": 4833,
+        "sha256_in_prefix": "b33b82a6db021140eee6626bc746d632a546f6ed0e32c5497aae3b550b3c8002"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/hashlib.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d105fd34afa7f85d94ff66f886326e3e6f8909bdf0a73b176a406327ea253a1",
+        "size_in_bytes": 4351,
+        "sha256_in_prefix": "7d105fd34afa7f85d94ff66f886326e3e6f8909bdf0a73b176a406327ea253a1"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/public.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "65076e15dfd542e00994c4d07312a5264bbd56b93f3c83fea828c9b4276a9057",
+        "size_in_bytes": 12055,
+        "sha256_in_prefix": "65076e15dfd542e00994c4d07312a5264bbd56b93f3c83fea828c9b4276a9057"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/secret.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2341ea21a1afdd81b47bf0c5c26662226ff55c6db394f47d5d3dc41ab3a2d942",
+        "size_in_bytes": 4540,
+        "sha256_in_prefix": "2341ea21a1afdd81b47bf0c5c26662226ff55c6db394f47d5d3dc41ab3a2d942"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/signing.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0ed73a88f32f0d8c79254950f8119a2e31eb50abca1c1a2c3f88c7730ed3e9f7",
+        "size_in_bytes": 7266,
+        "sha256_in_prefix": "0ed73a88f32f0d8c79254950f8119a2e31eb50abca1c1a2c3f88c7730ed3e9f7"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/__pycache__/utils.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "10ec62a8a51087fa90d5be557f1d7b77357334f2f6bf717cc7f759b426baba6e",
+        "size_in_bytes": 2358,
+        "sha256_in_prefix": "10ec62a8a51087fa90d5be557f1d7b77357334f2f6bf717cc7f759b426baba6e"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/_sodium.pyd",
+        "path_type": "hardlink",
+        "sha256": "e5fd2127b580880ba74c8bba354a1777104f3fe27f587711ae0745a40c03bfaf",
+        "size_in_bytes": 351744,
+        "sha256_in_prefix": "e5fd2127b580880ba74c8bba354a1777104f3fe27f587711ae0745a40c03bfaf"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "73c5a7de04c201949d2cc1b15673ae44286f87ef0bec3ae006278050546a43c4",
+        "size_in_bytes": 16883,
+        "sha256_in_prefix": "73c5a7de04c201949d2cc1b15673ae44286f87ef0bec3ae006278050546a43c4"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b26d794193e53e8b9b4ef6cea95059d75805ff54afb8bc3aa8ecc01c429bd32",
+        "size_in_bytes": 10601,
+        "sha256_in_prefix": "1b26d794193e53e8b9b4ef6cea95059d75805ff54afb8bc3aa8ecc01c429bd32"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_aead.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a286be84ab9a3273c26c1490dd5bc05ef355fc9cf6ab8ac292368065a327bff6",
+        "size_in_bytes": 8567,
+        "sha256_in_prefix": "a286be84ab9a3273c26c1490dd5bc05ef355fc9cf6ab8ac292368065a327bff6"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_box.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "21796568d7eb8babf30c4f6f46e0e4df5322a6ba9007230e6080fba4f3e0f78c",
+        "size_in_bytes": 7607,
+        "sha256_in_prefix": "21796568d7eb8babf30c4f6f46e0e4df5322a6ba9007230e6080fba4f3e0f78c"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_core.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "868b66ebf67d54c6d8c01b1e73fc8886c36af903bcc8b9e3428b50a528d258b7",
+        "size_in_bytes": 10512,
+        "sha256_in_prefix": "868b66ebf67d54c6d8c01b1e73fc8886c36af903bcc8b9e3428b50a528d258b7"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_generichash.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3458814bc7ec644c8812b3359f389cff84eeff5e24ca9d156483fb4c9d88f064",
+        "size_in_bytes": 6992,
+        "sha256_in_prefix": "3458814bc7ec644c8812b3359f389cff84eeff5e24ca9d156483fb4c9d88f064"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_hash.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed1a09bfeef9c7621d860eb0ea6636ba4ed2707bf2c4de4c9dba494ac13e7441",
+        "size_in_bytes": 1428,
+        "sha256_in_prefix": "ed1a09bfeef9c7621d860eb0ea6636ba4ed2707bf2c4de4c9dba494ac13e7441"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_kx.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "69d4dce3b3f561c27eadb7649770adc99f56d47e18131fc647a896c9ef883bd6",
+        "size_in_bytes": 4089,
+        "sha256_in_prefix": "69d4dce3b3f561c27eadb7649770adc99f56d47e18131fc647a896c9ef883bd6"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_pwhash.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7870f29124845fd7bad6fa1a44aa2d2cb33f1f1aede8b9398e251ed53c9b74c7",
+        "size_in_bytes": 13177,
+        "sha256_in_prefix": "7870f29124845fd7bad6fa1a44aa2d2cb33f1f1aede8b9398e251ed53c9b74c7"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_scalarmult.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ffdcb1178f74b01086950589916bba1676c3f83499494a32919aecd9ee9b6f2",
+        "size_in_bytes": 6206,
+        "sha256_in_prefix": "3ffdcb1178f74b01086950589916bba1676c3f83499494a32919aecd9ee9b6f2"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_secretbox.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e992abaef6ac3acf0d1dbc89fd4b6f8369f62383b01b9ee7408b19f3a92396dd",
+        "size_in_bytes": 2151,
+        "sha256_in_prefix": "e992abaef6ac3acf0d1dbc89fd4b6f8369f62383b01b9ee7408b19f3a92396dd"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_secretstream.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f2a6a39b6c71ea754992e6a7d786afc6bf53f9283fc98e4ca9d75bf469f2db32",
+        "size_in_bytes": 7886,
+        "sha256_in_prefix": "f2a6a39b6c71ea754992e6a7d786afc6bf53f9283fc98e4ca9d75bf469f2db32"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_shorthash.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "632673fbbf7a31e6abb1f71762de0d6b81601f767c4a2454d6c1fb357f6b0da5",
+        "size_in_bytes": 2040,
+        "sha256_in_prefix": "632673fbbf7a31e6abb1f71762de0d6b81601f767c4a2454d6c1fb357f6b0da5"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/crypto_sign.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a9ba37e501558a6f70699f33712fcdd4e164013bbbff2be004318b25d0a87322",
+        "size_in_bytes": 8248,
+        "sha256_in_prefix": "a9ba37e501558a6f70699f33712fcdd4e164013bbbff2be004318b25d0a87322"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/randombytes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8cd2370419230cad69b4c8f319ed9188322a44baa2a38f637b9f405b00b471e",
+        "size_in_bytes": 1213,
+        "sha256_in_prefix": "d8cd2370419230cad69b4c8f319ed9188322a44baa2a38f637b9f405b00b471e"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/sodium_core.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "355bd7e4b9b329a4ff52d6c6e4a48aae9f558b536113e8819af22495e73f509d",
+        "size_in_bytes": 831,
+        "sha256_in_prefix": "355bd7e4b9b329a4ff52d6c6e4a48aae9f558b536113e8819af22495e73f509d"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/__pycache__/utils.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "13f67cb2372c5de7176e4000de037a16129bb98ff4b96ab7df5223befad8dcb4",
+        "size_in_bytes": 3785,
+        "sha256_in_prefix": "13f67cb2372c5de7176e4000de037a16129bb98ff4b96ab7df5223befad8dcb4"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_aead.py",
+        "path_type": "hardlink",
+        "sha256": "0c4e73762d3d19e1d9c6f9ab847b7156e4ea17ad72d5cb3cb6b4c687feae3fc4",
+        "size_in_bytes": 17335,
+        "sha256_in_prefix": "0c4e73762d3d19e1d9c6f9ab847b7156e4ea17ad72d5cb3cb6b4c687feae3fc4"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_box.py",
+        "path_type": "hardlink",
+        "sha256": "555051bc0002ac40112c46431ce144a7883499e416c165d38825b49e93edd075",
+        "size_in_bytes": 9958,
+        "sha256_in_prefix": "555051bc0002ac40112c46431ce144a7883499e416c165d38825b49e93edd075"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_core.py",
+        "path_type": "hardlink",
+        "sha256": "ef339e4474b6a015b023f281d44e3eb11abf21364659252ac48d1a4fe7af3c6c",
+        "size_in_bytes": 13433,
+        "sha256_in_prefix": "ef339e4474b6a015b023f281d44e3eb11abf21364659252ac48d1a4fe7af3c6c"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_generichash.py",
+        "path_type": "hardlink",
+        "sha256": "6b487ecb1651f1f0fb024cda4dc5e3e3ca6016b08a55aecc99eaf5c23f00cf60",
+        "size_in_bytes": 8949,
+        "sha256_in_prefix": "6b487ecb1651f1f0fb024cda4dc5e3e3ca6016b08a55aecc99eaf5c23f00cf60"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_hash.py",
+        "path_type": "hardlink",
+        "sha256": "ed7a789a95ebe1ca67fa100e53ae8a9585540951cfe9d793d2ffde5b8519657a",
+        "size_in_bytes": 2243,
+        "sha256_in_prefix": "ed7a789a95ebe1ca67fa100e53ae8a9585540951cfe9d793d2ffde5b8519657a"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_kx.py",
+        "path_type": "hardlink",
+        "sha256": "d868f1bb973b20a0305b630e25af73127d44829215434b5b650b37dd11196f7f",
+        "size_in_bytes": 6937,
+        "sha256_in_prefix": "d868f1bb973b20a0305b630e25af73127d44829215434b5b650b37dd11196f7f"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_pwhash.py",
+        "path_type": "hardlink",
+        "sha256": "4c7fa85e0af3c27367042351fe23f0ed3b5a915073996d6422425c885f0c55d3",
+        "size_in_bytes": 18696,
+        "sha256_in_prefix": "4c7fa85e0af3c27367042351fe23f0ed3b5a915073996d6422425c885f0c55d3"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_scalarmult.py",
+        "path_type": "hardlink",
+        "sha256": "f30f4220c49aaf67864769f09aa42541d377cffa3b2fe3f8ba71a79bd8309155",
+        "size_in_bytes": 8208,
+        "sha256_in_prefix": "f30f4220c49aaf67864769f09aa42541d377cffa3b2fe3f8ba71a79bd8309155"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_secretbox.py",
+        "path_type": "hardlink",
+        "sha256": "96ebf30779700705f12a6eb77bd9c0da7786b4e5de786f11f52c9611c908a9d2",
+        "size_in_bytes": 2864,
+        "sha256_in_prefix": "96ebf30779700705f12a6eb77bd9c0da7786b4e5de786f11f52c9611c908a9d2"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_secretstream.py",
+        "path_type": "hardlink",
+        "sha256": "14b202b8023a911339a8d2196c37ad655ccb57eef2d9dbf955dd4b4e9504866a",
+        "size_in_bytes": 10475,
+        "sha256_in_prefix": "14b202b8023a911339a8d2196c37ad655ccb57eef2d9dbf955dd4b4e9504866a"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_shorthash.py",
+        "path_type": "hardlink",
+        "sha256": "3cafe1ed7d961ff411289a121dbb10761735f53229145a97cbfc24cd13efa676",
+        "size_in_bytes": 2587,
+        "sha256_in_prefix": "3cafe1ed7d961ff411289a121dbb10761735f53229145a97cbfc24cd13efa676"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/crypto_sign.py",
+        "path_type": "hardlink",
+        "sha256": "6d073fd95438086b6d762f6cd61bc3e4f72a3d7168e1c6b8e1d446f96da44647",
+        "size_in_bytes": 10617,
+        "sha256_in_prefix": "6d073fd95438086b6d762f6cd61bc3e4f72a3d7168e1c6b8e1d446f96da44647"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/randombytes.py",
+        "path_type": "hardlink",
+        "sha256": "afddfe7407ce0d19d701469cc7d317b28a7e595679c4c249077c723e41e342be",
+        "size_in_bytes": 1597,
+        "sha256_in_prefix": "afddfe7407ce0d19d701469cc7d317b28a7e595679c4c249077c723e41e342be"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/sodium_core.py",
+        "path_type": "hardlink",
+        "sha256": "e76cf42bbcba19ee88957732b160d537b51d61c4ce8a3eafd026f438ba3cfd07",
+        "size_in_bytes": 1079,
+        "sha256_in_prefix": "e76cf42bbcba19ee88957732b160d537b51d61c4ce8a3eafd026f438ba3cfd07"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/bindings/utils.py",
+        "path_type": "hardlink",
+        "sha256": "8ce2ac0dbb23c4df6ffc723c0ce89bef6721c94ddbcaa6f29d7c5b895f74f7e8",
+        "size_in_bytes": 4420,
+        "sha256_in_prefix": "8ce2ac0dbb23c4df6ffc723c0ce89bef6721c94ddbcaa6f29d7c5b895f74f7e8"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/encoding.py",
+        "path_type": "hardlink",
+        "sha256": "b4e8b2210555a4653a0382f3af4b4cbaaa2685cfc08f457f735b79e9af99b4fc",
+        "size_in_bytes": 1928,
+        "sha256_in_prefix": "b4e8b2210555a4653a0382f3af4b4cbaaa2685cfc08f457f735b79e9af99b4fc"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "ebe8529e98db511127ae6235b594f65ea381b5ead9d2aa01b0cbe10a6d56e4a4",
+        "size_in_bytes": 2128,
+        "sha256_in_prefix": "ebe8529e98db511127ae6235b594f65ea381b5ead9d2aa01b0cbe10a6d56e4a4"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/hash.py",
+        "path_type": "hardlink",
+        "sha256": "f37b55c4a8c6fc301952c1ca68a97efe4962ecad3036b576d1c6719b8bd8eb6d",
+        "size_in_bytes": 6164,
+        "sha256_in_prefix": "f37b55c4a8c6fc301952c1ca68a97efe4962ecad3036b576d1c6719b8bd8eb6d"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/hashlib.py",
+        "path_type": "hardlink",
+        "sha256": "476b802fc95f766ff01b011470d23dd982f251c14acfde7af31645baceccb29b",
+        "size_in_bytes": 4197,
+        "sha256_in_prefix": "476b802fc95f766ff01b011470d23dd982f251c14acfde7af31645baceccb29b"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/public.py",
+        "path_type": "hardlink",
+        "sha256": "fa7c10a1fe68bfec1249dbefa1787e15abd3b637e946763291991ab4d2b22ddd",
+        "size_in_bytes": 13442,
+        "sha256_in_prefix": "fa7c10a1fe68bfec1249dbefa1787e15abd3b637e946763291991ab4d2b22ddd"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fc6c5f4408d4090973b5d0c739405b0c8342dda24f2216bc23e8f71c8644ede5",
+        "size_in_bytes": 2720,
+        "sha256_in_prefix": "fc6c5f4408d4090973b5d0c739405b0c8342dda24f2216bc23e8f71c8644ede5"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4f3da81114687066828d1377af8d79ad67d6b4470ebe8aaf45a8c3a0a141374e",
+        "size_in_bytes": 1653,
+        "sha256_in_prefix": "4f3da81114687066828d1377af8d79ad67d6b4470ebe8aaf45a8c3a0a141374e"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/__pycache__/_argon2.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6cc905194216cedb622e9b18be60f0bdbeefaeda9c3fdf94ace9cf4aff7fd01",
+        "size_in_bytes": 1344,
+        "sha256_in_prefix": "e6cc905194216cedb622e9b18be60f0bdbeefaeda9c3fdf94ace9cf4aff7fd01"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/__pycache__/argon2i.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ffcb06bb813a0e38368e1a4a314d732f5032a52d4b543ce3bab69ab9afe3ac5",
+        "size_in_bytes": 3770,
+        "sha256_in_prefix": "8ffcb06bb813a0e38368e1a4a314d732f5032a52d4b543ce3bab69ab9afe3ac5"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/__pycache__/argon2id.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d75accd63aa9b6da8ecd81e6fd7873bf003181b242721eeaa17e58b5b55c8637",
+        "size_in_bytes": 3783,
+        "sha256_in_prefix": "d75accd63aa9b6da8ecd81e6fd7873bf003181b242721eeaa17e58b5b55c8637"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/__pycache__/scrypt.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e171648efdce907c4916206399bb26aa16d7ede7154b78b1183e27165578817",
+        "size_in_bytes": 5655,
+        "sha256_in_prefix": "3e171648efdce907c4916206399bb26aa16d7ede7154b78b1183e27165578817"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/_argon2.py",
+        "path_type": "hardlink",
+        "sha256": "12edfe8ee2f0b37fefd60372e5a79254f130b915457463ab7de174c0f1fd5470",
+        "size_in_bytes": 1878,
+        "sha256_in_prefix": "12edfe8ee2f0b37fefd60372e5a79254f130b915457463ab7de174c0f1fd5470"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/argon2i.py",
+        "path_type": "hardlink",
+        "sha256": "12985e2b450726f65871afc432184e717e465da3abd310a31434c8826482483a",
+        "size_in_bytes": 4598,
+        "sha256_in_prefix": "12985e2b450726f65871afc432184e717e465da3abd310a31434c8826482483a"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/argon2id.py",
+        "path_type": "hardlink",
+        "sha256": "22a366e5140d11dd59f45f9b1164fefd8f67a14dba4284d1e5875638d835bae2",
+        "size_in_bytes": 4610,
+        "sha256_in_prefix": "22a366e5140d11dd59f45f9b1164fefd8f67a14dba4284d1e5875638d835bae2"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/pwhash/scrypt.py",
+        "path_type": "hardlink",
+        "sha256": "9a9c74036a1c3645221d5332d6a896e147d2c88dd12b12eb6aa90c5e36e0e8d2",
+        "size_in_bytes": 6731,
+        "sha256_in_prefix": "9a9c74036a1c3645221d5332d6a896e147d2c88dd12b12eb6aa90c5e36e0e8d2"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/secret.py",
+        "path_type": "hardlink",
+        "sha256": "8dfe16b948e79d74de919d9e946810a33665eb31b3c4663fd0dc347f07a15258",
+        "size_in_bytes": 5430,
+        "sha256_in_prefix": "8dfe16b948e79d74de919d9e946810a33665eb31b3c4663fd0dc347f07a15258"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/signing.py",
+        "path_type": "hardlink",
+        "sha256": "8ed3c186a7e263a24e67e1e5965463210fbcc376b43c57b50322954412e57ac8",
+        "size_in_bytes": 7339,
+        "sha256_in_prefix": "8ed3c186a7e263a24e67e1e5965463210fbcc376b43c57b50322954412e57ac8"
+      },
+      {
+        "_path": "Lib/site-packages/nacl/utils.py",
+        "path_type": "hardlink",
+        "sha256": "dab2f46c88a336011eec338c935f8295a65fa09090d4daa492cad73fb6c35985",
+        "size_in_bytes": 2166,
+        "sha256_in_prefix": "dab2f46c88a336011eec338c935f8295a65fa09090d4daa492cad73fb6c35985"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\pynacl-1.4.0-py39hb3671d1_2",
+    "type": 1
+  },
+  "requested_specs": [
+    "pynacl==1.4.0=py39hb3671d1_2"
+  ]
+}

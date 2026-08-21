@@ -1,0 +1,37 @@
+{
+  "name": "seaborn",
+  "version": "0.11.1",
+  "build": "hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "seaborn-0.11.1-hd8ed1ab_1.tar.bz2",
+  "md5": "0fa8696d6ef25ac366f04a27c238da31",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/seaborn-0.11.1-hd8ed1ab_1.tar.bz2",
+  "sha256": "6f2839856af2bc3c35dd8eb856e83bc7883cc50a8e2c562351b1714f387a4cfd",
+  "depends": [
+    "seaborn-base >=0.11.1,<0.11.2.0a0",
+    "statsmodels >=0.8.0"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_python",
+  "timestamp": 1611834616491,
+  "size": 4277,
+  "requested_spec": "seaborn==0.11.1=hd8ed1ab_1",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\seaborn-0.11.1-hd8ed1ab_1.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\seaborn-0.11.1-hd8ed1ab_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\seaborn-0.11.1-hd8ed1ab_1",
+    "type": 1
+  },
+  "requested_specs": [
+    "seaborn==0.11.1=hd8ed1ab_1"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "libcblas",
+  "version": "3.9.0",
+  "build": "8_mkl",
+  "build_number": 8,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "libcblas-3.9.0-8_mkl.tar.bz2",
+  "md5": "3bac56af014b2ef22ebd87d4f5ee2774",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libcblas-3.9.0-8_mkl.tar.bz2",
+  "sha256": "badcc00849870297861a70c65484a0697ef9f1cdbe8d42cd363004ccdbd8923a",
+  "depends": [
+    "libblas 3.9.0 8_mkl"
+  ],
+  "constrains": [
+    "liblapacke 3.9.0 8_mkl",
+    "blas * mkl",
+    "liblapack 3.9.0 8_mkl",
+    "mkl <2025"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1612394617920,
+  "size": 4071811,
+  "requested_spec": "libcblas==3.9.0=8_mkl",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\libcblas-3.9.0-8_mkl.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\libcblas-3.9.0-8_mkl",
+  "files": [
+    "Library/bin/libcblas.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/libcblas.dll",
+        "path_type": "hardlink",
+        "sha256": "21f2fdeba006790c4f7e8d254296e8fb6e67c623d7226ec05747f9217aa769e6",
+        "size_in_bytes": 17184624,
+        "sha256_in_prefix": "21f2fdeba006790c4f7e8d254296e8fb6e67c623d7226ec05747f9217aa769e6"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\libcblas-3.9.0-8_mkl",
+    "type": 1
+  },
+  "requested_specs": [
+    "libcblas==3.9.0=8_mkl"
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "name": "xhtml2pdf",
+  "version": "0.2.5",
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/nsls2forge/noarch",
+  "subdir": "noarch",
+  "fn": "xhtml2pdf-0.2.5-py_0.tar.bz2",
+  "md5": "f39fa673f9b777e10104bb4b26ac1a6a",
+  "url": "https://conda.anaconda.org/nsls2forge/noarch/xhtml2pdf-0.2.5-py_0.tar.bz2",
+  "sha256": "",
+  "depends": [
+    "arabic_reshaper",
+    "html5lib >=1.0",
+    "pillow",
+    "pypdf2",
+    "python",
+    "python-bidi",
+    "reportlab >=3.0",
+    "six"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "Apache-2.0",
+  "package_type": "noarch_python",
+  "timestamp": 1603397936642,
+  "size": 89699,
+  "requested_spec": "xhtml2pdf==0.2.5=py_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\xhtml2pdf-0.2.5-py_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\xhtml2pdf-0.2.5-py_0",
+  "files": [
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/INSTALLER",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/LICENSE.txt",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/METADATA",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/RECORD",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/REQUESTED",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/WHEEL",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/direct_url.json",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/entry_points.txt",
+    "Lib/site-packages/xhtml2pdf-0.2.5.dist-info/top_level.txt",
+    "Lib/site-packages/xhtml2pdf/__init__.py",
+    "Lib/site-packages/xhtml2pdf/config/__init__.py",
+    "Lib/site-packages/xhtml2pdf/config/httpconfig.py",
+    "Lib/site-packages/xhtml2pdf/context.py",
+    "Lib/site-packages/xhtml2pdf/default.py",
+    "Lib/site-packages/xhtml2pdf/document.py",
+    "Lib/site-packages/xhtml2pdf/paragraph.py",
+    "Lib/site-packages/xhtml2pdf/parser.py",
+    "Lib/site-packages/xhtml2pdf/pdf.py",
+    "Lib/site-packages/xhtml2pdf/pisa.py",
+    "Lib/site-packages/xhtml2pdf/reportlab_paragraph.py",
+    "Lib/site-packages/xhtml2pdf/tables.py",
+    "Lib/site-packages/xhtml2pdf/tags.py",
+    "Lib/site-packages/xhtml2pdf/util.py",
+    "Lib/site-packages/xhtml2pdf/w3c/__init__.py",
+    "Lib/site-packages/xhtml2pdf/w3c/css.py",
+    "Lib/site-packages/xhtml2pdf/w3c/cssDOMElementInterface.py",
+    "Lib/site-packages/xhtml2pdf/w3c/cssParser.py",
+    "Lib/site-packages/xhtml2pdf/w3c/cssSpecial.py",
+    "Lib/site-packages/xhtml2pdf/wsgi.py",
+    "Lib/site-packages/xhtml2pdf/xhtml2pdf_reportlab.py",
+    "Lib/site-packages/xhtml2pdf/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/config/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/config/__pycache__/httpconfig.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/context.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/default.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/document.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/paragraph.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/parser.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/pdf.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/pisa.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/reportlab_paragraph.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/tables.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/tags.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/util.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/w3c/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/w3c/__pycache__/css.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/w3c/__pycache__/cssDOMElementInterface.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/w3c/__pycache__/cssParser.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/w3c/__pycache__/cssSpecial.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/wsgi.cpython-39.pyc",
+    "Lib/site-packages/xhtml2pdf/__pycache__/xhtml2pdf_reportlab.cpython-39.pyc",
+    "Scripts/pisa-script.py",
+    "Scripts/xhtml2pdf-script.py",
+    "Scripts/pisa.exe",
+    "Scripts/xhtml2pdf.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358,
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e3d6a61d8c7192443e42d78e20a3ce647fea66f0d74c80d7a4810c8203643561",
+        "size_in_bytes": 7909,
+        "sha256_in_prefix": "e3d6a61d8c7192443e42d78e20a3ce647fea66f0d74c80d7a4810c8203643561"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7656bb811176af139cf02b39a9a29fb6439b76d97a7cd335d2315700a7a6e699",
+        "size_in_bytes": 3719,
+        "sha256_in_prefix": "7656bb811176af139cf02b39a9a29fb6439b76d97a7cd335d2315700a7a6e699"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "72f8c04ae2e01a8d11e5272ef244114fb2e3f67b334e9470a12970ad0932ad52",
+        "size_in_bytes": 105,
+        "sha256_in_prefix": "72f8c04ae2e01a8d11e5272ef244114fb2e3f67b334e9470a12970ad0932ad52"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "deb2f5aba61f9142bef8e4556443cf6afe86c49fc25a4bdd2a8b10cad69fb566",
+        "size_in_bytes": 84,
+        "sha256_in_prefix": "deb2f5aba61f9142bef8e4556443cf6afe86c49fc25a4bdd2a8b10cad69fb566"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf-0.2.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a2fdae4aaafb75a8d0de51aedcbf1318a61f38e32befeccc7f847e1bc1592e48",
+        "size_in_bytes": 10,
+        "sha256_in_prefix": "a2fdae4aaafb75a8d0de51aedcbf1318a61f38e32befeccc7f847e1bc1592e48"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "45dbf820bec81b08c60fef1cac5f1df508d5271ef818ae3adfc1000d2e9b2024",
+        "size_in_bytes": 637,
+        "sha256_in_prefix": "45dbf820bec81b08c60fef1cac5f1df508d5271ef818ae3adfc1000d2e9b2024"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/config/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/config/httpconfig.py",
+        "path_type": "hardlink",
+        "sha256": "96569f897f09ca6a85a4c492457868ce4cf632eeb258b47759e7c45fcfe3df57",
+        "size_in_bytes": 1160,
+        "sha256_in_prefix": "96569f897f09ca6a85a4c492457868ce4cf632eeb258b47759e7c45fcfe3df57"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/context.py",
+        "path_type": "hardlink",
+        "sha256": "c00d951f6e8c65f2510bd491b496b1c8f4b381edb8dba515738ae67a0f1a7660",
+        "size_in_bytes": 33760,
+        "sha256_in_prefix": "c00d951f6e8c65f2510bd491b496b1c8f4b381edb8dba515738ae67a0f1a7660"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/default.py",
+        "path_type": "hardlink",
+        "sha256": "780294fa2c784ad8dfa46e8601ef8de65bbedcab8cab7e0f915d402095548173",
+        "size_in_bytes": 13224,
+        "sha256_in_prefix": "780294fa2c784ad8dfa46e8601ef8de65bbedcab8cab7e0f915d402095548173"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/document.py",
+        "path_type": "hardlink",
+        "sha256": "3538b4b2e71376448f291cfaeb9911070072add434f468b1ff553ae2a0c6eea5",
+        "size_in_bytes": 7404,
+        "sha256_in_prefix": "3538b4b2e71376448f291cfaeb9911070072add434f468b1ff553ae2a0c6eea5"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/paragraph.py",
+        "path_type": "hardlink",
+        "sha256": "b87f1bb89d7547101fc9ac1b0cb3f2c90ba8d87ae6f6ed027038cdc5d6529764",
+        "size_in_bytes": 16141,
+        "sha256_in_prefix": "b87f1bb89d7547101fc9ac1b0cb3f2c90ba8d87ae6f6ed027038cdc5d6529764"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/parser.py",
+        "path_type": "hardlink",
+        "sha256": "54e22e1254704b6a092c8988e062bc19a2f0b4e3092ff417cfb25b7ad4a63560",
+        "size_in_bytes": 26117,
+        "sha256_in_prefix": "54e22e1254704b6a092c8988e062bc19a2f0b4e3092ff417cfb25b7ad4a63560"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/pdf.py",
+        "path_type": "hardlink",
+        "sha256": "3703e3b619031b8c440beb65fe10dbb078a1bae195b75f177196ab1a8ba48221",
+        "size_in_bytes": 1927,
+        "sha256_in_prefix": "3703e3b619031b8c440beb65fe10dbb078a1bae195b75f177196ab1a8ba48221"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/pisa.py",
+        "path_type": "hardlink",
+        "sha256": "7d34e3960c54db8fdf288d96a905669ce8f19e4bdcbb8ba7fb95371802c04339",
+        "size_in_bytes": 12006,
+        "sha256_in_prefix": "7d34e3960c54db8fdf288d96a905669ce8f19e4bdcbb8ba7fb95371802c04339"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/reportlab_paragraph.py",
+        "path_type": "hardlink",
+        "sha256": "f8bce3e747a43d07e2ba98d08ecc994fe9cbd6d31cb07cc916bb08dceba4c9b6",
+        "size_in_bytes": 70934,
+        "sha256_in_prefix": "f8bce3e747a43d07e2ba98d08ecc994fe9cbd6d31cb07cc916bb08dceba4c9b6"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/tables.py",
+        "path_type": "hardlink",
+        "sha256": "6e428946d00db8c7c1ffdd245d5bf147ef0e708ae7bdc7521bf41dda04f2b0be",
+        "size_in_bytes": 12089,
+        "sha256_in_prefix": "6e428946d00db8c7c1ffdd245d5bf147ef0e708ae7bdc7521bf41dda04f2b0be"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/tags.py",
+        "path_type": "hardlink",
+        "sha256": "290fd9b0b12cd3c4aaa0d5a0fc1283467000a2836fb6f347e5632e826a9896e0",
+        "size_in_bytes": 20902,
+        "sha256_in_prefix": "290fd9b0b12cd3c4aaa0d5a0fc1283467000a2836fb6f347e5632e826a9896e0"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/util.py",
+        "path_type": "hardlink",
+        "sha256": "62033c244cf48272a88eac161ed4d6e545dc9714503302680900094fb116a40f",
+        "size_in_bytes": 32978,
+        "sha256_in_prefix": "62033c244cf48272a88eac161ed4d6e545dc9714503302680900094fb116a40f"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/w3c/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1135b8424afe1e04029b24b2195ff80604acf7b480bd74278c8973a83d7e69e3",
+        "size_in_bytes": 435,
+        "sha256_in_prefix": "1135b8424afe1e04029b24b2195ff80604acf7b480bd74278c8973a83d7e69e3"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/w3c/css.py",
+        "path_type": "hardlink",
+        "sha256": "f91e7c7348148951e774222ea2061bf4cbee8e1dd763edd182e5e04aa437ace5",
+        "size_in_bytes": 28472,
+        "sha256_in_prefix": "f91e7c7348148951e774222ea2061bf4cbee8e1dd763edd182e5e04aa437ace5"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/w3c/cssDOMElementInterface.py",
+        "path_type": "hardlink",
+        "sha256": "547621d3e7928a53fe0ac10e89f10ff8830a86137ba1c466ab085e3fc98643cb",
+        "size_in_bytes": 4180,
+        "sha256_in_prefix": "547621d3e7928a53fe0ac10e89f10ff8830a86137ba1c466ab085e3fc98643cb"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/w3c/cssParser.py",
+        "path_type": "hardlink",
+        "sha256": "974028a4f935c8a9162a225e82f0d412fc51cb3ba49199f7c900b38194d1afec",
+        "size_in_bytes": 42918,
+        "sha256_in_prefix": "974028a4f935c8a9162a225e82f0d412fc51cb3ba49199f7c900b38194d1afec"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/w3c/cssSpecial.py",
+        "path_type": "hardlink",
+        "sha256": "289bd7b4ed61df320237f4998fa33e2045f35a3cac7f0c868d9ad3aef349673c",
+        "size_in_bytes": 13480,
+        "sha256_in_prefix": "289bd7b4ed61df320237f4998fa33e2045f35a3cac7f0c868d9ad3aef349673c"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/wsgi.py",
+        "path_type": "hardlink",
+        "sha256": "065a55a00d8565e91fff1e68e9da9478aab24c1938ea395def7dd6f2caf89c5e",
+        "size_in_bytes": 2868,
+        "sha256_in_prefix": "065a55a00d8565e91fff1e68e9da9478aab24c1938ea395def7dd6f2caf89c5e"
+      },
+      {
+        "_path": "site-packages/xhtml2pdf/xhtml2pdf_reportlab.py",
+        "path_type": "hardlink",
+        "sha256": "db702925e7327781217b39a1b2a7c3a6d44105e0e7c6274c52f53494ee70d320",
+        "size_in_bytes": 32751,
+        "sha256_in_prefix": "db702925e7327781217b39a1b2a7c3a6d44105e0e7c6274c52f53494ee70d320"
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 151
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/config/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/config/__pycache__/httpconfig.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1480
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/context.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 20857
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/default.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 7392
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/document.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 3734
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/paragraph.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 13114
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/parser.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 13855
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/pdf.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/pisa.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 9434
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/reportlab_paragraph.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 44032
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/tables.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 7743
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/tags.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 19680
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/util.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 24752
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/w3c/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 134
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/w3c/__pycache__/css.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 30315
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/w3c/__pycache__/cssDOMElementInterface.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 4148
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/w3c/__pycache__/cssParser.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 29731
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/w3c/__pycache__/cssSpecial.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 5454
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/wsgi.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 2573
+      },
+      {
+        "_path": "Lib/site-packages/xhtml2pdf/__pycache__/xhtml2pdf_reportlab.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 22125
+      },
+      {
+        "_path": "Scripts/pisa-script.py",
+        "path_type": "windows_python_entry_point_script",
+        "size_in_bytes": 212
+      },
+      {
+        "_path": "Scripts/xhtml2pdf-script.py",
+        "path_type": "windows_python_entry_point_script",
+        "size_in_bytes": 212
+      },
+      {
+        "_path": "Scripts/pisa.exe",
+        "path_type": "windows_python_entry_point_exe"
+      },
+      {
+        "_path": "Scripts/xhtml2pdf.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\xhtml2pdf-0.2.5-py_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "xhtml2pdf==0.2.5=py_0"
+  ]
+}

@@ -1,0 +1,1505 @@
+{
+  "name": "hazpy",
+  "version": "0.0.1",
+  "build": "py39_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/nhrap/win-64",
+  "subdir": "win-64",
+  "fn": "hazpy-0.0.1-py39_0.tar.bz2",
+  "md5": "bbe513a7a74f698aa014b2ea457e0d1e",
+  "url": "https://conda.anaconda.org/nhrap/win-64/hazpy-0.0.1-py39_0.tar.bz2",
+  "sha256": "",
+  "depends": [
+    "affine",
+    "asn1crypto",
+    "attrs",
+    "bcrypt",
+    "certifi",
+    "cffi",
+    "chardet",
+    "click",
+    "click-plugins",
+    "cligj",
+    "cryptography",
+    "cycler",
+    "descartes",
+    "fiona",
+    "gdal",
+    "geopandas",
+    "idna",
+    "jenkspy",
+    "kiwisolver",
+    "mapclassify",
+    "matplotlib",
+    "mkl-service",
+    "mkl_fft",
+    "mkl_random",
+    "munch",
+    "numpy",
+    "olefile",
+    "palettable",
+    "pandas",
+    "paramiko",
+    "patsy",
+    "pillow",
+    "psycopg2",
+    "pycparser",
+    "pynacl",
+    "pyodbc",
+    "pyopenssl",
+    "pyparsing",
+    "pyproj",
+    "pysal",
+    "pysocks",
+    "python >=3.9,<3.10.0a0",
+    "python-dateutil",
+    "python_abi 3.9.* *_cp39",
+    "pytz",
+    "rasterio",
+    "reportlab",
+    "requests",
+    "rtree",
+    "scipy",
+    "seaborn",
+    "shapely",
+    "six",
+    "snuggs",
+    "sqlalchemy",
+    "statsmodels",
+    "tornado",
+    "urllib3",
+    "utm",
+    "win_inet_pton",
+    "wincertstore",
+    "xhtml2pdf"
+  ],
+  "constrains": [],
+  "license": "GNU General Public v3 or later (GPLv3+)",
+  "timestamp": 1612558557474,
+  "size": 162845,
+  "requested_spec": "hazpy==0.0.1=py39_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\hazpy-0.0.1-py39_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\hazpy-0.0.1-py39_0",
+  "files": [
+    "Lib/site-packages/hazpy-0.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/LICENSE",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/METADATA",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/RECORD",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/WHEEL",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/hazpy-0.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/hazpy/__init__.py",
+    "Lib/site-packages/hazpy/__main__.py",
+    "Lib/site-packages/hazpy/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/__pycache__/__main__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/common/__init__.py",
+    "Lib/site-packages/hazpy/common/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/common/__pycache__/classes.cpython-39.pyc",
+    "Lib/site-packages/hazpy/common/__pycache__/methods.cpython-39.pyc",
+    "Lib/site-packages/hazpy/common/classes.py",
+    "Lib/site-packages/hazpy/common/methods.py",
+    "Lib/site-packages/hazpy/earthquake/__init__.py",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/aebm.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/classes.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/direct_social_losses.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/earthquake.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/essential_facilities.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/general_buildings.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/indirect_economic_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/induced_physical_damage.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/military_installation.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/transportation_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/udf.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/__pycache__/utility_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/aebm.py",
+    "Lib/site-packages/hazpy/earthquake/classes.py",
+    "Lib/site-packages/hazpy/earthquake/direct_social_losses.py",
+    "Lib/site-packages/hazpy/earthquake/earthquake.py",
+    "Lib/site-packages/hazpy/earthquake/essential_facilities.py",
+    "Lib/site-packages/hazpy/earthquake/general_buildings.py",
+    "Lib/site-packages/hazpy/earthquake/indirect_economic_loss.py",
+    "Lib/site-packages/hazpy/earthquake/induced_physical_damage.py",
+    "Lib/site-packages/hazpy/earthquake/military_installation.py",
+    "Lib/site-packages/hazpy/earthquake/modules/AEBM.py",
+    "Lib/site-packages/hazpy/earthquake/modules/__init__.py",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/AEBM.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/advanced_engineering_bldg_mode.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/direct_social_losses.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/essential_facilities.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/general_buildings.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/indirect_economic_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/induced_physical_damage.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/military_installation.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/transportation_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/user_defined_structures.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/__pycache__/utility_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/earthquake/modules/advanced_engineering_bldg_mode.py",
+    "Lib/site-packages/hazpy/earthquake/modules/direct_social_losses.py",
+    "Lib/site-packages/hazpy/earthquake/modules/essential_facilities.py",
+    "Lib/site-packages/hazpy/earthquake/modules/general_buildings.py",
+    "Lib/site-packages/hazpy/earthquake/modules/indirect_economic_loss.py",
+    "Lib/site-packages/hazpy/earthquake/modules/induced_physical_damage.py",
+    "Lib/site-packages/hazpy/earthquake/modules/military_installation.py",
+    "Lib/site-packages/hazpy/earthquake/modules/transportation_systems.py",
+    "Lib/site-packages/hazpy/earthquake/modules/user_defined_structures.py",
+    "Lib/site-packages/hazpy/earthquake/modules/utility_systems.py",
+    "Lib/site-packages/hazpy/earthquake/transportation_systems.py",
+    "Lib/site-packages/hazpy/earthquake/udf.py",
+    "Lib/site-packages/hazpy/earthquake/utility_systems.py",
+    "Lib/site-packages/hazpy/flood/__init__.py",
+    "Lib/site-packages/hazpy/flood/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/agriculture.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/classes.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/direct_social_losses.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/essential_facilities.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/flood.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/general_building_stock.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/indirect_economic_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/transportation_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/udf.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/utility_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/vehicles.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/__pycache__/what_if.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/agriculture.py",
+    "Lib/site-packages/hazpy/flood/classes.py",
+    "Lib/site-packages/hazpy/flood/direct_social_losses.py",
+    "Lib/site-packages/hazpy/flood/essential_facilities.py",
+    "Lib/site-packages/hazpy/flood/flood.py",
+    "Lib/site-packages/hazpy/flood/general_building_stock.py",
+    "Lib/site-packages/hazpy/flood/indirect_economic_loss.py",
+    "Lib/site-packages/hazpy/flood/modules/UDF.py",
+    "Lib/site-packages/hazpy/flood/modules/__init__.py",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/UDF.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/agriculture.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/direct_social_losses.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/essential_facilities.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/general_building_stock.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/indirect_economic_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/transportation_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/user_defined_structures.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/utility_systems.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/vehicles.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/__pycache__/what_if.cpython-39.pyc",
+    "Lib/site-packages/hazpy/flood/modules/agriculture.py",
+    "Lib/site-packages/hazpy/flood/modules/direct_social_losses.py",
+    "Lib/site-packages/hazpy/flood/modules/essential_facilities.py",
+    "Lib/site-packages/hazpy/flood/modules/general_building_stock.py",
+    "Lib/site-packages/hazpy/flood/modules/indirect_economic_loss.py",
+    "Lib/site-packages/hazpy/flood/modules/transportation_systems.py",
+    "Lib/site-packages/hazpy/flood/modules/user_defined_structures.py",
+    "Lib/site-packages/hazpy/flood/modules/utility_systems.py",
+    "Lib/site-packages/hazpy/flood/modules/vehicles.py",
+    "Lib/site-packages/hazpy/flood/modules/what_if.py",
+    "Lib/site-packages/hazpy/flood/transportation_systems.py",
+    "Lib/site-packages/hazpy/flood/udf.py",
+    "Lib/site-packages/hazpy/flood/utility_systems.py",
+    "Lib/site-packages/hazpy/flood/vehicles.py",
+    "Lib/site-packages/hazpy/flood/what_if.py",
+    "Lib/site-packages/hazpy/hurricane/__init__.py",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/classes.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/direct_economic_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/direct_physical_damage.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/direct_social_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/hurricane.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/__pycache__/induced_physical_damage.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/classes.py",
+    "Lib/site-packages/hazpy/hurricane/direct_economic_loss.py",
+    "Lib/site-packages/hazpy/hurricane/direct_physical_damage.py",
+    "Lib/site-packages/hazpy/hurricane/direct_social_loss.py",
+    "Lib/site-packages/hazpy/hurricane/hurricane.py",
+    "Lib/site-packages/hazpy/hurricane/induced_physical_damage.py",
+    "Lib/site-packages/hazpy/hurricane/modules/__init__.py",
+    "Lib/site-packages/hazpy/hurricane/modules/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/modules/__pycache__/direct_economic_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/modules/__pycache__/direct_physical_damage.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/modules/__pycache__/direct_social_loss.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/modules/__pycache__/induced_physical_damage.cpython-39.pyc",
+    "Lib/site-packages/hazpy/hurricane/modules/direct_economic_loss.py",
+    "Lib/site-packages/hazpy/hurricane/modules/direct_physical_damage.py",
+    "Lib/site-packages/hazpy/hurricane/modules/direct_social_loss.py",
+    "Lib/site-packages/hazpy/hurricane/modules/induced_physical_damage.py",
+    "Lib/site-packages/hazpy/legacy/__init__.py",
+    "Lib/site-packages/hazpy/legacy/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/legacy/__pycache__/common.cpython-39.pyc",
+    "Lib/site-packages/hazpy/legacy/__pycache__/hazusdb.cpython-39.pyc",
+    "Lib/site-packages/hazpy/legacy/__pycache__/report.cpython-39.pyc",
+    "Lib/site-packages/hazpy/legacy/__pycache__/studyregion.cpython-39.pyc",
+    "Lib/site-packages/hazpy/legacy/__pycache__/studyregiondataframe.cpython-39.pyc",
+    "Lib/site-packages/hazpy/legacy/common.py",
+    "Lib/site-packages/hazpy/legacy/hazusdb.py",
+    "Lib/site-packages/hazpy/legacy/report.py",
+    "Lib/site-packages/hazpy/legacy/studyregion.py",
+    "Lib/site-packages/hazpy/legacy/studyregiondataframe.py",
+    "Lib/site-packages/hazpy/tornado/__init__.py",
+    "Lib/site-packages/hazpy/tornado/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tornado/__pycache__/classes.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tornado/__pycache__/tornado.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tornado/classes.py",
+    "Lib/site-packages/hazpy/tornado/tornado.py",
+    "Lib/site-packages/hazpy/tsunami/__init__.py",
+    "Lib/site-packages/hazpy/tsunami/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/__pycache__/classes.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/__pycache__/general_building_stock.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/__pycache__/tsunami.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/__pycache__/udf.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/classes.py",
+    "Lib/site-packages/hazpy/tsunami/general_building_stock.py",
+    "Lib/site-packages/hazpy/tsunami/modules/__init__.py",
+    "Lib/site-packages/hazpy/tsunami/modules/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/modules/__pycache__/general_building_stock.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/modules/__pycache__/user_defined_facilities.cpython-39.pyc",
+    "Lib/site-packages/hazpy/tsunami/modules/general_building_stock.py",
+    "Lib/site-packages/hazpy/tsunami/modules/user_defined_facilities.py",
+    "Lib/site-packages/hazpy/tsunami/tsunami.py",
+    "Lib/site-packages/hazpy/tsunami/udf.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809",
+        "size_in_bytes": 35823,
+        "sha256_in_prefix": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f67b10e5cf68b77612fe2c63db944d8836a43ed8a93566a596dd472612d6b5c1",
+        "size_in_bytes": 706,
+        "sha256_in_prefix": "f67b10e5cf68b77612fe2c63db944d8836a43ed8a93566a596dd472612d6b5c1"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "21e2aaf16885625434825a8c2dedd9a10d9f6ea56ae4cb8c49906372fa28996d",
+        "size_in_bytes": 13575,
+        "sha256_in_prefix": "21e2aaf16885625434825a8c2dedd9a10d9f6ea56ae4cb8c49906372fa28996d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f356b0f29393cb2c5f2e9829e03ece7d1516a652bb7a9ecd37818a6e7d458f65",
+        "size_in_bytes": 120,
+        "sha256_in_prefix": "f356b0f29393cb2c5f2e9829e03ece7d1516a652bb7a9ecd37818a6e7d458f65"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy-0.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3d8495b20fcb244e6e6b0e1e3259c8e69e6810896ab54b6427c2ef387c21f9ab",
+        "size_in_bytes": 6,
+        "sha256_in_prefix": "3d8495b20fcb244e6e6b0e1e3259c8e69e6810896ab54b6427c2ef387c21f9ab"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "06740beb94904df1142bfa4c53cff6b4f9448f9eb02abc8bc6fd76ea555ae4a1",
+        "size_in_bytes": 646,
+        "sha256_in_prefix": "06740beb94904df1142bfa4c53cff6b4f9448f9eb02abc8bc6fd76ea555ae4a1"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "053009c62fdb268b9689a6f331f8814f0efa6ced534c87380ed0929c76979148",
+        "size_in_bytes": 79,
+        "sha256_in_prefix": "053009c62fdb268b9689a6f331f8814f0efa6ced534c87380ed0929c76979148"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "25109c3b7b08dfb287ff404e4d281160f9e2fc45762ed60a7a0a5f812e429fb3",
+        "size_in_bytes": 673,
+        "sha256_in_prefix": "25109c3b7b08dfb287ff404e4d281160f9e2fc45762ed60a7a0a5f812e429fb3"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0503a039ca956effba7dde0fb8a1a7387e24e584495e202fcba328d8f6e23366",
+        "size_in_bytes": 291,
+        "sha256_in_prefix": "0503a039ca956effba7dde0fb8a1a7387e24e584495e202fcba328d8f6e23366"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/common/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "26dd26ce6aed6a15a6a142d7cf8624a7f3f126f8a5965f0570b4b87b10346938",
+        "size_in_bytes": 411,
+        "sha256_in_prefix": "26dd26ce6aed6a15a6a142d7cf8624a7f3f126f8a5965f0570b4b87b10346938"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/common/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "172670922ff406d380aa7a56dd428e6427b49763a5dbd4bbfe1fc4ae3fe2d4d1",
+        "size_in_bytes": 517,
+        "sha256_in_prefix": "172670922ff406d380aa7a56dd428e6427b49763a5dbd4bbfe1fc4ae3fe2d4d1"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/common/__pycache__/classes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "74294dcf0b4d12605828b6981de5b8b3aa91424fe4474e23888ca9bab6209adb",
+        "size_in_bytes": 3145,
+        "sha256_in_prefix": "74294dcf0b4d12605828b6981de5b8b3aa91424fe4474e23888ca9bab6209adb"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/common/__pycache__/methods.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2fe404f86fce94a26339c985904ef6d4baf69de42e1ae172c4dc9394c6e7a525",
+        "size_in_bytes": 433,
+        "sha256_in_prefix": "2fe404f86fce94a26339c985904ef6d4baf69de42e1ae172c4dc9394c6e7a525"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/common/classes.py",
+        "path_type": "hardlink",
+        "sha256": "9317e34ab1fe4a14737358c0de774268ae82a8dd3c8e77387356defe2df80c33",
+        "size_in_bytes": 2775,
+        "sha256_in_prefix": "9317e34ab1fe4a14737358c0de774268ae82a8dd3c8e77387356defe2df80c33"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/common/methods.py",
+        "path_type": "hardlink",
+        "sha256": "096b612f3b8a3859a2793eed39241e789f19d7bffa360bb9dce4e6abce15e519",
+        "size_in_bytes": 262,
+        "sha256_in_prefix": "096b612f3b8a3859a2793eed39241e789f19d7bffa360bb9dce4e6abce15e519"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5962cf3af87ea6ed734ca648f6001f9f9135a1b92118fe588e211c31d2ed71ab",
+        "size_in_bytes": 403,
+        "sha256_in_prefix": "5962cf3af87ea6ed734ca648f6001f9f9135a1b92118fe588e211c31d2ed71ab"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d739191b64ca283bd18aee9c5c65098e8730c002a1cda9e8ddeb5b9a1377d5c",
+        "size_in_bytes": 527,
+        "sha256_in_prefix": "1d739191b64ca283bd18aee9c5c65098e8730c002a1cda9e8ddeb5b9a1377d5c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/aebm.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3123585c115bf500041711715cb43bc7df544294b2f79245f125dfa4e63a639c",
+        "size_in_bytes": 393,
+        "sha256_in_prefix": "3123585c115bf500041711715cb43bc7df544294b2f79245f125dfa4e63a639c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/classes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "95d016eefc92ec8748a511061ff11d9439e004eb69f2f22862d674df2b4d17d4",
+        "size_in_bytes": 1620,
+        "sha256_in_prefix": "95d016eefc92ec8748a511061ff11d9439e004eb69f2f22862d674df2b4d17d4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/direct_social_losses.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3d78cdd082af1ff2f2522cc20ef457cd9709af04f8dee00574c8fd4d6e8df052",
+        "size_in_bytes": 699,
+        "sha256_in_prefix": "3d78cdd082af1ff2f2522cc20ef457cd9709af04f8dee00574c8fd4d6e8df052"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/earthquake.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9866b0f2a719d8008fbceec49b98e9290f5423d4555c21f6d7e143e58d48453b",
+        "size_in_bytes": 1760,
+        "sha256_in_prefix": "9866b0f2a719d8008fbceec49b98e9290f5423d4555c21f6d7e143e58d48453b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/essential_facilities.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "93af548d857d86c7746fc8fd00e11d34a2b9965d02353343396833c4b178f527",
+        "size_in_bytes": 1131,
+        "sha256_in_prefix": "93af548d857d86c7746fc8fd00e11d34a2b9965d02353343396833c4b178f527"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/general_buildings.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "847cfa35a16629589942f3bba2bf294b1451a06abd0b122bd925b0d70bd96140",
+        "size_in_bytes": 1131,
+        "sha256_in_prefix": "847cfa35a16629589942f3bba2bf294b1451a06abd0b122bd925b0d70bd96140"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/indirect_economic_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "968eec7686908768194733e651bab6412f516da2020d40be4286006ddfc23c35",
+        "size_in_bytes": 443,
+        "sha256_in_prefix": "968eec7686908768194733e651bab6412f516da2020d40be4286006ddfc23c35"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/induced_physical_damage.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6e8b2d0d4b63c0da73392b24103572150bdcc72b149afabb21287a20e2536eeb",
+        "size_in_bytes": 852,
+        "sha256_in_prefix": "6e8b2d0d4b63c0da73392b24103572150bdcc72b149afabb21287a20e2536eeb"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/military_installation.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a06b95603ea0ef5cf584f794474a54afd01e5ea0e6211526f22dfba801349258",
+        "size_in_bytes": 442,
+        "sha256_in_prefix": "a06b95603ea0ef5cf584f794474a54afd01e5ea0e6211526f22dfba801349258"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/transportation_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f64296bcd8877090eaec5d9b3cff3f0da9e5f68b3845040459f89025d274df40",
+        "size_in_bytes": 3552,
+        "sha256_in_prefix": "f64296bcd8877090eaec5d9b3cff3f0da9e5f68b3845040459f89025d274df40"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/udf.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d4cc2f6119e24f779e1e88fce5759c188ff6c04efe98f7bf3546188b40f21fe",
+        "size_in_bytes": 390,
+        "sha256_in_prefix": "6d4cc2f6119e24f779e1e88fce5759c188ff6c04efe98f7bf3546188b40f21fe"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/__pycache__/utility_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "46d65bb845f5efb1a4b832e7f9e0157f2b10b32afc4563fc70b398591bba1907",
+        "size_in_bytes": 2639,
+        "sha256_in_prefix": "46d65bb845f5efb1a4b832e7f9e0157f2b10b32afc4563fc70b398591bba1907"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/aebm.py",
+        "path_type": "hardlink",
+        "sha256": "15ed2328a892a470f7d3ca3bd09718739d43210740ddb5a9a75097ca085b4a18",
+        "size_in_bytes": 52,
+        "sha256_in_prefix": "15ed2328a892a470f7d3ca3bd09718739d43210740ddb5a9a75097ca085b4a18"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/classes.py",
+        "path_type": "hardlink",
+        "sha256": "667adbe10613c16c7a7cd2058046ef95726fdf2a69cf4c5ed52d8b6e7e86c9ba",
+        "size_in_bytes": 1242,
+        "sha256_in_prefix": "667adbe10613c16c7a7cd2058046ef95726fdf2a69cf4c5ed52d8b6e7e86c9ba"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/direct_social_losses.py",
+        "path_type": "hardlink",
+        "sha256": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a",
+        "size_in_bytes": 150,
+        "sha256_in_prefix": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/earthquake.py",
+        "path_type": "hardlink",
+        "sha256": "a15cf0a8cbe560a929e3a2ce090fabadfc82810c1c851cddda39e69348282c69",
+        "size_in_bytes": 1285,
+        "sha256_in_prefix": "a15cf0a8cbe560a929e3a2ce090fabadfc82810c1c851cddda39e69348282c69"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/essential_facilities.py",
+        "path_type": "hardlink",
+        "sha256": "63053ebefb6d973ca042d1c52d1c15795d46c025d7cdeeed9e2bd2508b04e8b4",
+        "size_in_bytes": 293,
+        "sha256_in_prefix": "63053ebefb6d973ca042d1c52d1c15795d46c025d7cdeeed9e2bd2508b04e8b4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/general_buildings.py",
+        "path_type": "hardlink",
+        "sha256": "ec89ff3a486934a1e59206028d5a8eb37a54847008aea50360e971c281df3736",
+        "size_in_bytes": 302,
+        "sha256_in_prefix": "ec89ff3a486934a1e59206028d5a8eb37a54847008aea50360e971c281df3736"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/indirect_economic_loss.py",
+        "path_type": "hardlink",
+        "sha256": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd",
+        "size_in_bytes": 68,
+        "sha256_in_prefix": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/induced_physical_damage.py",
+        "path_type": "hardlink",
+        "sha256": "a1c927106b56a042a115ceb0556d1080b6d000db58402b42aea4cef654d42073",
+        "size_in_bytes": 205,
+        "sha256_in_prefix": "a1c927106b56a042a115ceb0556d1080b6d000db58402b42aea4cef654d42073"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/military_installation.py",
+        "path_type": "hardlink",
+        "sha256": "86bba873687d3a2b91b7dd4c8335c13c632e07929b9d9366c578997249da640d",
+        "size_in_bytes": 76,
+        "sha256_in_prefix": "86bba873687d3a2b91b7dd4c8335c13c632e07929b9d9366c578997249da640d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/AEBM.py",
+        "path_type": "hardlink",
+        "sha256": "15ed2328a892a470f7d3ca3bd09718739d43210740ddb5a9a75097ca085b4a18",
+        "size_in_bytes": 52,
+        "sha256_in_prefix": "15ed2328a892a470f7d3ca3bd09718739d43210740ddb5a9a75097ca085b4a18"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "89011cccfe6071ec2f82e5f5c106058a0b067adc0ff6354817254c0ebb03e493",
+        "size_in_bytes": 1149,
+        "sha256_in_prefix": "89011cccfe6071ec2f82e5f5c106058a0b067adc0ff6354817254c0ebb03e493"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/AEBM.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8010d3efe7fa65741d85f07f732a53ba122a46e161a49816bb84139d1757fce7",
+        "size_in_bytes": 401,
+        "sha256_in_prefix": "8010d3efe7fa65741d85f07f732a53ba122a46e161a49816bb84139d1757fce7"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6bb2783426f3b6a13d2757c0c43bf23da456c7afbe009fbaa4d4410c84a8b00e",
+        "size_in_bytes": 1147,
+        "sha256_in_prefix": "6bb2783426f3b6a13d2757c0c43bf23da456c7afbe009fbaa4d4410c84a8b00e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/advanced_engineering_bldg_mode.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0032b174f7a0c6731b92d1b5c500b0a5dd760609b6381a0fc0159f8993940338",
+        "size_in_bytes": 473,
+        "sha256_in_prefix": "0032b174f7a0c6731b92d1b5c500b0a5dd760609b6381a0fc0159f8993940338"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/direct_social_losses.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "227a41f7fadf6c7eed36444a3cc729c96284dc0f3f446fecf1703627dfc8a9aa",
+        "size_in_bytes": 707,
+        "sha256_in_prefix": "227a41f7fadf6c7eed36444a3cc729c96284dc0f3f446fecf1703627dfc8a9aa"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/essential_facilities.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b95bb22eed2763bfc2120975179327684fa010ea54803f48a433e82cd31cccf",
+        "size_in_bytes": 1139,
+        "sha256_in_prefix": "6b95bb22eed2763bfc2120975179327684fa010ea54803f48a433e82cd31cccf"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/general_buildings.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "22927f75479af6f34e1df5d57515252913590f95527e76cc0115f034c14470c3",
+        "size_in_bytes": 1139,
+        "sha256_in_prefix": "22927f75479af6f34e1df5d57515252913590f95527e76cc0115f034c14470c3"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/indirect_economic_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1a1ffe39ab6599ae5b37e8eb45f1eab54351bd56215604e8859e246fed9bda35",
+        "size_in_bytes": 451,
+        "sha256_in_prefix": "1a1ffe39ab6599ae5b37e8eb45f1eab54351bd56215604e8859e246fed9bda35"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/induced_physical_damage.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a28704a9163d027f583d7f94d0b02f6347778c3bb5c7067ca3ed0968a52b7fa",
+        "size_in_bytes": 860,
+        "sha256_in_prefix": "3a28704a9163d027f583d7f94d0b02f6347778c3bb5c7067ca3ed0968a52b7fa"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/military_installation.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4caeb7491be29ec6d12183b2f275f180a92d83e27e65a16c6f4f042efb950239",
+        "size_in_bytes": 450,
+        "sha256_in_prefix": "4caeb7491be29ec6d12183b2f275f180a92d83e27e65a16c6f4f042efb950239"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/transportation_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4709e4d550fa2d2838bf9af3492138ca6c996a7ae1a68599e50fc65b715eb184",
+        "size_in_bytes": 3560,
+        "sha256_in_prefix": "4709e4d550fa2d2838bf9af3492138ca6c996a7ae1a68599e50fc65b715eb184"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/user_defined_structures.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0a7f07bffaed2a226d29b332d80c2155058891aa297bacb97409a6e3a4f59fd9",
+        "size_in_bytes": 454,
+        "sha256_in_prefix": "0a7f07bffaed2a226d29b332d80c2155058891aa297bacb97409a6e3a4f59fd9"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/__pycache__/utility_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "41df680dfc31c8c04796f4d64a409dbf761a3728e127fad6d6efac85e0431229",
+        "size_in_bytes": 2647,
+        "sha256_in_prefix": "41df680dfc31c8c04796f4d64a409dbf761a3728e127fad6d6efac85e0431229"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/advanced_engineering_bldg_mode.py",
+        "path_type": "hardlink",
+        "sha256": "11bac143c32efdd7781584088a54b6faf70d853c73b477446899b2ac3e3fd281",
+        "size_in_bytes": 75,
+        "sha256_in_prefix": "11bac143c32efdd7781584088a54b6faf70d853c73b477446899b2ac3e3fd281"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/direct_social_losses.py",
+        "path_type": "hardlink",
+        "sha256": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a",
+        "size_in_bytes": 150,
+        "sha256_in_prefix": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/essential_facilities.py",
+        "path_type": "hardlink",
+        "sha256": "63053ebefb6d973ca042d1c52d1c15795d46c025d7cdeeed9e2bd2508b04e8b4",
+        "size_in_bytes": 293,
+        "sha256_in_prefix": "63053ebefb6d973ca042d1c52d1c15795d46c025d7cdeeed9e2bd2508b04e8b4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/general_buildings.py",
+        "path_type": "hardlink",
+        "sha256": "ec89ff3a486934a1e59206028d5a8eb37a54847008aea50360e971c281df3736",
+        "size_in_bytes": 302,
+        "sha256_in_prefix": "ec89ff3a486934a1e59206028d5a8eb37a54847008aea50360e971c281df3736"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/indirect_economic_loss.py",
+        "path_type": "hardlink",
+        "sha256": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd",
+        "size_in_bytes": 68,
+        "sha256_in_prefix": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/induced_physical_damage.py",
+        "path_type": "hardlink",
+        "sha256": "a1c927106b56a042a115ceb0556d1080b6d000db58402b42aea4cef654d42073",
+        "size_in_bytes": 205,
+        "sha256_in_prefix": "a1c927106b56a042a115ceb0556d1080b6d000db58402b42aea4cef654d42073"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/military_installation.py",
+        "path_type": "hardlink",
+        "sha256": "86bba873687d3a2b91b7dd4c8335c13c632e07929b9d9366c578997249da640d",
+        "size_in_bytes": 76,
+        "sha256_in_prefix": "86bba873687d3a2b91b7dd4c8335c13c632e07929b9d9366c578997249da640d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/transportation_systems.py",
+        "path_type": "hardlink",
+        "sha256": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc",
+        "size_in_bytes": 1193,
+        "sha256_in_prefix": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/user_defined_structures.py",
+        "path_type": "hardlink",
+        "sha256": "d5844c14e703717172da13846a89c9d26a70d3c2b35747673f121bae7ea4dc4c",
+        "size_in_bytes": 69,
+        "sha256_in_prefix": "d5844c14e703717172da13846a89c9d26a70d3c2b35747673f121bae7ea4dc4c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/modules/utility_systems.py",
+        "path_type": "hardlink",
+        "sha256": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276",
+        "size_in_bytes": 907,
+        "sha256_in_prefix": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/transportation_systems.py",
+        "path_type": "hardlink",
+        "sha256": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc",
+        "size_in_bytes": 1193,
+        "sha256_in_prefix": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/udf.py",
+        "path_type": "hardlink",
+        "sha256": "36c98570e9d6b3e6563850f5e37372d6a3e3e7b4fef5c15ee36ae5effe55c798",
+        "size_in_bytes": 51,
+        "sha256_in_prefix": "36c98570e9d6b3e6563850f5e37372d6a3e3e7b4fef5c15ee36ae5effe55c798"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/earthquake/utility_systems.py",
+        "path_type": "hardlink",
+        "sha256": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276",
+        "size_in_bytes": 907,
+        "sha256_in_prefix": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b",
+        "size_in_bytes": 394,
+        "sha256_in_prefix": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b0baba9e4242fad0aeb02b6ae64e70a1d54834c1db1ffd501a446c9652ca0bc",
+        "size_in_bytes": 504,
+        "sha256_in_prefix": "8b0baba9e4242fad0aeb02b6ae64e70a1d54834c1db1ffd501a446c9652ca0bc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/agriculture.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "82edd963dd35c37378c8a358f57b026764c1baa17857d96315665f0c7d96f0d3",
+        "size_in_bytes": 409,
+        "sha256_in_prefix": "82edd963dd35c37378c8a358f57b026764c1baa17857d96315665f0c7d96f0d3"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/classes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5746224ac198cce013fa4161634ceec33584fb72feabb5d3cacd82391db1f1d",
+        "size_in_bytes": 1586,
+        "sha256_in_prefix": "e5746224ac198cce013fa4161634ceec33584fb72feabb5d3cacd82391db1f1d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/direct_social_losses.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0562a1172108e0dca942814c97ce582d626173b70f070f2068778c7923b9ae91",
+        "size_in_bytes": 694,
+        "sha256_in_prefix": "0562a1172108e0dca942814c97ce582d626173b70f070f2068778c7923b9ae91"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/essential_facilities.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c133b2e3e6a5ac2449a71868d0c234626059904b5a64bb2007604bf61a49b197",
+        "size_in_bytes": 1124,
+        "sha256_in_prefix": "c133b2e3e6a5ac2449a71868d0c234626059904b5a64bb2007604bf61a49b197"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/flood.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b947ed3ad580d4ffbbfc6cfc74ac22e55e1709ab51becc6ca0f4b7dbbe5f775",
+        "size_in_bytes": 1695,
+        "sha256_in_prefix": "1b947ed3ad580d4ffbbfc6cfc74ac22e55e1709ab51becc6ca0f4b7dbbe5f775"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/general_building_stock.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e607ac1272d23d77402f54aedf27f84045dfbf7cf25431186bb42c9259992df",
+        "size_in_bytes": 1086,
+        "sha256_in_prefix": "5e607ac1272d23d77402f54aedf27f84045dfbf7cf25431186bb42c9259992df"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/indirect_economic_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3a0efdd7a9559316fff7ad162351ed854b510895403a486dc5ccc09a1770eba",
+        "size_in_bytes": 438,
+        "sha256_in_prefix": "f3a0efdd7a9559316fff7ad162351ed854b510895403a486dc5ccc09a1770eba"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/transportation_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c92fe7e7390ce0325735eee721cccf5f4e0b9f9c3c6775cb56b4da7dbea1f4d4",
+        "size_in_bytes": 3547,
+        "sha256_in_prefix": "c92fe7e7390ce0325735eee721cccf5f4e0b9f9c3c6775cb56b4da7dbea1f4d4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/udf.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c737a0aa1d1f47fa0d65e4386b5889619de3dbd57eb5d6529719db4683372e05",
+        "size_in_bytes": 17378,
+        "sha256_in_prefix": "c737a0aa1d1f47fa0d65e4386b5889619de3dbd57eb5d6529719db4683372e05"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/utility_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "88ad7199caa85f0ba3786b96677d7d296dca2c192e2c542315b0235643ea9205",
+        "size_in_bytes": 2634,
+        "sha256_in_prefix": "88ad7199caa85f0ba3786b96677d7d296dca2c192e2c542315b0235643ea9205"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/vehicles.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "93710ee3bc02dcf4d45fdb34ed3d980a47d9d4965c34442e3d8c08e39318c353",
+        "size_in_bytes": 400,
+        "sha256_in_prefix": "93710ee3bc02dcf4d45fdb34ed3d980a47d9d4965c34442e3d8c08e39318c353"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/__pycache__/what_if.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e94541ff3889e33fd96782605c3ae70901695ef94173cfad4293f735f3fe09e",
+        "size_in_bytes": 1339,
+        "sha256_in_prefix": "9e94541ff3889e33fd96782605c3ae70901695ef94173cfad4293f735f3fe09e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/agriculture.py",
+        "path_type": "hardlink",
+        "sha256": "30c11c82dca1cf063cb7d07a5652ea5f3cc0be7aaca864498cdf86c62266085a",
+        "size_in_bytes": 65,
+        "sha256_in_prefix": "30c11c82dca1cf063cb7d07a5652ea5f3cc0be7aaca864498cdf86c62266085a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/classes.py",
+        "path_type": "hardlink",
+        "sha256": "664c5d239b809b1866b07390290e37710fd562abbfe0ad7e1e30ab65d2bfb3b4",
+        "size_in_bytes": 1227,
+        "sha256_in_prefix": "664c5d239b809b1866b07390290e37710fd562abbfe0ad7e1e30ab65d2bfb3b4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/direct_social_losses.py",
+        "path_type": "hardlink",
+        "sha256": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a",
+        "size_in_bytes": 150,
+        "sha256_in_prefix": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/essential_facilities.py",
+        "path_type": "hardlink",
+        "sha256": "4e0d9b9734b1cbb3cfd87cc142499c9134f1966fae883c38621cebec3744a26d",
+        "size_in_bytes": 292,
+        "sha256_in_prefix": "4e0d9b9734b1cbb3cfd87cc142499c9134f1966fae883c38621cebec3744a26d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/flood.py",
+        "path_type": "hardlink",
+        "sha256": "4a54124942cd161476a8131b582ce42b82d2bb15be52358f68ac3ff1a44c7757",
+        "size_in_bytes": 1246,
+        "sha256_in_prefix": "4a54124942cd161476a8131b582ce42b82d2bb15be52358f68ac3ff1a44c7757"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/general_building_stock.py",
+        "path_type": "hardlink",
+        "sha256": "e557d74a5ee2d2af8dc9eefbf53b470b5fcde15e70acec98fc514ec7c5e619ba",
+        "size_in_bytes": 306,
+        "sha256_in_prefix": "e557d74a5ee2d2af8dc9eefbf53b470b5fcde15e70acec98fc514ec7c5e619ba"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/indirect_economic_loss.py",
+        "path_type": "hardlink",
+        "sha256": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd",
+        "size_in_bytes": 68,
+        "sha256_in_prefix": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/UDF.py",
+        "path_type": "hardlink",
+        "sha256": "25b14059ea7158afbb1abcdb9cf139bc1265d7029bb92ea8f829fb75da7e5913",
+        "size_in_bytes": 72778,
+        "sha256_in_prefix": "25b14059ea7158afbb1abcdb9cf139bc1265d7029bb92ea8f829fb75da7e5913"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "32132e6a9f54092cf521b5da7c3e9d69946cf6e7296921774573bc7855c5bc8c",
+        "size_in_bytes": 1042,
+        "sha256_in_prefix": "32132e6a9f54092cf521b5da7c3e9d69946cf6e7296921774573bc7855c5bc8c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/UDF.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "23564d23b27f6747a6e52591b02fc35354cbb1692ab7736356007be1c972f39f",
+        "size_in_bytes": 17386,
+        "sha256_in_prefix": "23564d23b27f6747a6e52591b02fc35354cbb1692ab7736356007be1c972f39f"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1fcbff84ad6fb285acd9ed503d72f67773c6d4925c15325a4a4cbe68a548990f",
+        "size_in_bytes": 1072,
+        "sha256_in_prefix": "1fcbff84ad6fb285acd9ed503d72f67773c6d4925c15325a4a4cbe68a548990f"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/agriculture.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc289ca53cef7747869fab8d8516c93eb17448ec63ad87364a38776544045613",
+        "size_in_bytes": 417,
+        "sha256_in_prefix": "fc289ca53cef7747869fab8d8516c93eb17448ec63ad87364a38776544045613"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/direct_social_losses.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "810f15ab7ddbfa9e6fabc38f38361850a6bffd47dcf53ca85fc657286a24a092",
+        "size_in_bytes": 702,
+        "sha256_in_prefix": "810f15ab7ddbfa9e6fabc38f38361850a6bffd47dcf53ca85fc657286a24a092"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/essential_facilities.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "57c8dce792e44b4da33f0ec6b0f5d9236f370f400287bd943078937c0d7a56f1",
+        "size_in_bytes": 1132,
+        "sha256_in_prefix": "57c8dce792e44b4da33f0ec6b0f5d9236f370f400287bd943078937c0d7a56f1"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/general_building_stock.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "08af875606bcc0ef949f0058b00e64c2d5a5b3532bf6291f2c7368e61197f19e",
+        "size_in_bytes": 1094,
+        "sha256_in_prefix": "08af875606bcc0ef949f0058b00e64c2d5a5b3532bf6291f2c7368e61197f19e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/indirect_economic_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "71f1fcccea5364de81e680bdc83ca341130bd8d53b975ec4bc01964dac413515",
+        "size_in_bytes": 446,
+        "sha256_in_prefix": "71f1fcccea5364de81e680bdc83ca341130bd8d53b975ec4bc01964dac413515"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/transportation_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9fafab6b7fd76025b4fd5ca5c57a926128365ac3bc04f1d55d81bcc4a308d605",
+        "size_in_bytes": 3555,
+        "sha256_in_prefix": "9fafab6b7fd76025b4fd5ca5c57a926128365ac3bc04f1d55d81bcc4a308d605"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/user_defined_structures.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "84aedeeddecc689ee862df19b7108d2d9a3cc6e0fad2afa5881db1c860c8c98d",
+        "size_in_bytes": 449,
+        "sha256_in_prefix": "84aedeeddecc689ee862df19b7108d2d9a3cc6e0fad2afa5881db1c860c8c98d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/utility_systems.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "679835bd9f2d836f3b5d836b36cbe7f15ede39dbe46fb1878d1d1133f81f6c3a",
+        "size_in_bytes": 2642,
+        "sha256_in_prefix": "679835bd9f2d836f3b5d836b36cbe7f15ede39dbe46fb1878d1d1133f81f6c3a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/vehicles.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f41f9463dd1a5ae03a3e6ad92281dd9445820319744e250ef36254cf5ff71e64",
+        "size_in_bytes": 408,
+        "sha256_in_prefix": "f41f9463dd1a5ae03a3e6ad92281dd9445820319744e250ef36254cf5ff71e64"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/__pycache__/what_if.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4515bf552e73ae9af43302ba56e45fbdcbcab2ae4b3169ab8f1c4f7102a181d9",
+        "size_in_bytes": 1347,
+        "sha256_in_prefix": "4515bf552e73ae9af43302ba56e45fbdcbcab2ae4b3169ab8f1c4f7102a181d9"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/agriculture.py",
+        "path_type": "hardlink",
+        "sha256": "30c11c82dca1cf063cb7d07a5652ea5f3cc0be7aaca864498cdf86c62266085a",
+        "size_in_bytes": 65,
+        "sha256_in_prefix": "30c11c82dca1cf063cb7d07a5652ea5f3cc0be7aaca864498cdf86c62266085a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/direct_social_losses.py",
+        "path_type": "hardlink",
+        "sha256": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a",
+        "size_in_bytes": 150,
+        "sha256_in_prefix": "449446a6dfac3c3c46c58d5222713008827738a7959174de28efc453691f6d9a"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/essential_facilities.py",
+        "path_type": "hardlink",
+        "sha256": "4e0d9b9734b1cbb3cfd87cc142499c9134f1966fae883c38621cebec3744a26d",
+        "size_in_bytes": 292,
+        "sha256_in_prefix": "4e0d9b9734b1cbb3cfd87cc142499c9134f1966fae883c38621cebec3744a26d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/general_building_stock.py",
+        "path_type": "hardlink",
+        "sha256": "e557d74a5ee2d2af8dc9eefbf53b470b5fcde15e70acec98fc514ec7c5e619ba",
+        "size_in_bytes": 306,
+        "sha256_in_prefix": "e557d74a5ee2d2af8dc9eefbf53b470b5fcde15e70acec98fc514ec7c5e619ba"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/indirect_economic_loss.py",
+        "path_type": "hardlink",
+        "sha256": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd",
+        "size_in_bytes": 68,
+        "sha256_in_prefix": "236fdc0a0804ebe5f2430c24938958a8299b10323c81a24dc0a503e0e31ddfbd"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/transportation_systems.py",
+        "path_type": "hardlink",
+        "sha256": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc",
+        "size_in_bytes": 1193,
+        "sha256_in_prefix": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/user_defined_structures.py",
+        "path_type": "hardlink",
+        "sha256": "d5844c14e703717172da13846a89c9d26a70d3c2b35747673f121bae7ea4dc4c",
+        "size_in_bytes": 69,
+        "sha256_in_prefix": "d5844c14e703717172da13846a89c9d26a70d3c2b35747673f121bae7ea4dc4c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/utility_systems.py",
+        "path_type": "hardlink",
+        "sha256": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276",
+        "size_in_bytes": 907,
+        "sha256_in_prefix": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/vehicles.py",
+        "path_type": "hardlink",
+        "sha256": "b89c1fe45579812762822b5fca195ecb2342ada3a0cad78d129d40103c80751f",
+        "size_in_bytes": 56,
+        "sha256_in_prefix": "b89c1fe45579812762822b5fca195ecb2342ada3a0cad78d129d40103c80751f"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/modules/what_if.py",
+        "path_type": "hardlink",
+        "sha256": "b8b673d4cd21aa64bdf4e28b2d420ba04904d200d6e6c1b6c99214cf34417478",
+        "size_in_bytes": 421,
+        "sha256_in_prefix": "b8b673d4cd21aa64bdf4e28b2d420ba04904d200d6e6c1b6c99214cf34417478"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/transportation_systems.py",
+        "path_type": "hardlink",
+        "sha256": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc",
+        "size_in_bytes": 1193,
+        "sha256_in_prefix": "f1037643c09dc17a5c7f8be6a0f5bc1bef9d341291275a6a42220620fe6ea4cc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/udf.py",
+        "path_type": "hardlink",
+        "sha256": "25b14059ea7158afbb1abcdb9cf139bc1265d7029bb92ea8f829fb75da7e5913",
+        "size_in_bytes": 72778,
+        "sha256_in_prefix": "25b14059ea7158afbb1abcdb9cf139bc1265d7029bb92ea8f829fb75da7e5913"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/utility_systems.py",
+        "path_type": "hardlink",
+        "sha256": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276",
+        "size_in_bytes": 907,
+        "sha256_in_prefix": "06150b3a2a49f1f7e07c28d4b43bb0c6cdfa1e73d35af7ee75079ad5602a1276"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/vehicles.py",
+        "path_type": "hardlink",
+        "sha256": "b89c1fe45579812762822b5fca195ecb2342ada3a0cad78d129d40103c80751f",
+        "size_in_bytes": 56,
+        "sha256_in_prefix": "b89c1fe45579812762822b5fca195ecb2342ada3a0cad78d129d40103c80751f"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/flood/what_if.py",
+        "path_type": "hardlink",
+        "sha256": "b8b673d4cd21aa64bdf4e28b2d420ba04904d200d6e6c1b6c99214cf34417478",
+        "size_in_bytes": 421,
+        "sha256_in_prefix": "b8b673d4cd21aa64bdf4e28b2d420ba04904d200d6e6c1b6c99214cf34417478"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b",
+        "size_in_bytes": 394,
+        "sha256_in_prefix": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "daac1d96252eb57da7480ee742745a66092cd35f5084cff804108bff7581cd34",
+        "size_in_bytes": 508,
+        "sha256_in_prefix": "daac1d96252eb57da7480ee742745a66092cd35f5084cff804108bff7581cd34"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/classes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b92cbf7b646539e4daca2daf5cd68ae21ab5e95170a50123da4f4ed97e6af31b",
+        "size_in_bytes": 1194,
+        "sha256_in_prefix": "b92cbf7b646539e4daca2daf5cd68ae21ab5e95170a50123da4f4ed97e6af31b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/direct_economic_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d92e981cdd892f1757700da00175d6526c155de16f18cc96375ec9a93af89c7e",
+        "size_in_bytes": 581,
+        "sha256_in_prefix": "d92e981cdd892f1757700da00175d6526c155de16f18cc96375ec9a93af89c7e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/direct_physical_damage.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c5a936f0d51fc44711b361549ea87526739cd982e5f7f6a739846c78e3c6e7b",
+        "size_in_bytes": 2045,
+        "sha256_in_prefix": "9c5a936f0d51fc44711b361549ea87526739cd982e5f7f6a739846c78e3c6e7b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/direct_social_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e12e544f27ead3944f11e3da280cb1249d9b70630a39a30795171e37f87b3558",
+        "size_in_bytes": 555,
+        "sha256_in_prefix": "e12e544f27ead3944f11e3da280cb1249d9b70630a39a30795171e37f87b3558"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/hurricane.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "303be11dc8c268ad64806f27a594bed830ec2bea9503747ac4ca9700682de272",
+        "size_in_bytes": 1278,
+        "sha256_in_prefix": "303be11dc8c268ad64806f27a594bed830ec2bea9503747ac4ca9700682de272"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/__pycache__/induced_physical_damage.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8d669cb3967055c3cc3f0d8146c3a7a115d029ce3a0feb8bd6c9927cc9c6733",
+        "size_in_bytes": 1203,
+        "sha256_in_prefix": "b8d669cb3967055c3cc3f0d8146c3a7a115d029ce3a0feb8bd6c9927cc9c6733"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/classes.py",
+        "path_type": "hardlink",
+        "sha256": "92f54d9ec73dfcb640ee0490976ee04aa24d261ac5a1aa1f3692a51837f820d7",
+        "size_in_bytes": 696,
+        "sha256_in_prefix": "92f54d9ec73dfcb640ee0490976ee04aa24d261ac5a1aa1f3692a51837f820d7"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/direct_economic_loss.py",
+        "path_type": "hardlink",
+        "sha256": "0d7834caf6e76cb8b0b8debf5df956233d066194e521e5efc95782810c16c82d",
+        "size_in_bytes": 121,
+        "sha256_in_prefix": "0d7834caf6e76cb8b0b8debf5df956233d066194e521e5efc95782810c16c82d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/direct_physical_damage.py",
+        "path_type": "hardlink",
+        "sha256": "4f26408ee4f1685c0f15990f35bd79a616a68a18315ba4939658343ff2cd7347",
+        "size_in_bytes": 672,
+        "sha256_in_prefix": "4f26408ee4f1685c0f15990f35bd79a616a68a18315ba4939658343ff2cd7347"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/direct_social_loss.py",
+        "path_type": "hardlink",
+        "sha256": "331d2b48bb9ce2ae49dbf24d8c0d988a810acc864f585378267ce2c4df3573ca",
+        "size_in_bytes": 106,
+        "sha256_in_prefix": "331d2b48bb9ce2ae49dbf24d8c0d988a810acc864f585378267ce2c4df3573ca"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/hurricane.py",
+        "path_type": "hardlink",
+        "sha256": "b97b54fe9c33a6830f56d93e8d33384034c5f578c125dfbc6c4e85f00c6bc379",
+        "size_in_bytes": 751,
+        "sha256_in_prefix": "b97b54fe9c33a6830f56d93e8d33384034c5f578c125dfbc6c4e85f00c6bc379"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/induced_physical_damage.py",
+        "path_type": "hardlink",
+        "sha256": "fcf877330723b659f5af4f763daf9a9411637e51360072e73442e1b67ac81839",
+        "size_in_bytes": 304,
+        "sha256_in_prefix": "fcf877330723b659f5af4f763daf9a9411637e51360072e73442e1b67ac81839"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "891e46c61376a41d5d40aa30d615a8df0db4e35a9af6174c0d4285aba2d806b1",
+        "size_in_bytes": 695,
+        "sha256_in_prefix": "891e46c61376a41d5d40aa30d615a8df0db4e35a9af6174c0d4285aba2d806b1"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b16a7aedf496d318f028b1792f975dde63d31e6746206ace63d7bc746ef8b8a3",
+        "size_in_bytes": 769,
+        "sha256_in_prefix": "b16a7aedf496d318f028b1792f975dde63d31e6746206ace63d7bc746ef8b8a3"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/__pycache__/direct_economic_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "366f11e0d6589b6d138e4803261dbeffe813b803fa0d23c4dec0af744bccdffb",
+        "size_in_bytes": 589,
+        "sha256_in_prefix": "366f11e0d6589b6d138e4803261dbeffe813b803fa0d23c4dec0af744bccdffb"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/__pycache__/direct_physical_damage.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d9bab7977035888d63f717bf09be13517ce48831da151050bda9b1664af849fd",
+        "size_in_bytes": 2053,
+        "sha256_in_prefix": "d9bab7977035888d63f717bf09be13517ce48831da151050bda9b1664af849fd"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/__pycache__/direct_social_loss.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e304396a17b1c060053ab351d6db0f5bfbaf1fa02db0b5c9abedf50f1ad69ccc",
+        "size_in_bytes": 563,
+        "sha256_in_prefix": "e304396a17b1c060053ab351d6db0f5bfbaf1fa02db0b5c9abedf50f1ad69ccc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/__pycache__/induced_physical_damage.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4bba3000e816f77ea2b9fa120601a6feca64c4819af611a2abbf6cf64859a1e",
+        "size_in_bytes": 1211,
+        "sha256_in_prefix": "e4bba3000e816f77ea2b9fa120601a6feca64c4819af611a2abbf6cf64859a1e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/direct_economic_loss.py",
+        "path_type": "hardlink",
+        "sha256": "0d7834caf6e76cb8b0b8debf5df956233d066194e521e5efc95782810c16c82d",
+        "size_in_bytes": 121,
+        "sha256_in_prefix": "0d7834caf6e76cb8b0b8debf5df956233d066194e521e5efc95782810c16c82d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/direct_physical_damage.py",
+        "path_type": "hardlink",
+        "sha256": "4f26408ee4f1685c0f15990f35bd79a616a68a18315ba4939658343ff2cd7347",
+        "size_in_bytes": 672,
+        "sha256_in_prefix": "4f26408ee4f1685c0f15990f35bd79a616a68a18315ba4939658343ff2cd7347"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/direct_social_loss.py",
+        "path_type": "hardlink",
+        "sha256": "331d2b48bb9ce2ae49dbf24d8c0d988a810acc864f585378267ce2c4df3573ca",
+        "size_in_bytes": 106,
+        "sha256_in_prefix": "331d2b48bb9ce2ae49dbf24d8c0d988a810acc864f585378267ce2c4df3573ca"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/hurricane/modules/induced_physical_damage.py",
+        "path_type": "hardlink",
+        "sha256": "fcf877330723b659f5af4f763daf9a9411637e51360072e73442e1b67ac81839",
+        "size_in_bytes": 304,
+        "sha256_in_prefix": "fcf877330723b659f5af4f763daf9a9411637e51360072e73442e1b67ac81839"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2195f4c9d477e9e9a1f52a55b1a86262ea02fcd7a6e62c2942d70f1c1207be44",
+        "size_in_bytes": 461,
+        "sha256_in_prefix": "2195f4c9d477e9e9a1f52a55b1a86262ea02fcd7a6e62c2942d70f1c1207be44"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "701862dd32a5c8baf2b19581794a7db37cb25c5ca4892f0d85eb3b6bd90a0457",
+        "size_in_bytes": 557,
+        "sha256_in_prefix": "701862dd32a5c8baf2b19581794a7db37cb25c5ca4892f0d85eb3b6bd90a0457"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__pycache__/common.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a585d6b33f5a0dc6ba902ff41629dfa0314dae41af573ffecc35c55375258076",
+        "size_in_bytes": 5858,
+        "sha256_in_prefix": "a585d6b33f5a0dc6ba902ff41629dfa0314dae41af573ffecc35c55375258076"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__pycache__/hazusdb.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "931421cfd306cfd39681240e3d63d2954781360213f1ae2eb042f9f21f4bf42e",
+        "size_in_bytes": 5764,
+        "sha256_in_prefix": "931421cfd306cfd39681240e3d63d2954781360213f1ae2eb042f9f21f4bf42e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__pycache__/report.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5f99aab876ea4605cfa63b6bb66b15854f58886e55fe9e3705e2c40ede8228c",
+        "size_in_bytes": 37428,
+        "sha256_in_prefix": "d5f99aab876ea4605cfa63b6bb66b15854f58886e55fe9e3705e2c40ede8228c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__pycache__/studyregion.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea5ceb0d90efd6659b6678fbf0568b96f5754b1e701f7772b9d91ba75835830d",
+        "size_in_bytes": 47055,
+        "sha256_in_prefix": "ea5ceb0d90efd6659b6678fbf0568b96f5754b1e701f7772b9d91ba75835830d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/__pycache__/studyregiondataframe.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2dea1afda2a6e00c499355acb7ef8d87e0b7cad7ef3576fd2fbf33700e52f04",
+        "size_in_bytes": 6462,
+        "sha256_in_prefix": "a2dea1afda2a6e00c499355acb7ef8d87e0b7cad7ef3576fd2fbf33700e52f04"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/common.py",
+        "path_type": "hardlink",
+        "sha256": "de973bf96813b72fdf83a8b1ccb5c54ec3d0a0b7344982f3b6f970076319af7c",
+        "size_in_bytes": 6167,
+        "sha256_in_prefix": "de973bf96813b72fdf83a8b1ccb5c54ec3d0a0b7344982f3b6f970076319af7c"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/hazusdb.py",
+        "path_type": "hardlink",
+        "sha256": "1f1073aca82b8bb9e6c92008b813cf84966fdedf886b9115b9879749a640f9dc",
+        "size_in_bytes": 7711,
+        "sha256_in_prefix": "1f1073aca82b8bb9e6c92008b813cf84966fdedf886b9115b9879749a640f9dc"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/report.py",
+        "path_type": "hardlink",
+        "sha256": "623b1a696819ab6f69efaed230f197cddcf101c7f2d5380c3cc59824c4904576",
+        "size_in_bytes": 65340,
+        "sha256_in_prefix": "623b1a696819ab6f69efaed230f197cddcf101c7f2d5380c3cc59824c4904576"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/studyregion.py",
+        "path_type": "hardlink",
+        "sha256": "17b8c474e811f11e9d0142479657ebbc2f2fe4a09a7742641fe756b9c4b15cd4",
+        "size_in_bytes": 64986,
+        "sha256_in_prefix": "17b8c474e811f11e9d0142479657ebbc2f2fe4a09a7742641fe756b9c4b15cd4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/legacy/studyregiondataframe.py",
+        "path_type": "hardlink",
+        "sha256": "8972ba3de11cb2d0ca597396c1e1605adb958cfb585e68531e20699400b5ece8",
+        "size_in_bytes": 6686,
+        "sha256_in_prefix": "8972ba3de11cb2d0ca597396c1e1605adb958cfb585e68531e20699400b5ece8"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tornado/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b",
+        "size_in_bytes": 394,
+        "sha256_in_prefix": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tornado/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6678d4d7af41830ccceec2a838315e2d159ee83dec21bc18e76c442f3e9f0c9d",
+        "size_in_bytes": 506,
+        "sha256_in_prefix": "6678d4d7af41830ccceec2a838315e2d159ee83dec21bc18e76c442f3e9f0c9d"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tornado/__pycache__/classes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "211f40d326513bce4f92c9e9c4d477655956c5c6f11d00f16121619fcf6d0def",
+        "size_in_bytes": 1310,
+        "sha256_in_prefix": "211f40d326513bce4f92c9e9c4d477655956c5c6f11d00f16121619fcf6d0def"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tornado/__pycache__/tornado.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "82390eb3e1e3af56dda83806c9fd78e9c5767d3b18958b69f28db8ad2ff776c4",
+        "size_in_bytes": 640,
+        "sha256_in_prefix": "82390eb3e1e3af56dda83806c9fd78e9c5767d3b18958b69f28db8ad2ff776c4"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tornado/classes.py",
+        "path_type": "hardlink",
+        "sha256": "01d8d633575d9ca283f935aa300cfbd7c326aab22413b68ed448f135bdf82159",
+        "size_in_bytes": 665,
+        "sha256_in_prefix": "01d8d633575d9ca283f935aa300cfbd7c326aab22413b68ed448f135bdf82159"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tornado/tornado.py",
+        "path_type": "hardlink",
+        "sha256": "8a8cd68d1ef2d231464b91c002978b47a0631eac4b1f447034fd52775055c194",
+        "size_in_bytes": 253,
+        "sha256_in_prefix": "8a8cd68d1ef2d231464b91c002978b47a0631eac4b1f447034fd52775055c194"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b",
+        "size_in_bytes": 394,
+        "sha256_in_prefix": "be50734b094a0d720ad3c18da997437966631f4363ee45a2c258f9d895ee992b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1441bbf3d63d264530df45182320c7462167a7a2969e196a86e4ef4bc188cd7",
+        "size_in_bytes": 506,
+        "sha256_in_prefix": "f1441bbf3d63d264530df45182320c7462167a7a2969e196a86e4ef4bc188cd7"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/__pycache__/classes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0d34c37deef592ab560cc3835988ae108961e55c35003c253afd1bd55be18991",
+        "size_in_bytes": 1034,
+        "sha256_in_prefix": "0d34c37deef592ab560cc3835988ae108961e55c35003c253afd1bd55be18991"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/__pycache__/general_building_stock.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6720a1ebd586ac11ee15a8858838fe4e324f766f7dd03ea76ab5ad327281bd8b",
+        "size_in_bytes": 732,
+        "sha256_in_prefix": "6720a1ebd586ac11ee15a8858838fe4e324f766f7dd03ea76ab5ad327281bd8b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/__pycache__/tsunami.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c3fa4deb529d528f68228d9d7bec16d0a1b8375ab635f7805fef9da3e4f34e33",
+        "size_in_bytes": 1013,
+        "sha256_in_prefix": "c3fa4deb529d528f68228d9d7bec16d0a1b8375ab635f7805fef9da3e4f34e33"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/__pycache__/udf.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "695394504a392f4ebae168ea90e322dde4c456632a45459460d69729360078fe",
+        "size_in_bytes": 665,
+        "sha256_in_prefix": "695394504a392f4ebae168ea90e322dde4c456632a45459460d69729360078fe"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/classes.py",
+        "path_type": "hardlink",
+        "sha256": "948ba7228232df163f3b3654fa6a3e1b71c99943f19c9405de3e4a16bc6d7b73",
+        "size_in_bytes": 498,
+        "sha256_in_prefix": "948ba7228232df163f3b3654fa6a3e1b71c99943f19c9405de3e4a16bc6d7b73"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/general_building_stock.py",
+        "path_type": "hardlink",
+        "sha256": "9214beb30b005458096e9df466da63e51c8c27cc715a2b4c384c54dea797c764",
+        "size_in_bytes": 177,
+        "sha256_in_prefix": "9214beb30b005458096e9df466da63e51c8c27cc715a2b4c384c54dea797c764"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/modules/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3f3579dc42575e65c370fe7f53611f9f076bb064f8955d4939c76c0ceff23df7",
+        "size_in_bytes": 543,
+        "sha256_in_prefix": "3f3579dc42575e65c370fe7f53611f9f076bb064f8955d4939c76c0ceff23df7"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/modules/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ff86fcf48edf631732fcbbebf98cfff740d0403f35726e265164ce79cec7257",
+        "size_in_bytes": 637,
+        "sha256_in_prefix": "8ff86fcf48edf631732fcbbebf98cfff740d0403f35726e265164ce79cec7257"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/modules/__pycache__/general_building_stock.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d0508659efd75c8271cb99dab9347bd5293f98320926fa4a35e0e781b991e47b",
+        "size_in_bytes": 740,
+        "sha256_in_prefix": "d0508659efd75c8271cb99dab9347bd5293f98320926fa4a35e0e781b991e47b"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/modules/__pycache__/user_defined_facilities.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3526ef2c392c86b6a28f3ba4e3adf262a59e161958c0e4d0b1bc06ff04d96dce",
+        "size_in_bytes": 765,
+        "sha256_in_prefix": "3526ef2c392c86b6a28f3ba4e3adf262a59e161958c0e4d0b1bc06ff04d96dce"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/modules/general_building_stock.py",
+        "path_type": "hardlink",
+        "sha256": "9214beb30b005458096e9df466da63e51c8c27cc715a2b4c384c54dea797c764",
+        "size_in_bytes": 177,
+        "sha256_in_prefix": "9214beb30b005458096e9df466da63e51c8c27cc715a2b4c384c54dea797c764"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/modules/user_defined_facilities.py",
+        "path_type": "hardlink",
+        "sha256": "36c776f00a7d5aad62c4aa1a36643fb969759393d7e1cbc3f13bbd7dcf75106e",
+        "size_in_bytes": 176,
+        "sha256_in_prefix": "36c776f00a7d5aad62c4aa1a36643fb969759393d7e1cbc3f13bbd7dcf75106e"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/tsunami.py",
+        "path_type": "hardlink",
+        "sha256": "990b1ddad96079011633ec338aef7cfb33c3a281b5770ce34a55a579f8bdfc89",
+        "size_in_bytes": 455,
+        "sha256_in_prefix": "990b1ddad96079011633ec338aef7cfb33c3a281b5770ce34a55a579f8bdfc89"
+      },
+      {
+        "_path": "Lib/site-packages/hazpy/tsunami/udf.py",
+        "path_type": "hardlink",
+        "sha256": "c40a6170855172c847e64f0081e63b1b25dee2982e069f99eaf2b7c74d06ac7a",
+        "size_in_bytes": 158,
+        "sha256_in_prefix": "c40a6170855172c847e64f0081e63b1b25dee2982e069f99eaf2b7c74d06ac7a"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\hazpy-0.0.1-py39_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "hazpy==0.0.1=py39_0"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "powershell_shortcut",
+  "version": "0.0.1",
+  "build": "haa95532_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "powershell_shortcut-0.0.1-haa95532_4.conda",
+  "md5": "9a5196e515dccefaf0ddc40b454cf653",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/powershell_shortcut-0.0.1-haa95532_4.conda",
+  "sha256": "c5f3217a396f7629dbfba324bdc266bb697c2b902fba1a9ae7923886db5aadeb",
+  "depends": [
+    "python"
+  ],
+  "constrains": [
+    "anaconda-navigator >=1.9.8"
+  ],
+  "license": "BSD",
+  "timestamp": 1718997977000,
+  "size": 29653,
+  "requested_spec": "powershell_shortcut",
+  "package_tarball_full_path": "C:\\anaconda\\pkgs\\powershell_shortcut-0.0.1-haa95532_4.conda",
+  "extracted_package_dir": "C:\\anaconda\\pkgs\\powershell_shortcut-0.0.1-haa95532_4",
+  "files": [
+    "Menu/anaconda_powershell_console.ico",
+    "Menu/powershell_shortcut.json",
+    "Menu/powershell_shortcut.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\anaconda\\pkgs\\powershell_shortcut-0.0.1-haa95532_4",
+    "type": 1
+  },
+  "requested_specs": [
+    "powershell_shortcut"
+  ]
+}

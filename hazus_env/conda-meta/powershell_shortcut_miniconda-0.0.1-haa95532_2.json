@@ -1,0 +1,40 @@
+{
+  "name": "powershell_shortcut_miniconda",
+  "version": "0.0.1",
+  "build": "haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "powershell_shortcut_miniconda-0.0.1-haa95532_2.conda",
+  "md5": "59bb8090423226af076fd29f86911a85",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/powershell_shortcut_miniconda-0.0.1-haa95532_2.conda",
+  "sha256": "3763b5b9040bd04a87ec7cf630047d29324e5ccb17bcc2f274ed0f1a9162f5ab",
+  "depends": [
+    "python"
+  ],
+  "constrains": [
+    "anaconda-navigator >=1.9.8"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1719000612000,
+  "size": 29795,
+  "requested_spec": "powershell_shortcut_miniconda",
+  "package_tarball_full_path": "C:\\anaconda\\pkgs\\powershell_shortcut_miniconda-0.0.1-haa95532_2.conda",
+  "extracted_package_dir": "C:\\anaconda\\pkgs\\powershell_shortcut_miniconda-0.0.1-haa95532_2",
+  "files": [
+    "Menu/anaconda_powershell_console.ico",
+    "Menu/powershell_shortcut.json",
+    "Menu/powershell_shortcut.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\anaconda\\pkgs\\powershell_shortcut_miniconda-0.0.1-haa95532_2",
+    "type": 1
+  },
+  "requested_specs": [
+    "powershell_shortcut_miniconda"
+  ]
+}

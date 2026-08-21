@@ -1,0 +1,180 @@
+{
+  "name": "python-bidi",
+  "version": "0.4.2",
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/nsls2forge/noarch",
+  "subdir": "noarch",
+  "fn": "python-bidi-0.4.2-py_0.tar.bz2",
+  "md5": "1420a2d138bec9333141e8ce79f73aaf",
+  "url": "https://conda.anaconda.org/nsls2forge/noarch/python-bidi-0.4.2-py_0.tar.bz2",
+  "sha256": "",
+  "depends": [
+    "python",
+    "six"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "LGPLv3",
+  "package_type": "noarch_python",
+  "timestamp": 1603385936927,
+  "size": 30094,
+  "requested_spec": "python-bidi==0.4.2=py_0",
+  "package_tarball_full_path": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\python-bidi-0.4.2-py_0.tar.bz2",
+  "extracted_package_dir": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\python-bidi-0.4.2-py_0",
+  "files": [
+    "Lib/site-packages/bidi/__init__.py",
+    "Lib/site-packages/bidi/algorithm.py",
+    "Lib/site-packages/bidi/mirror.py",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/AUTHORS.rst",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/COPYING",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/COPYING.LESSER",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/METADATA",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/RECORD",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/WHEEL",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/entry_points.txt",
+    "Lib/site-packages/python_bidi-0.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/bidi/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/bidi/__pycache__/algorithm.cpython-39.pyc",
+    "Lib/site-packages/bidi/__pycache__/mirror.cpython-39.pyc",
+    "Scripts/pybidi-script.py",
+    "Scripts/pybidi.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "site-packages/bidi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ae3545ba49966c0c30a8ea3e0a53e7e18daa8a0c92083941d7d1a46014af3b3f",
+        "size_in_bytes": 2886,
+        "sha256_in_prefix": "ae3545ba49966c0c30a8ea3e0a53e7e18daa8a0c92083941d7d1a46014af3b3f"
+      },
+      {
+        "_path": "site-packages/bidi/algorithm.py",
+        "path_type": "hardlink",
+        "sha256": "4414e63b54123acf8430581daf9dc15b3dae793599a61b52d6aa69ab80b90844",
+        "size_in_bytes": 21311,
+        "sha256_in_prefix": "4414e63b54123acf8430581daf9dc15b3dae793599a61b52d6aa69ab80b90844"
+      },
+      {
+        "_path": "site-packages/bidi/mirror.py",
+        "path_type": "hardlink",
+        "sha256": "a47d40ff37e497aab54a04204878dbf3a64fd464e567a8274694d8f443e690ec",
+        "size_in_bytes": 22542,
+        "sha256_in_prefix": "a47d40ff37e497aab54a04204878dbf3a64fd464e567a8274694d8f443e690ec"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "0aca5aafbe78be9dd812bfc08cf083767a25ab0b655ee7373b5af04e6bf53bda",
+        "size_in_bytes": 282,
+        "sha256_in_prefix": "0aca5aafbe78be9dd812bfc08cf083767a25ab0b655ee7373b5af04e6bf53bda"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/COPYING",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147,
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/COPYING.LESSER",
+        "path_type": "hardlink",
+        "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768",
+        "size_in_bytes": 7651,
+        "sha256_in_prefix": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bae2c6ab96a369c1f6af8ad49a8f07ec57b11ff6126dd53c1b48418e0d684876",
+        "size_in_bytes": 4646,
+        "sha256_in_prefix": "bae2c6ab96a369c1f6af8ad49a8f07ec57b11ff6126dd53c1b48418e0d684876"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5716d58db85616bef3eda3ef2a60d8d226be15200838f0fc00c97bd08da922d2",
+        "size_in_bytes": 1422,
+        "sha256_in_prefix": "5716d58db85616bef3eda3ef2a60d8d226be15200838f0fc00c97bd08da922d2"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "size_in_bytes": 110,
+        "sha256_in_prefix": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b2e34779c6e7415751969dec63640c985965b0b79eb6569271f46419f27c4714",
+        "size_in_bytes": 107,
+        "sha256_in_prefix": "b2e34779c6e7415751969dec63640c985965b0b79eb6569271f46419f27c4714"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "7843815b1deb0cb1834e1c795ee7ff2db26ecc1243e0b07bca80e99e8f492600",
+        "size_in_bytes": 38,
+        "sha256_in_prefix": "7843815b1deb0cb1834e1c795ee7ff2db26ecc1243e0b07bca80e99e8f492600"
+      },
+      {
+        "_path": "site-packages/python_bidi-0.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1dd8f8c9fe886abce8f3f8e0fcb0ae51c86f3e481d09112f1d04080c25b639e1",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "1dd8f8c9fe886abce8f3f8e0fcb0ae51c86f3e481d09112f1d04080c25b639e1"
+      },
+      {
+        "_path": "Lib/site-packages/bidi/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 1501
+      },
+      {
+        "_path": "Lib/site-packages/bidi/__pycache__/algorithm.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 11245
+      },
+      {
+        "_path": "Lib/site-packages/bidi/__pycache__/mirror.cpython-39.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 6511
+      },
+      {
+        "_path": "Scripts/pybidi-script.py",
+        "path_type": "windows_python_entry_point_script",
+        "size_in_bytes": 196
+      },
+      {
+        "_path": "Scripts/pybidi.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Caroline Taylor\\anaconda3\\pkgs\\python-bidi-0.4.2-py_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "python-bidi==0.4.2=py_0"
+  ]
+}
